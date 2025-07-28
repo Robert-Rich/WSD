@@ -1,0 +1,69 @@
+
+<entry done=TRUE uid=524100>hurdle
+<lex>
+<sen uid=524104    ord=1 tag=jump>
+<gr>nc</gr>
+<field>Athletics, Horse-racing</field>
+<def>one of a series of light frames to be cleared by athletes, horses, greyhounds, etc, in a race</def>
+<ex>This well-bred mare, unconsidered in the betting, took up the lead from the fifth flight of hurdles.</ex>
+<ex>Bar Fly just clipped the top of the hurdle and came down.</ex>
+<ex>The champion jockey was referring to the new plastic hurdles which can be moved while the course is rolled and harrowed between races. </ex></sen>
+<sen uid=524102    ord=2 tag=horse>
+<gr>nc</gr>
+<field>Horse-racing</field>
+<def>a horse-race over hurdles</def>
+<ex>The gelding won a small but well-contested juvenile hurdle at Fakenham last  February, and finished second on his first run of the new jumping season at Market Rasen 11 days ago. </ex>
+<ex>&ellip. at the unrewarding odds of 4-11 in the novice hurdle.</ex>
+<ex>&ellip. an impressive winner of the Challow Hurdle at Newbury yesterday.</ex>
+<sen uid=534240   ord=2a tag=horsemod>
+<vf>hurdles</vf>
+<gr>n-mod</gr>
+<field>Horse-racing</field>
+<def>modifying another noun</def>
+<ex>&ellip. victory in an #11,000 hurdle race with Kadan at Ascot at the weekend.</ex>
+<ex>Pipe and Scudamore won two of the three hurdles trials.</ex></sen></sen>
+<sen uid=524099    ord=3 tag=race>
+<dfrm>hurdles</dfrm>
+<gr>n-pl</gr>
+<field>Athletics</field>
+<def>an athletics  race over hurdles</def>
+<ex>Sally Gunnell of Britain won the 400 metres hurdles in 56.09sec by an enormous margin.</ex>
+<ex>Mr Collins flew the 25-metre hurdles race in an impressive 20.7 seconds.</ex></sen>
+<sen uid=524098    ord=4 tag=fence>
+<gr>nc</gr>
+<def>a portable rectangular frame strengthened with withes or wooden bars, used as a temporary fence</def>
+<ex>I learned to make these traditional fencing hurdles when I was a lad.</ex></sen>
+<sen uid=524097    ord=5 tag=obstacle>
+<gr>nc</gr>
+<def>(in metaphorical use) an obstacle or difficulty</def>
+<ex>Notwithstanding the legal and practical hurdles involved, resistance to takeover still remains strong.</ex>
+<ex>The bill cleared its final hurdle in the Commons early yesterday.</ex>
+<ex>But, even at this stage, there are many hurdles to overcome.</ex>
+<ex>Empire Stores also faces the hurdle of being the minnow in a market dominated by whales. </ex></sen>
+<sen uid=524103    ord=6 tag=verb>
+<gr>vi</gr>
+<def>(of a person or animal) to race or jump over hurdles</def>
+<ex>Police are aiming to track down 30 athletes who hurdled over closed barriers at a railway level-crossing moments before a train hurtled through. </ex>
+<ex>This High Line gelding, who won twice last winter, hurdled fluently on his first run of the season.</ex>
+<sen uid=534287 tag=verbtrans ord=6a>
+<gr>vt</gr>
+<def>as a transitive verb</def>
+<ex>&ellip. if all 450 runners had hurdled the barriers.</ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=524106>hurdling
+<lex>
+<sen ord=1 uid=524105  tag=sport>
+<gr>nu</gr>
+<field>Athletics, Horse-racing</field>
+<def>the sport of racing or running over hurdles</def>
+<ex>I dropped French at school and took up hurdling with the athletic team instead.</ex>
+<ex>Among the withdrawals at the five-day stage were Tim Etherington's Dramatic Event, who will stick to hurdling for the time being, and Bashful Boy.</ex>
+<sen uid=534288 tag=sportmod ord=1a>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>&ellip.  most impressive on his hurdling debut when winning easily by 20 lengths at Haydock. </ex>
+<ex>&ellip. could have just about every hurdling trophy worth winning on his mantlepiece come the end of the season.</ex></sen></sen>
+<sen ord=2 uid=524112  tag=fencing>
+<gr>nu</gr>
+<def>fencing consisting of hurdles; material used for making hurdles</def>
+<ex>&ellip. carrying the sheep hurdling, hurdles and stakes.</ex></sen></lex></entry>

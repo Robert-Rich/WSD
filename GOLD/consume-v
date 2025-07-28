@@ -1,0 +1,186 @@
+700001:time
+700003:resource
+700008:feeling
+700009:resource
+700010:feeling
+700013:eat
+700014:feeling
+700015:eat
+700016:destroy
+700017:resource
+700018:eat
+700019:eat
+700020:destroy
+700021:eat
+700022:resource
+700023:use
+700024:use or resource
+700025:resource
+700026:destroy
+700027:eat
+700028:eat
+700029:eat
+700030:feeling
+700032:resource
+700035:destroy or use or resource
+700036:destroy
+700039:eat
+700040:eat
+700041:eat
+700042:eat
+700043:resource
+700045:resource
+700050:feeling
+700051:eat
+700053:resource
+700054:resource
+700055:read
+700056:eat or use
+700057:resource
+700058:eat
+700059:resource
+700060:destroy or feeling
+700062:feeling
+700063:resource or eat
+700065:feeling
+700067:use
+700069:resource or destroy or use
+700070:eat
+700071:resource
+700072:read
+700074:destroy
+700077:resource
+700078:eat
+700081:resource
+700082:resource
+700083:eat or use
+700085:resource
+700086:eat
+700087:eat
+700091:feeling
+700093:feeling
+700095:eat
+700096:eat
+700098:resource
+700099:destroy
+700100:eat
+700103:eat
+700104:eat
+700105:eat
+700106:destroy or feeling
+700111:eat
+700112:eat
+700113:resource
+700114:eat
+700115:resource
+700116:eat
+700117:resource or use
+700118:use or resource
+700119:feeling
+700121:eat
+700122:eat
+700123:resource
+700124:destroy or resource
+700125:resource or use
+700126:eat
+700127:use
+700129:resource
+700130:resource
+700131:resource
+700132:resource
+700133:resource
+700135:resource
+700136:resource
+700137:eat
+700138:eat
+700141:resource or destroy
+700142:resource
+700143:eat
+700144:eat
+700145:eat
+700147:use
+700148:eat
+700149:eat
+700151:resource
+700152:eat
+700153:resource
+700154:feeling
+700155:eat
+700156:use or resource
+700157:use
+700158:resource
+700160:resource or eat
+700162:feeling
+700165:eat
+700166:resource
+700167:eat
+700168:eat
+700170:resource
+700171:feeling
+700173:eat
+700174:use
+700176:destroy or feeling
+700178:resource
+700180:resource
+700181:feeling
+700182:eat
+700183:feeling
+700185:eat
+700188:feeling
+700191:eat
+700193:eat
+700194:resource
+700195:resource
+700197:destroy
+700199:eat
+700200:use or read
+700203:eat
+700204:resource
+700206:resource
+700207:destroy or feeling
+700211:eat
+700212:use
+700213:eat
+700215:eat
+700216:eat
+700217:feeling
+700219:read
+700220:read
+700221:eat
+700223:eat
+700225:resource
+700226:eat
+700227:eat
+700229:eat
+700230:resource
+700232:resource
+700233:resource
+700234:resource
+700237:use
+700239:feeling
+700245:eat
+700246:eat
+700248:eat
+700249:destroy or eat
+700251:feeling
+700253:eat
+700258:eat
+700259:eat
+700260:eat
+700261:eat
+700262:resource
+700263:feeling
+700264:resource
+700265:resource
+700266:eat
+700267:resource
+700268:use
+700269:eat
+700270:eat
+700271:feeling
+700273:feeling
+700275:resource
+700277:eat
+700278:use
+700279:eat
+700280:feeling

@@ -1,0 +1,94 @@
+
+<entry done=TRUE>giant
+<lex>
+<sen uid=530189  ord=1 tag=myth>
+<gr>nc</gr>
+<def>a mythical, pseudo-historical, or fictional being of human form but superhuman size</def>
+<ex>Orion is the blinded giant of Greek myth whose constellation is seen `striding" over the Northumbrian coast.</ex>
+<ex>The Teddy Robber, &quid.6.95 is a wonderfully funny story of a giant who's lost his teddy bear so he goes around stealing other teddies from wherever he can.</ex>
+<sen uid=530300  ord=1.1 tag=extmet>
+<gr>nc</gr>
+<def>in extended or metaphorical use</def>
+<ex>At the start, purple steam billowed round from behind what appeared to be a giant bathroom curtain. When it rose, you half expected to find a giant taking a shower.</ex>
+<ex>In spite of its lacunae and eccentricities, the OHEL volume established Lewis beyond question as a giant among the pygmies of the Oxford English Faculty.</ex>
+<ex>&ellip. the rolling, jangling noise, as of a giant casting a couple of handfuls of iron poles down some metallic tunnel or channel.</ex>
+<ex>The great metal roof-tree which held the house together had bent inwards as though from some giant's blow.</ex></sen></sen>
+<sen uid=530185  ord=2 tag=bigman>
+<gr>nc</gr>
+<reg>informal</reg>
+<def>someone or something that is very big; in particular, a very tall man</def>
+<ex>Perhaps it seems that KRS takes himself a bit too seriously, but this 6 foot 6 giant is a gentle, intelligent figure with a soft chuckle.</ex>
+<ex>&ellip. their second-row Boblin Tuavao, a 22-year-old Tongan giant.</ex>
+<ex>The biggest one, called Giant Tree, is 53ft in circumference, and was already a sturdy giant when Christ walked the hills of Galilee.</ex>
+<sen uid=530280  ord=2.1 tag=bigex>
+<gr>nc</gr>
+<def>a relatively large, important, or powerful example of its kind; someone or something that is pre-eminent in a particular field; often, a team or competitor considered more powerful than its rivals</def>
+<ex>King Lear is a giant of a play, four hours of tempest, turbulence, rage and repentance, but the time flies.</ex>
+<ex>He was a giant among actors.</ex>
+<ex>Carl Gustav Jung, pioneering psychologist and `one of the intellectual giants of the twentieth century", has influenced an unlikely band of individuals ranging from Sting to Prince Charles.</ex>
+<ex>The penultimate Five Disciplines League clash saw giants St Edwards and Manulife Abingdon finally face each other.</ex>
+<ex>There's a clash of the giants in the Pall Mall Hurdles where Skyline Prince and Edward's Surprise look to have the race between them.</ex></sen>
+<sen uid=530183  ord=2.2 tag=bigorg>
+<gr>nc; usu after n-mod</gr>
+<def>in particular, a very large or powerful industrial company; a business organization that dominates its market</def>
+<ex>Warring electronics giants GEC and Plessey are poised to sign a truce.</ex>
+<ex>Though Neste recognises that it will never compete with the world's oil giants, it has set up exploration units in America, the Middle East and Europe to establish new sources of oil.</ex>
+<ex>The deal, designed to fend off plans by rival US car giant Ford for a hostile takeover of Jaguar, is expected to involve an issue of new shares to GM.</ex>
+<ex>Honda, the Japanese giant, is showing the Pan-European ST1100, a large, expensive touring motorcycle that is similar to a German BMW.</ex></sen>
+<sen uid=530268  ord=2.3 tag=star>
+<gr>nc</gr>
+<field>Astronomy</field>
+<def>a relatively massive star of high intrinsic luminosity and low mean density</def>
+<ex>We now know that Mira is a star near the end of its life, which has swollen to become a red giant &dash. a star hundreds of times the size of the sun.</ex>
+<see>
+<xtyp>See also SUPERGIANT</xtyp></see>
+<note>mainly in the collocation `red giant"</note></sen></sen>
+<sen uid=530187  ord=3 tag=teams>
+<dfrm>Giants</dfrm>
+<gr>n-prop</gr>
+<def>in names of sports teams</def>
+<ex>&ellip. San Francisco Giants.</ex>
+<ex>Manchester Giants &ellip. stay second in the table after a 103-88 win over Derby.</ex>
+<ex>The odds had turned towards the Giants on Sunday after a 6-4 win at Candlestick Park.</ex></sen>
+<sen uid=530184  ord=4 tag=vbig>
+<gr>adj-classif; attrib</gr>
+<def>abnormally or extraordinarily large; (of a company) very large and important in its market; often, denoting an imaginary object of the kind stated but much larger than normal</def>
+<ex>The chamber will be backing a Christmas lights display including a giant Christmas tree on Church Green.</ex>
+<ex>Output at BP's giant Forties field would be boosted by an enhanced recovery technique.</ex>
+<ex>Howard, who has made remarkable progress this summer, took another giant step forward with a personal best of 14.88m in the triple jump.</ex>
+<ex>&ellip. Monsanto, the giant US chemicals company.</ex>
+<ex>Yellow diggers and dumpers moved like giant crabs in a sludge of churned earth and mud.</ex>
+<ex>Ragworms are like giant millipedes and once I dug up one that was just under three feet long.</ex>
+<ex>There are vast squares of clear-cut forest, where it looks as if a giant scythe has scalped the land, interspersed with thinner zones of standing timber.</ex>
+<sen uid=530266  ord=4.1 tag=species>
+<gr>adj-classif; attrib</gr>
+<def>in names of animal or plant species </def>
+<ex>The giant panda, for instance, has nearly died out because its diet is
+ridiculous, its habitat is very demanding and its role in nature is minimal.</ex>
+<ex>The giant
+redwoods ringing his encampment were undamaged although with every time the
+earth trembled, branches rained from above.</ex>
+<note>ought really to do separate entries for these</note></sen>
+<sen uid=530322  ord=4.2 tag=vtall>
+<gr>adj-classif; attrib</gr>
+<reg>informal</reg>
+<def>denoting a very tall and well-built person</def>
+<ex>Widnes have been told that Emosi Koloto, their giant
+Tongan forward, needs an operation which will keep him out until after
+Christmas. </ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=530310>giant slalom
+<lex>
+<sen ord=1 uid=530267  tag=gislom>
+<gr>n-sing</gr>
+<field>Sport</field>
+<def>a downhill ski race on a long zigzag course marked by artificial obstacles, and descended singly by each competitor in turn</def>
+<ex>Urs Kaelin of Switzerland mastered the windy conditions to pull off a
+surprise triumph in the men's World Cup giant slalom at Waterville Valley,
+New Hampshire yesterday.</ex>
+<note hidden=TRUE>no plural exx in corpus</note>
+<sen uid=530369 tag=gismod ord=1a>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>The tour moves on to Mont Sainte Anne in Quebec for slalom and giant slalom
+races this weekend before transferring to Europe.</ex></sen></sen></lex></entry>

@@ -1,0 +1,323 @@
+700001:horse or P
+700002:horsemod
+700003:obstacle
+700004:horsemod or P or horse
+700005:obstacle
+700006:horsemod or P
+700007:obstacle
+700008:horsemod
+700009:obstacle
+700010:obstacle
+700011:horsemod or U
+700012:obstacle
+700013:race
+700014:horse or P
+700015:horsemod
+700016:horse or P
+700017:horsemod or P
+700019:obstacle
+700020:obstacle
+700021:jump
+700022:obstacle
+700023:horse or P
+700024:obstacle
+700025:P or horsemod
+700026:horse or P
+700027:obstacle
+700028:horse or P
+700029:obstacle
+700030:horsemod
+700031:race
+700032:jump
+700033:obstacle
+700034:horse or P
+700035:sport
+700036:obstacle
+700037:fence
+700038:horse or P
+700039:horse or P
+700040:horse or P
+700041:obstacle
+700042:jump
+700043:verbtrans or U
+700044:obstacle
+700045:obstacle
+700046:sportmod
+700047:horse
+700049:U or verb
+700050:jump
+700051:obstacle
+700052:horse or P
+700053:horsemod or P
+700056:horse or P
+700057:race
+700058:horse or P
+700059:horse or P
+700060:obstacle
+700061:obstacle
+700062:horse or P
+700063:fence
+700064:fence
+700065:race
+700066:jump or horse
+700067:obstacle
+700068:fence
+700069:jump
+700071:horse or P
+700072:horse or P
+700073:jump or obstacle
+700074:race or jump
+700075:horse or P
+700076:horse or P
+700077:horse or P
+700078:horse or P
+700079:race
+700080:horse or P
+700081:race
+700082:jump
+700083:obstacle
+700084:horse
+700085:horse or P
+700086:obstacle
+700087:horse or P
+700089:jump
+700090:obstacle or jump
+700091:obstacle
+700092:horsemod or P
+700093:horsemod
+700095:horse or P
+700096:jump
+700097:jump
+700098:horsemod
+700099:obstacle
+700100:horse or P or horsemod
+700101:horse or P
+700102:horse or P
+700103:obstacle
+700104:horse
+700105:horse or P
+700106:obstacle
+700107:horse or P
+700108:sportmod
+700109:jump
+700110:obstacle
+700111:jump
+700112:horse or P
+700113:horse or P
+700114:horse
+700115:horsemod or P
+700116:obstacle
+700117:obstacle
+700118:obstacle
+700119:horse or P
+700120:obstacle
+700121:horse or P
+700122:obstacle
+700123:horse or P
+700124:race
+700125:obstacle
+700126:obstacle
+700127:horse or P
+700128:horse or P
+700129:horse or P
+700130:race
+700131:obstacle
+700132:obstacle
+700133:obstacle
+700134:horsemod or P
+700135:obstacle
+700136:horsemod or P
+700137:horsemod
+700138:horse or P
+700139:obstacle
+700140:horse or P
+700141:fence
+700142:fence
+700143:race
+700144:obstacle
+700146:race or U
+700147:horsemod or P
+700148:horsemod
+700149:race
+700150:horse or P
+700151:horsemod
+700152:obstacle
+700153:jump
+700154:race
+700155:horse or P
+700156:jump
+700157:horse
+700158:horse
+700159:obstacle
+700161:jump
+700162:obstacle
+700163:obstacle
+700164:obstacle
+700165:obstacle
+700166:horse or P
+700167:horse or P
+700169:obstacle
+700170:horse or P
+700171:obstacle
+700172:obstacle
+700173:horsemod
+700174:horse or P
+700175:obstacle
+700176:obstacle
+700177:jump
+700178:fence
+700179:obstacle
+700180:horse or P
+700181:sportmod
+700182:horsemod or P
+700183:obstacle or jump
+700184:obstacle
+700186:sport
+700187:horsemod or P
+700188:fence
+700189:obstacle
+700190:race
+700191:obstacle
+700194:race
+700195:jump
+700196:horse
+700197:horsemod
+700198:jump
+700199:horse or P
+700200:horse or P
+700201:horse or P
+700202:obstacle
+700203:horsemod or P
+700204:obstacle
+700205:obstacle
+700206:horsemod
+700207:horse
+700208:horse or P
+700209:obstacle
+700210:jump
+700211:obstacle or jump or fence
+700213:horse or P
+700214:horse or P
+700215:horsemod or P
+700216:horse or P
+700217:horse
+700218:fence
+700219:horse or P
+700220:obstacle
+700221:obstacle
+700222:race
+700223:horsemod
+700224:horse or P
+700225:horse or P
+700226:horse or P
+700227:horse or P
+700228:obstacle
+700229:obstacle
+700231:horse or P
+700232:jump or race
+700233:horsemod
+700234:horse or P
+700236:obstacle
+700237:horsemod
+700238:fence
+700239:horsemod or P
+700240:obstacle
+700241:jump
+700242:horsemod
+700243:horsemod
+700244:obstacle
+700245:obstacle
+700246:obstacle
+700247:horse or P
+700248:horse or P
+700249:jump
+700250:obstacle
+700251:horse or P
+700252:obstacle
+700253:horse or P
+700254:horsemod
+700255:obstacle
+700256:horsemod or P
+700258:horsemod
+700259:obstacle
+700260:race
+700261:horse or P
+700262:horse or P
+700264:jump
+700266:obstacle
+700267:horse
+700269:obstacle
+700270:obstacle
+700271:obstacle
+700272:obstacle
+700273:obstacle
+700274:race
+700275:sportmod
+700276:obstacle
+700278:horse or P
+700279:horsemod or P
+700280:sport
+700281:horse or P
+700282:horse or P
+700283:horse or P
+700284:horse
+700285:horse or P
+700286:horse or P
+700288:jump
+700289:jump or race or horse
+700290:horsemod or P
+700291:race
+700292:horsemod or P
+700293:race
+700294:race
+700295:horse or P
+700296:horsemod or P
+700297:horse or P
+700298:obstacle
+700299:horse or P
+700301:horse
+700302:fence
+700303:obstacle
+700304:obstacle
+700305:obstacle
+700306:obstacle
+700307:horse
+700308:obstacle
+700309:horse
+700310:obstacle
+700311:fence
+700312:horsemod or P
+700313:obstacle
+700314:horsemod or P
+700315:horse or P
+700316:horse or P
+700317:horsemod
+700318:fence or jump
+700319:horse or P
+700320:horse or P
+700321:obstacle
+700322:jump
+700323:horse or P
+700324:race
+700325:horse or P
+700326:race
+700327:jump
+700328:horse or P
+700329:horse
+700330:obstacle
+700331:obstacle
+700332:horsemod or race
+700333:obstacle
+700334:obstacle
+700335:horse or P
+700336:obstacle
+700337:jump
+700338:horse or P
+700339:horse
+700340:obstacle
+700342:race
+700343:horse or P
+700344:obstacle
+700345:horse or P
+700346:horse
+700348:horse or P

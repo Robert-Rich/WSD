@@ -1,0 +1,64 @@
+
+<entry done=TRUE>steering
+<lex ord="">
+<sen uid=506800  tag=action ord=1>
+<gr>nu</gr>
+<field>Transportation</field>
+<def>the action of steering or guiding, esp. steering a vehicle or vessel to move it in a particular direction</def>
+<ex>&ellip. learner-drivers who want to practise their steering.
+<clues>c/vehicle</clues></ex>
+<ex>&ellip. a close race where Shrewsbury's poor steering made the difference.
+<clues>adj-qual =</clues></ex></sen>
+<sen ord=2 uid=506792  tag=mech>
+<gr>nu</gr>
+<field>Transportation</field>
+<def>the mechanism in a vehicle which makes it possible to steer</def>
+<ex>The 1.6S has a sunroof, power steering and central locking.
+<clues>power =</clues></ex>
+<ex>A Peugeot 309GTi offers more communicative steering.
+<clues>adj-qual =</clues></ex>
+<sen uid=533519  tag=mechmod ord=2a>
+<gr>n-mod</gr>
+<field>Transportation</field>
+<def>modifying another noun</def>
+<ex>&ellip. a 4,000-ton container ship which had lost its steering gear in force 11 winds.</ex>
+<ex>&ellip. a four-wheel drive, four-wheel steering saloon.
+<clues hidden=TRUE>= [vehicle]</clues></ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=525393>steering column
+<lex>
+<sen uid=525392  tag=steercol>
+<gr>nc</gr>
+<field>Transport</field>
+<def>a shaft or column connecting the steering-wheel of a vehicle to the rest of the steering gear and often carrying various control switches</def>
+<ex>Perhaps the
+most welcome change of all is the resiting of the automatic transmission
+selector lever from the steering column to the central console.
+<clues hidden=TRUE>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=533654>steering committee
+<lex>
+<sen uid=533652 tag=committee>
+<gr>nc</gr>
+<def>a committee deciding the order of dealing with business, or priorities and the general course of operations</def>
+<ex>The steering committee said the IMO should give urgent consideration to the adoption of higher international standards for existing ferries. </ex>
+<ex>A steering committee, composed  primarily of representatives from user groups, can be very helpful in assisting the team and assessing its work. </ex></sen></lex></entry>
+
+<entry done=TRUE uid=533679>steering group
+<lex>
+<sen uid=533653 tag=group>
+<gr>nc</gr>
+<ex>&ellip. the UK Aids Consortium in the Third World, a steering group which co-ordinates work on Aids by British charities in developing countries. </ex>
+<ex>A steering group of British academics and international lawyers is calling for a public tribunal on China's human rights record. </ex>
+<see>
+<xtyp>= STEERING COMMITTEE</xtyp></see></sen></lex></entry>
+
+<entry done=TRUE uid=533633>steering wheel
+<lex>
+<vf>steering-wheel</vf>
+<sen uid=533626  tag=wheel>
+<gr>nc</gr>
+<field>Transportation</field>
+<def>a wheel-shaped device by which a vehicle is steered</def>
+<ex>Safety features include an adjustable steering wheel evolved by Rover in collaboration with the Transport and Road Research Laboratory.</ex>
+<ex>She &ellip. watched her mother nervously hugging the steering wheel and peering at the road ahead. </ex></sen></lex></entry>

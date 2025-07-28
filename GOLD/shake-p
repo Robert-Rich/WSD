@@ -1,0 +1,356 @@
+700001:move
+700002:head
+700003:ideas
+700004:up
+700005:head
+700006:off
+700007:troubled
+700008:disturb
+700009:head
+700012:head
+700013:head
+700014:fist
+700015:move
+700016:ideas
+700017:troubled
+700018:move
+700019:up
+700020:disturb
+700021:head
+700022:emotion or P
+700023:up-noun
+700024:lose
+700025:disturb
+700026:clean
+700027:move or head
+700028:head
+700029:disturb or P
+700030:move
+700031:move
+700032:hand
+700033:hand
+700034:move
+700035:hand
+700036:ideas
+700037:disturb or troubled
+700038:head
+700039:troubled
+700040:head
+700041:up-noun
+700044:head
+700045:hand
+700046:head
+700047:move-absol
+700048:tremble
+700049:head
+700050:head
+700051:out-noun
+700052:disturb
+700053:tremble
+700054:hand
+700055:move or tremble
+700056:head
+700057:off
+700059:hand
+700060:hand
+700061:tremble
+700063:move-absol
+700064:up-noun
+700065:hand
+700066:head
+700067:head
+700068:clean or out
+700069:hand
+700071:head
+700072:head
+700073:off
+700074:up-noun
+700075:tremble
+700076:hand
+700079:troubled
+700081:movement
+700082:disturb or troubled
+700083:move
+700084:hand
+700085:hand
+700086:tremble
+700087:hand
+700088:head
+700089:hand
+700090:move or clean
+700092:out
+700093:hand
+700094:tremble
+700095:off
+700096:head
+700098:head
+700099:move
+700100:move
+700101:clean
+700102:tremble
+700103:move
+700104:head
+700105:move
+700106:tremble
+700107:up-noun
+700108:hand
+700109:hand
+700111:tremble
+700112:head
+700113:up-noun
+700114:off
+700115:head
+700116:move
+700117:move
+700118:ideas or U or off
+700120:troubled
+700121:ideas
+700122:ideas
+700123:off
+700125:hand
+700126:tremble
+700128:hand
+700129:troubled
+700130:hand
+700131:tremble
+700133:head
+700134:head
+700135:ideas
+700137:hand
+700138:up-noun
+700139:hand
+700140:head
+700141:ideas
+700143:disturb or troubled
+700144:up-noun
+700145:tremble
+700146:head
+700147:tremble
+700148:tremble
+700149:move
+700150:head
+700151:move or tremble
+700152:emotion or up
+700153:disturb or move
+700154:move
+700155:up-noun
+700156:up-noun
+700158:head
+700159:troubled
+700160:hand
+700161:hand
+700162:up
+700163:clean
+700164:tremble
+700165:up
+700166:hand
+700167:up-noun
+700168:clean
+700169:disturb or ideas
+700170:move or P or move-absol or clean
+700171:move or disturb
+700172:disturb
+700173:move or clean
+700174:head
+700175:emotion
+700176:lose or off
+700177:ideas
+700179:disturb
+700180:tremble
+700181:off
+700182:move
+700183:tremble
+700185:head
+700186:hand
+700188:move
+700189:tremble
+700190:head
+700191:head
+700193:up-noun
+700194:head
+700195:move
+700196:head
+700197:troubled
+700198:move
+700199:hand
+700202:disturb or ideas
+700203:ideas
+700204:move or up
+700205:ideas
+700207:hand
+700209:tremble
+700210:troubled or disturb
+700211:hand
+700212:off
+700213:emotion or up
+700214:hand
+700215:move
+700216:head
+700217:tremble
+700218:hand
+700219:lose
+700220:move
+700221:up or emotion
+700222:up-noun
+700223:head
+700224:head
+700225:move
+700226:out-noun
+700227:hand
+700228:hand
+700229:move
+700230:off
+700231:head
+700232:dust
+700233:troubled
+700234:head
+700235:hand
+700236:head
+700237:tremble
+700238:move
+700239:down-noun
+700240:ideas
+700241:head
+700242:head
+700243:lose
+700244:hand
+700245:disturb or ideas
+700246:move
+700247:up-noun
+700248:head
+700249:move
+700250:hand
+700251:move
+700252:hand
+700253:move
+700254:move or tremble
+700255:move
+700256:move
+700258:clean
+700259:tremble
+700260:move
+700261:tremble or move
+700262:disturb
+700263:move or lose
+700265:head
+700266:head
+700268:off
+700269:head
+700270:hand
+700271:clean or move
+700272:head
+700274:head
+700275:troubled
+700276:out-noun
+700277:tremble
+700278:hand
+700280:head
+700283:disturb
+700284:disturb
+700285:movement
+700286:tremble
+700287:move or lose
+700288:up-noun
+700289:head
+700290:hand
+700291:ideas
+700292:move
+700293:hand
+700294:down
+700295:troubled
+700296:head
+700297:disturb
+700298:head
+700299:up-noun
+700300:head
+700301:voice
+700302:head
+700303:move
+700304:move
+700305:hand
+700306:move or tremble
+700307:head
+700309:head
+700310:head
+700311:emotion
+700312:disturb or ideas
+700313:head
+700314:troubled
+700315:ideas
+700316:head
+700317:tremble
+700318:move
+700319:up-noun
+700320:hand
+700321:move
+700322:move
+700323:head
+700324:head
+700325:out
+700326:move
+700327:head
+700328:ideas
+700329:head
+700330:disturb
+700331:disturb
+700332:head
+700333:disturb
+700334:voice
+700335:agitate
+700337:head
+700338:head
+700339:disturb or troubled
+700340:move
+700341:off
+700343:up
+700344:out-noun
+700345:clean
+700346:head
+700347:head
+700348:hand
+700349:head
+700350:up-noun
+700351:head
+700352:move
+700353:move
+700354:move
+700356:tremble or move
+700358:move
+700359:tremble
+700360:hand
+700361:head
+700362:fist
+700363:hand
+700364:up-noun
+700365:head
+700366:head
+700367:up-noun
+700368:head
+700369:move
+700370:hand
+700371:hand
+700372:head
+700373:move
+700374:head
+700375:head
+700376:hand
+700377:up-noun
+700378:move
+700379:off
+700380:troubled
+700382:head
+700383:emotion
+700384:disturb or ideas
+700385:head
+700387:move
+700388:head
+700389:move
+700390:move or disturb
+700392:head
+700393:hand
+700394:agitate
+700396:troubled
+700397:head
+700398:move
+700399:tremble
+700400:out-noun

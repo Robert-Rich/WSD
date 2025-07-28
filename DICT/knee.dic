@@ -1,0 +1,225 @@
+
+<entry done=TRUE>knee
+<lex>
+<sen uid=516619  ord=1 tag=patella>
+<gr>nc</gr>
+<field>Anatomy</field>
+<def>the joint between the thigh and the lower leg in humans; the corresponding joint in other animals; also, the skin and flesh covering this joint on the anterior side of the leg</def>
+<ex>She sat upright with her hands on her knees.</ex>
+<ex>She sank in mud almost to her knees.</ex>
+<ex>He scrambled down from the tree with such haste that he skinned his knees</ex>
+<ex>Dress regulations were strictly enforced at the stewards' enclosure &dash. any hemline above the knee was turned away by security men.</ex>
+<ex>You'd take a lovely walk down the field and then suddenly you'd be up to your knees in a bog.</ex>
+<ex>Ratcliffe's knees trembled beneath the heavy tweed.</ex>
+<ex>Craig Levein, fully recovered from two major operations on damaged cruciate ligaments in a knee, returns &ellip. today.</ex>
+<sen uid=517036  ord=1a tag=patellamod>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>A succession of serious foot and knee injuries plagued his career</ex>
+<ex>The 28-year-old centre had his right leg in plaster for five weeks after damaging knee ligaments.</ex>
+<ex>Botham will not require a second knee operation.</ex>
+<ex>Demand for hip and knee replacements, particularly among Britain's ageing population, is increasing.</ex></sen>
+<sen uid=516629  ord=1.1 tag=garment>
+<gr>nc</gr>
+<def>the part of a garment covering the knee</def>
+<ex>Henry put on his much-loved green Barbour jacket and baggy fawn cords with worn knees.</ex>
+<ex>Simon stood up and dusted off the knees of his jeans.</ex></sen>
+<sen uid=516655  ord=1.2 tag=bow>
+<idi>bow the knee, bend the knee</idi>
+<gr>phr/n; usu with `to"</gr>
+<def>to submit obediently to or acknowledge the superiority of another person</def>
+<ex>Bath bowed the knee to Gloucester in the league, so why not in the cup?
+<clues>v/(bow,bend) the obj/=</clues></ex>
+<ex>The resignation of Michael Heseltine during the Westland affair was the most notable previous occasion when a minister refused to bend the knee.</ex></sen>
+<sen uid=516709  ord=1.3 tag=weak>
+<idi>weak at the knees</idi>
+<gr>phr/n</gr>
+<def>wobbly, nervous; overcome with emotion or fear</def>
+<ex>There was something about his voice that moved her, made her go weak at the knees.
+<clues>weak_at_the_n-pl/=</clues></ex></sen></sen>
+<sen uid=516631  ord=2 tag=kneeling>
+<gr>nc; after prep+det; usu pl</gr>
+<def>the knee when bent and resting on the ground; a kneeling position</def>
+<ex>Shirley, who was on her knees, struggled to her feet and tugged down her skirt.
+<clues>subj[person] v/be prep/on det-poss =</clues></ex>
+<ex>He dropped to his knees and begged her forgiveness.
+<clues>subj[person] v/drop prep/to det-poss =</clues></ex>
+<ex>The rest of the squad fell to one knee, and I heard the smart click of rifle bolts.
+<clues>subj[person] v/fall prep/to one=</clues></ex>
+<ex>They got up off their knees and stood over the bed.
+<clues>v/get up prep/off det-poss =</clues></ex>
+<sen uid=516717  ord=2.1 tag=bend>
+<idi>on bended knee, on one's bended knees</idi>
+<gr>phr/n</gr>
+<def>kneeling, especially in supplication, submission, or worship</def>
+<ex>He proposed on bended knee by the garden gate where he had first kissed her goodnight.
+<clues>prep/on bended prep-obj/=</clues></ex>
+<ex>The grave-diggers were down here on their bended knees begging him for forgiveness.</ex>
+<note>Wasn't sure whether to leave this here, or to cross refer it to bend, to an entry for bended, or an entry for bended knee.</note></sen>
+<sen uid=516627  ord=2.2 tag=handsand>
+<idi>on (one's) hands and knees</idi>
+<gr>phr/n</gr>
+<def>with one's hands and knees touching the ground</def>
+<ex>A pearl necklace had broken and two liveried
+servants scrabbled on hands and knees to retrieve the jewels.</ex>
+<ex>She fell on her hands and knees and crawled toward
+the window until she was almost underneath it.</ex></sen>
+<sen uid=516633  ord=2.3 tag=onits>
+<idi> on one's knees</idi>
+<gr>phr/n</gr>
+<def>(of a country or a business enterprise) seriously weakened, just short of total collapse</def>
+<ex>Cessna is out of the light aircraft market forever and Piper is on its knees.</ex></sen>
+<sen uid=516630  ord=2.4 tag=bringto>
+<idi>bring someone or something to its knees</idi>
+<gr>phr/n</gr>
+<def>to reduce someone or something to a position of weakness or submission</def>
+<ex>&ellip. a proud union which could once bring an industrial economy to its knees.
+<clues>v/bring prep/to pron-poss prep-obj/=</clues></ex>
+<ex>We are not trying to bring South Africa to its knees, but to the negotiating table.</ex></sen></sen>
+<sen uid=516632  ord=3 tag=lap>
+<gr>nc; with poss; usu sing</gr>
+<def>the part of the leg just above the knee of a seated person</def>
+<ex>She unfolded the map on her knee.</ex>
+<ex>Emily refuses to sit on my knee.</ex>
+<ex>I wanted to put you over my knee and spank you.</ex>
+<ex>The Times Literary Supplement was open on my knees.</ex>
+<sen uid=516706  ord=3.1 tag=atsbs>
+<idi>learn something at one's mother's knee, learn something at one's father's knee, be told something at one's mother's knee, and variants</idi>
+<gr>phr/n</gr>
+<def>to learn or be told something at an early age</def>
+<ex>Wilfred was now learning his alphabet at his mother's knee.
+<clues>prep/at poss/(mother,father) prep-obj/=</clues></ex>
+<ex>We're the generation after the one which was told stories at their father's knee.</ex></sen></sen>
+<sen uid=516648  ord=4 tag=verb>
+<gr>vt, vi; with adjunct-dir</gr>
+<def>to touch or strike with the knee</def>
+<ex>Turner spun round, kneed him on the inside of the left thigh and punched him in the right eye.</ex>
+<ex>Somehow he &ellip. kneed Nogan's shot away from five yards.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=516671>knee-breeches
+<lex>
+<sen uid=516670  tag=breech>
+<gr>n-pl</gr>
+<field>Clothing</field>
+<def>trousers reaching to or just below the knee</def>
+<ex>They were willing to hire court dress (though not knee-breeches) from Moss Bros.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=516757>kneecap
+<lex>
+<sen uid=516668  tag=cap>
+<gr>nc</gr>
+<field>Anatomy</field>
+<def>the convex bone in front of the knee-joint</def>
+<ex>His injury &ellip. is worse than first thought, with the kneecap cracked in seven places.
+<clues>=</clues></ex>
+<see>
+<xtyp>= PATELLA</xtyp></see></sen></lex></entry>
+
+<entry done=TRUE>knee-deep
+<lex>
+<sen uid=516678  ord=1 tag=deep>
+<gr>adj-classif</gr>
+<def>(of water, snow, mud, etc.) so deep as to reach an adult's knees</def>
+<ex>Water was knee deep in their living room.</ex>
+<ex>Knee deep snow meant poor catches in the Snape Open on the Swale at Salmon Hall Farm.</ex>
+<ex>Would you let the lawn grow knee-deep, ignore the leaky roof, send the kids to school without shoes, and sack the dustman, to save &quid.15 a year?</ex></sen>
+<sen uid=517325  ord=2 tag=init>
+<gr>adj-classif; pred; with `in"</gr>
+<def>(of a person) immersed up to the knees</def>
+<ex>He was beside Hare at the Bofors, already knee-deep in water.</ex></sen>
+<sen uid=517341  ord=3 tag=initfig>
+<gr>adj-classif; pred; with `in"</gr>
+<reg>informal</reg>
+<def>having more than one needs or wants of the thing specified</def>
+<ex>While there almost certainly will be cheap charter holidays around in the off-peak months, don't expect to be knee-deep in bargains during the school holidays.</ex></sen></lex></entry>
+
+<entry done=TRUE>knee-high
+<lex>
+<sen uid=517238  ord=1 tag=high>
+<gr>adj-classif</gr>
+<def>(of footwear) reaching to the knees</def>
+<ex>They faced the camera in their dungarees and jeans and cowboy-style holsters and knee-high boots.
+<clues>= [garment]</clues></ex>
+<note hidden=TRUE>also as n = knee-sock (N.Amer) - KB; no exx but very current</note></sen>
+<sen uid=517239  ord=2 tag=short>
+<gr>adj-classif; pred</gr>
+<reg>informal</reg>
+<def>(of a person) very short or very young</def>
+<ex>You'll derive deep satisfaction from being amongst those who've known and loved you since you were knee high.
+<clues>subj[person] comp/=</clues></ex>
+<sen uid=517258  ord=2a tag=grasshopper>
+<idi>knee-high to a grasshopper, and variants</idi>
+<gr>phr/adj</gr>
+<reg>informal</reg>
+<ex>Knee-high to a gnat but it made no difference. Couldn't stop him.
+<clues>= to a [insect]</clues></ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=516744>kneehole
+<lex>
+<sen uid=516705  tag=hole ord=1>
+<gr>nc</gr>
+<def>a space for the knees under a desk</def>
+<ex>Now she held one finger to her lips, picked up a portable radio from the kneehole beneath her desk and switched it on.</ex>
+<sen uid=516743  tag=holemod ord=1a>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>There was an old kneehole desk with a stained leather top.</ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=516730>knee-jerk
+<lex>
+<sen uid=516736  ord=1>
+<gr>nc</gr>
+<field>Medicine</field>
+<def>a sudden involuntary kick caused by a blow on the tendon just below the knee</def>
+<note hidden=TRUE>no corpus examples</note></sen>
+<sen uid=516647  tag=jerk ord=2>
+<gr>n-mod</gr>
+<def>(in pejorative use) designating responses or reactions that are immediate and unthinking</def>
+<ex>Knee-jerk reaction rather than strategic planning is the order of the day.</ex>
+<ex>If anything were at odds with the spirit of Malta it was the knee-jerk condemnation of America's action by the Soviet Union.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=517318>knee-length
+<lex>
+<sen uid=517085  tag=length>
+<gr>adj-classif; attrib</gr>
+<def>(of a garment) reaching to the knees</def>
+<ex>She wore a fetching, knee-length black dress.
+<clues>=</clues></ex>
+<ex>Tight denims clung to her legs and she wore knee-length leather boots.</ex>
+<note hidden=TRUE>comes more frequently before colour adjectives than after. I wouldn't call boots knee-length, I'd call them knee-high.</note></sen></lex></entry>
+
+<entry done=TRUE uid=517216>knee-pad
+<lex>
+<sen uid=517214  tag=pad>
+<gr>nc</gr>
+<def>a pad of foam or plastic worn to protect the knee, especially in sports activities</def>
+<ex>Helmets are &quid.30, knee-pads a tenner.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=517231>knee-sock
+<lex>
+<sen uid=517223  tag=sock>
+<gr>nc; usu pl</gr>
+<field>Clothing</field>
+<def>a sock covering the lower leg to just below the knee</def>
+<ex>The traditional kho, the brilliantly striped or tartan-checked dressing-gown-like robe for men, is hitched up above the knees with a tight belt and sets off figures a treat, to say nothing of the patterned knee-socks.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=516750>knees-up
+<lex>
+<sen uid=516686  tag=up>
+<gr>nc; usu sing</gr>
+<reg>British, informal</reg>
+<def>a lively party or gathering</def>
+<ex>I'm not talking about a loud, wild time or a side-splitting, back-slapping drunken knees-up.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=517029>knee trembler
+<lex>
+<sen uid=517028  tag=trembler>
+<gr>nc; usu sing</gr>
+<reg>highly informal</reg>
+<def>an act of sexual intercourse between persons in a standing position</def>
+<ex>It's easier if the man can stand so that he's a little lower than his partner. If you're both on the same level, it can be a strain on the legs &dash. and you may well find out why this position is often referred to as the `dreaded knee trembler"!
+<clues>=</clues></ex></sen></lex></entry>

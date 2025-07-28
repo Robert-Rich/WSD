@@ -1,0 +1,58 @@
+
+<entry done=TRUE uid=528437>rabbit
+<lex ord=1>
+<sen uid=528435  tag=anim ord=1>
+<gr>nc; also nu</gr>
+<field>Zoology</field>
+<def>any of various burrowing gregarious plant-eating mammals of the hare family, especially Oryctolagus cuniculus, with long ears and a short tail, varying in colour from brown in the wild to black and white, and kept as a pet or for meat or fur</def>
+<ex>Its 2 acres of garden supported a fine crop of nettles (not to mention a voracious population of rabbits).</ex>
+<ex>&ellip. the disease which killed millions of rabbits in the fifties and sixties.</ex>
+<ex>Miners, with guns over their shoulders, roam its maze of tracks on the look-out for duck and rabbit.</ex>
+<note hidden=TRUE>nu when hunting</note>
+<sen uid=528441  tag=food ord=1.1>
+<gr>nu</gr>
+<field>Food</field>
+<def>the meat of the rabbit</def>
+<ex>Rabbit bought in boneless cubes is twice as lean again, and has a good flavour.</ex>
+<ex>&ellip. kouneli stifado (rabbit and shallot stew).</ex></sen>
+<sen uid=528442  tag=fur ord=1.2>
+<gr>nu</gr>
+<def>the fur of a rabbit</def>
+<ex>The hero, though a loyal and prolific writer of books celebrating the public-spirited deeds of virtuous citizens, hasn't got into the ermine yet or even the rabbit.</ex>
+<note hidden=TRUE>lousy ex, only one</note></sen></sen>
+<sen uid=528439  tag=toy ord=2>
+<gr>nc</gr>
+<def>a child's soft toy in the shape of a rabbit</def>
+<ex>Pamela lost Victoria's precious blue rabbit.</ex>
+<note hidden=TRUE>not really worth separate sense except for collocates</note></sen>
+<sen uid=528440  tag=surprise ord=3>
+<gr>nc</gr>
+<def>(in metaphorical use, with reference to a conjuring trick whereby a rabbit is produced from the magician's hat) an action that is unexpected, fortuitous, and smacks of legerdemain</def>
+<ex>Your attempts to pull rabbits out of hats will not fool those who have to look at the figures in detail.</ex>
+<ex>He may yet have other rabbits in his hat.</ex>
+<ex>Out of the hat emerges the rabbit of humane, democratic socialism.</ex></sen></lex>
+<phr ord=2>rabbit on
+<sen uid=528436  tag=on>
+<gr>vi+adv</gr>
+<reg>informal British</reg>
+<def>(of a person) to talk excessively or pointlessly about a subject</def>
+<ex>John was rabbitting on again about the injustices of life, the universe and house prices.</ex></sen></phr></entry>
+
+<entry done=TRUE>rabbit punch
+<lex>
+<sen uid=528480  tag=punch>
+<gr>nc</gr>
+<def>a short chop with the edge of the hand to the back of the neck</def>
+<ex>There are times when life not only kicks you in the teeth, but follows up with the knee in the groin and the rabbit punch to the back of the neck as well.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=528459>rabbit warren
+<lex>
+<sen uid=528457  tag=habitat ord=1>
+<gr>nc</gr>
+<def>an area in which rabbits have their burrows, or are kept for meat</def>
+<ex>The most exhaustively studied rabbit warren in Britain may soon disappear under concrete, burying a research programme into the vicious, incestuous and highly-sexed social life of the rabbit before it has the chance to cast new light on evolution.</ex></sen>
+<sen uid=528458  tag=maze ord=2>
+<gr>nc; usu sing with `of"</gr>
+<def>(in metaphorical use) a building or place that appears to consist of many small interconnected passages and rooms</def>
+<ex>&ellip. in his tiny office in a rabbit warren of a building in the heart of Moscow.</ex></sen></lex></entry>

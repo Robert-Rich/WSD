@@ -1,0 +1,83 @@
+
+<entry done=TRUE uid=521314>T-shirt
+<lex>
+<sen uid=521313  tag=teesh>
+<gr>nc</gr>
+<field>Clothing</field>
+<def>a short-sleeved round-necked buttonless cotton garment for the upper body, forming a T-shape when spread out flat, and usually carrying a design or slogan </def>
+<ex>&ellip. badges and T-shirts proclaiming opposition to the Central Electricity
+Generating Board's plan to build a pressurised water reactor on the Somerset
+coast.
+<clues hidden=TRUE>=</clues></ex>
+<ex>London's trendiest people are making a show of slopping around in jeans and
+T-shirts, sweatpants and trainers. </ex>
+<ex>He was wearing a Megadeath T-shirt, extremely thick glasses and a broad
+grin.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=521330>hair shirt
+<lex>
+<sen uid=521312  tag=hairsh>
+<gr>nc</gr>
+<def>a shirt made of haircloth, worn as a sign of penitence or self-denial; usually in extended use</def>
+<ex>So, after luxuriating in its hair shirt for a few
+days, the City would have sold sterling anyway. 
+<clues hidden=TRUE>=</clues></ex>
+<ex>The musical equivalent of a hair shirt, The Velvet Underground have been the
+subject of perhaps the most disproportionate press coverage and repackaging
+in rock, given the slim nature of their oeuvre. </ex></sen></lex></entry>
+
+<entry done=TRUE>shirt
+<lex>
+<sen uid=506479  ord=1 tag=garment>
+<gr>nc; often with mod</gr>
+<def>a garment worn on the upper part of the body, especially by men, with a collar and sleeves and usually buttons down the front</def>
+<ex>He was wearing slacks and an open-necked shirt.</ex>
+<ex>He unbuttoned his shirt.</ex>
+<ex>He put on a clean white shirt and a suit.</ex>
+<ex>&ellip. dressed in shirt and jeans.</ex>
+<kind>HAIR SHIRT, polo shirt, T-SHIRT</kind>
+<sen uid=521306  ord=1a tag=garmod>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>He loosened his shirt collar.</ex>
+<ex>Another offered me toffees and put a tiny plastic cross in my shirt pocket.</ex></sen>
+<sen uid=506540  ord=1.1 tag=sport>
+<gr>nc; usu after mod</gr>
+<def>a shirt (of distinctive colour and pattern) worn by a member of a sports team; often in metonymic use referring to membership of a particular team</def>
+<ex>Fly-half John Liley pulls on the No 10 shirt for England in the opening match.</ex>
+<ex>Goalminder Jeff Smith increased his chances of a Great Britain shirt later this month with a penalty shot save.</ex>
+<ex>The first Roman Catholic to don the blue shirt of the club's first team.</ex>
+<kind>football shirt, rugby shirt, sports shirt</kind>
+<note>or do the kinds belong with sense 1</note></sen></sen></lex></entry>
+
+<entry done=TRUE>shirtsleeve
+<lex>
+<sen uid=506678  ord=1 tag=shsleeve>
+<gr>nc; usu pl</gr>
+<def>the sleeve of a shirt</def>
+<ex>Gaily had taken off his jacket and rolled up his shirt sleeves.</ex>
+<note hidden=TRUE>perh more often two words in this sense</note></sen>
+<sen uid=506679  ord=2 tag=in>
+<idi>in one's shirtsleeves, in shirtsleeves</idi>
+<gr>phr/n</gr>
+<def>(usually of a man) wearing a shirt with nothing over it</def>
+<ex>&ellip. estate agent types in their shirtsleeves.
+<clues></clues></ex>
+<ex>Sallow-faced men in shirt-sleeves stared at computer terminals or pored over sheets of printout.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=521290>shirtsleeved
+<lex>
+<sen uid=521289  tag=sleeved>
+<gr>adj-classif</gr>
+<def>wearing a shirt with nothing over it; in shirtsleeves</def>
+<ex>Whittingham's bizarre 44th minute goal brought a smile to the faces of all the shirt-sleeved Pompey fans.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=514749>sweatshirt
+<lex>
+<sen uid=514748  tag=swshirt>
+<gr>nc</gr>
+<def>a loosely fitting long-sleeved top made of a fleecy knit material with elasticized hem and cuffs worn as casual attire or for sports</def>
+<ex>Rustic knits and fairground-coloured sweatshirts are worn layer upon layer to keep out the cold.
+<clues>=</clues></ex>
+<ex>Jo &ellip. was always uncomfortable in formal clothes. Leggings and sweatshirts were more her style.</ex></sen></lex></entry>

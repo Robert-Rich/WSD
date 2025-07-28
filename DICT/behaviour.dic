@@ -1,0 +1,27 @@
+
+<entry done=TRUE>behaviour
+<lex>
+<sen uid=512740  ord=1 tag=socialn>
+<gr>nu; often with adj-qual</gr>
+<def>the way in which one conducts oneself, in particular in one's dealings with others</def>
+<ex>I cannot vouch for their good behaviour.
+<clues>adj(good,bad) n/=</clues></ex>
+<ex>I think someone should call the police about the outrageous behaviour of exotic pet owners who are responsible for allowing pythons, Vietnamese pigs and porcupines to roam loose and rear families.
+<clues>n/= `of' [person]</clues></ex>
+<ex>He had a sense of being on the edge of depths and mysteries of human behaviour he had never plumbed himself, and brooded on them with mixed feelings.
+<clues>`human' n/=</clues></ex>
+<ex>&ellip. Britain's biggest survey of sexual behaviour, with 20,000 interviews.
+<clues>`sexual' n/=</clues></ex>
+<sen uid=512742  ord=1.1 tag=best>
+<idi>be on one's best behaviour</idi>
+<gr>phr/n</gr>
+<def>to make a conscious effort to behave in a polite or socially acceptable way</def>
+<ex>The bikers were on their best behaviour.
+<clues>v/be prep/on best prep-obj/=</clues></ex></sen></sen>
+<sen uid=512741  ord=2 tag=ofthing>
+<gr>nu</gr>
+<def>the way in which something acts, performs, or functions</def>
+<ex>&ellip. the stranger-than-fiction behaviour of the market last week.
+<clues>n/= `of' `market'</clues></ex>
+<ex>&ellip. a series of bizarre accidents and coincidences resulting from the breakdown and freak behaviour of several computers in some futuristic society.
+<clues>n/= `of' n[thing]</clues></ex></sen></lex></entry>

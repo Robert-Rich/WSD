@@ -1,0 +1,164 @@
+
+<entry done=TRUE uid=538414>breach of promise
+<lex>
+<sen uid=538413 tag=brop>
+<gr>n</gr>
+<field>Law</field>
+<def>refusal, usually on the part of the man, to marry someone whom one has promised to marry (an old-fashioned concept)</def>
+<ex>Her happiness was too much for people to take; they
+ called her a hussy, they predicted another breach of
+ promise, they waited for the downfall.  </ex></sen></lex></entry>
+
+<entry done=TRUE uid=537540>promise
+<lex>
+<sen ord=1 uid=537527  tag=vow>
+<gr>vt; with to-infin: also with report-cl: also v-ditrans; sometimes with `on"</gr>
+<def>(of a person, institution, etc.) to declare that one will or will not do something specific and guarantee to do so; also (of a programme, published plan, advertisement etc.) to guarantee that something specific will or will not be done, implying a personal involvement in bringing this about on the part of the authors of the document. The default interpretation is that the thing or event promised is something that the addressee will find desirable, but the word is also used ironically (see tenth example)</def>
+<ex>The Polish government has promised not to send them home.
+<clues hidden=TRUE></clues></ex>
+<ex>He has been promised that he will be allowed to go back to school when he leaves the hospital.
+<clues hidden=TRUE></clues></ex>
+<ex>She promised me that she would come.
+<clues hidden=TRUE></clues></ex>
+<ex>A Devon labourer who promised his mother not to marry in her lifetime &ellip.
+<clues hidden=TRUE>= NP v-infin</clues></ex>
+<ex>I promised Irina I'd go over and help her pack.</ex>
+<ex>`I'll leave right away," Maggie promised.
+<clues hidden=TRUE>quotes</clues></ex>
+<ex>He promised to return one day.
+<clues hidden=TRUE>= v-infin</clues></ex>
+<ex>I promise I shall not fail your trust &ellip.</ex>
+<ex>The Labour Party's transport policy document promises `a range of measures to restrict car use in the most congested areas, including road pricing".</ex>
+<ex>Nicu was last sighted on Romanian television on Friday night, being promised `justice" by an angry mob.</ex>
+<ex>If you ever see me on an English cricket ground again it will be as a team manager or a tour manager. I promise on my honour.
+<clues hidden=TRUE>= prep/on NP</clues></ex>
+<ex>Although it was amongst the women's glossies as promised, it was still tucked away in a corner with only its spine showing.</ex>
+<note hidden=TRUE>(1) This is one of Austin's speech act verbs (performatives), see eighth and eleventh examples. (2) Note use of `as promised", see twelfth example. (3) I can't really believe that there is a clear-cut distinction between 'vow' and 'predict' senses but here they are anyway. All this distinction has done is give me hours of sifting through corpus lines reading whole paras for each one to decide which is which. I have based the distinction on whether there is/ was/ can be a personal commitment by the speaker-writer in the declaration. But uses like "Mr Kohl has *all but promised* that their savings will be converted" implies that 'promise' is basically monosemous when it has a human-type subject and is transitive. When the complement is a clause the interpretation depends on whether the subject of the subsidiary verb may be coreferential with the subject of 'promise'. When the clausal complement is infinitival there is no ambiguity.</note>
+<sen uid=537625  tag=vowa ord=1a>
+<dfrm>promised</dfrm>
+<gr>adj-class; usu attrib</gr>
+<def>as an adjective</def>
+<ex>The Government is considering for financial reasons postponing its promised reform of community care for the old and the mentally ill until after the next election.
+<clues hidden=TRUE>poss/= NP</clues></ex></sen>
+<sen uid=537624  tag=reflex ord=1.1>
+<gr>v-refl; with obj or  that-cl</gr>
+<def>(of a person) to decide fervently to do or not do something, often to do or buy something that one wants very much</def>
+<ex>Harley promised herself that she would never trust anyone again &ellip.</ex>
+<ex>He'll receive his payout just when he needs it &dash. with cash to spare, helping towards the world cruise that he and his wife had always promised themselves.</ex></sen></sen>
+<sen uid=537584  tag=predict ord=2>
+<gr>vt; also v-ditrans</gr>
+<def>(of person, publication, institution etc.) to announce that something is very likely to happen (without committing oneself to bringing it about)</def>
+<ex>China yesterday promised a record summer grain harvest.</ex>
+<ex>He welcomed all the authors, promised a splendid week.</ex>
+<ex>And we're promised more winter weather tonight.</ex>
+<sen uid=537655  tag=prag ord=2.1>
+<idi>I promise you</idi>
+<gr>phr/v</gr>
+<def>used to express emphatic assurance</def>
+<ex>I promise you, you look absolutely great.</ex>
+<ex>They do deserve to hear some answers, I promise you that.</ex></sen></sen>
+<sen uid=537563  tag=likely ord=3>
+<gr>vt; never pass</gr>
+<def>(of an event, place, performance, new publication etc.) to seem likely to be, provide, cause etc. (something) , or to provide an indication (that something will come about)</def>
+<ex>When their first-year crops promised a better second winter, they gave thanks by eating whatever they could lay their hands on.
+<clues hidden=TRUE>subj/non-human</clues></ex>
+<ex>The cloudless sky promised a day for haymaking.</ex>
+<ex>Now unconditional surrender promised to become an early reality.</ex>
+<ex>He was anxious to obtain a weekend retreat close to London and the derelict mill promised conveniently located, characterful accommodation.</ex>
+<note hidden=TRUE>(1) non-agentive (patient) subject. (2) the verb in this sense does not passivize</note>
+<sen uid=537656  tag=well ord=3.1>
+<gr>vi; with `much" or adv</gr>
+<def>(of person) to give a strong indication that one is likely to succeed / fail; (of event, performance etc.) to be a good / bad omen for future developments</def>
+<ex>Although he promised much with an excellent debut at West Ham, Greenall was not the dominant centre half Evans had hoped for.</ex>
+<note hidden=TRUE>Only 6 lines in the corpus and all of them with 'much' and all from the sports pages.</note></sen></sen>
+<sen uid=537566  tag=vown ord=4>
+<gr>nc; sometimes with `of", `to', or report-cl</gr>
+<def>a declaration that one will do something specific, or give someone something specific, or make sure that something specific happens</def>
+<ex>Oh, but it was a firm promise! And so very clearly to be trusted.
+<clues hidden=TRUE></clues></ex>
+<ex>For six months, in line with a promise to the homosexual friends portrayed in his book, Hoff denied that he was Cooper &dash. only to learn that it had been publicly admitted from the start by his publisher.
+<clues hidden=TRUE>= prep/to [person]</clues></ex>
+<ex>In spite of the government's promise to correct bias in history textbooks, the screening system has actually got worse since the 1982 diplomatic protests.
+<clues hidden=TRUE>domain/politics</clues></ex>
+<ex>Several Non-Aligned States got promises of IMF loans or World Bank credit.
+<clues hidden=TRUE>= prep/of [money]</clues></ex>
+<ex>He was also relieved that he would not now have to make good his promise to drop his pants on Centre Court if Chang were to win the title.
+<clues hidden=TRUE>make good obj/=</clues></ex>
+<ex>Public opinion polls show that seven out of 10 Hong Kong people do not trust China to honour its promises.
+<clues hidden=TRUE>npl/=</clues></ex>
+<ex>Her most notable contribution to the 1974 election campaign was the promise that the interest rate on mortgages would be limited to 9.5 per cent.
+<clues hidden=TRUE></clues></ex>
+<see>
+<xtyp>See also breach of promise</xtyp></see>
+<note hidden=TRUE>a promise (to sb) (of sth)^(to do sth)^(that-cl)</note>
+<sen uid=538411  tag=make ord=4.1>
+<idi>to make a promise, and variants</idi>
+<gr>phr/n</gr>
+<def>to say that one will do something, or to give a commitment to something's happening</def>
+<ex>I can't make any promises of course.</ex>
+<ex>Each person has an interest that promises made to him will be kept.</ex>
+<ex>They did not expect to win the election and they are making the promise to keep the poll tax low for one year.</ex>
+<note hidden=TRUE>to make a promise (to sb) (to do sth).</note></sen>
+<sen uid=538412  tag=give ord=4.2>
+<idi>to give a promise, and variants</idi>
+<gr>phr/n</gr>
+<def>= to make a promise</def>
+<ex>The only promise he gave was to review the arithmetic which lands the district's tenants with average rent increases of #7.15 a week.</ex>
+<ex>B's promise was not given as the result of economic duress or fraud on the part of A.</ex>
+<note hidden=TRUE>Note to give a promise (to sb) (to do sth).</note></sen>
+<sen uid=538409  tag=keep ord=4.3>
+<idi>to keep one's promise</idi>
+<gr>phr/n</gr>
+<def>to do what one has guaranteed to do</def>
+<ex>A person who keeps his promises to one person and breaks his promises to another is, likewise, treating them unequally.</ex>
+<ex>The latter is a reference to the Town and Country Planning Act which deals with the contract developers sign to make sure they keep their promise.</ex></sen>
+<sen uid=538410  tag=break ord=4.4>
+<idi>to break one's (or a, this etc.) promise</idi>
+<gr>phr/n</gr>
+<def>to fail to do what one has guaranteed to do</def>
+<ex>He had promised her generosity, promised her space and freedom and work and he had broken his promise.</ex></sen></sen>
+<sen uid=537573  tag=likelyn ord=5>
+<gr>n-sing, sometimes with `of" or `for"</gr>
+<def>an indication that something (usually specified, and always desirable) will come about, or an assurance that it already exists</def>
+<ex>The sky and the stars give a promise of eternity.
+<clues hidden=TRUE></clues></ex>
+<ex>Wednesday June 13, dawned clear and sunny, with the promise of more heat.
+<clues hidden=TRUE>domain meteo</clues></ex>
+<ex>&ellip. it shows excellent early season form with a promise of better to come.
+<clues hidden=TRUE></clues></ex>
+<ex>&ellip. a second son, whose short career in public life gave promise of great things.
+<clues hidden=TRUE></clues></ex>
+<ex>The fall in inflation should hold some promise for lower interest rates.
+<clues hidden=TRUE>= for [situation]</clues></ex>
+<note hidden=TRUE>a/the promise (of sth) (for a state of affairs)^(for sb)</note></sen>
+<sen ord=6 uid=537626  tag=success>
+<gr>nu</gr>
+<def>the quality of potential excellence</def>
+<ex>You didn't show much early promise, but what promise you showed you didn't fulfil.
+<clues hidden=TRUE>vt/show obj/=</clues></ex>
+<ex>As a batsman he has never quite fulfilled the promise he showed when as a 17-year-old he made 50 against England in Sri Lanka's inaugural Test match in 1981.
+<clues hidden=TRUE>vt/fulfil obj/=</clues></ex>
+<ex>Testing revealed the car's promise, but BRM's future looked rockier than ever in 1961.</ex>
+<ex>The album doesn't really live up to the promise of the single.
+<clues hidden=TRUE>c/`live up to"</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=537615>promising
+<lex>
+<sen uid=537614  tag=ingadj>
+<gr>adj-qual; sometimes with `for"</gr>
+<def>(of a person, especially an athlete, a performer, an artist or someone in the public eye), likely to be successful; (of an event or the result of some activity) giving hope of a better or more pleasant future; (of a book or work of art, or performance) good, and giving hope that the author, artist or performer will do better in the future</def>
+<ex>The omens are not that promising.</ex>
+<ex>NOT even the promising Alison McKinlay could halt the home county's run of failure in the Oxfordshire Open junior tournament
+<clues hidden=TRUE>art/the = n-proper; = n/[person]</clues></ex>
+<ex>The team slumped to mid-table after a promising start.
+<clues hidden=TRUE>art/a = ; = n/start</clues></ex>
+<ex>She could hardly have done more for someone who was regarded as promising (by some people as highly promising) but unproven.
+<clues hidden=TRUE>c/highly; c/more; c/most</clues></ex>
+<ex>Charl had a promising career in the police force.
+<clues hidden=TRUE>c/career</clues></ex>
+<ex>&ellip. a production called Gorby Goes West, starring a promising newcomer by the name of Mikhail Gorbachev
+<clues hidden=TRUE>c/newcomer</clues></ex>
+<ex> Further first half goals from Sue Lees and
+ Lee again gave Witney a 4-1 victory &dash. a fine performance which is promising   for
+ their upcoming national qualifying tournament. 
+<clues hidden=TRUE>= prep/for NP</clues></ex></sen></lex></entry>

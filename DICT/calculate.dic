@@ -1,0 +1,73 @@
+
+<entry done=TRUE>calculate
+<lex>
+<sen uid=510270  ord=1 tag=reckon>
+<gr>vt: also v; with report-cl</gr>
+<def>(of people, computers, etc.) to ascertain or find (the amount or size of something) by mathematics</def>
+<ex>The trigonometrical ratios sine, cosine and tangent were used by Hipparchus during the second century BC to calculate the diameter of the Earth and the distance of the Moon with amazing accuracy: 7900 and 238 000 miles respectively.
+<clues>subj[person] = obj[quantity]</clues></ex>
+<ex>It is a simple matter to calculate the net present value of a project.</ex>
+<ex>Interest payments are calculated by multiplying the stock of debt by the current rate of interest.</ex>
+<ex>In America, the value of a museum donation can be deducted from gross income before tax is calculated.</ex>
+<ex>He calculates that he has lost about &quid.12,000 in these unpaid debts.</ex>
+<ex>The pressure group calculates that a PWR would be responsible for an average carbon dioxide release of 230,000 tons a year.</ex>
+<sen uid=510345  ord=1a tag=intrans>
+<gr>v-absol; often as v-ing</gr>
+<def>in absolute use</def>
+<ex>People &ellip. budget very
+tightly and are consistently abstinent: they write it all down and calculate
+very finely to guard against overspending.</ex>
+<ex>The national curriculum should do nothing but good if it is a means of ensuring that schools do not, for example, permit children to &ellip. fail to reach a reasonable competence in reading and calculating by the time they leave school.</ex></sen></sen>
+<sen uid=510343  ord=2 tag=assess>
+<gr>vt: also v; with report-cl</gr>
+<def>(of people) to assess (the risks, probabilities. potential effects, etc., of a process or course of action), especially before undertaking it, or before it takes place or is fully understood; to work out how a situation is likely to develop</def>
+<ex>Scientists are trying to calculate the long-term impact of the catastrophic drought of 1987.</ex>
+<ex>It is impossible to calculate the extent to which the new emphasis on community-based punishment will clear Britain's overcrowded prisons.</ex>
+<ex>Gower was calculating his diminishing chances of escaping without having his name linked with Butlers and the murder.</ex>
+<ex>Those Conservative MPs who are not driven by blind loyalty or pure animosity to Margaret Thatcher will need to calculate the likely consequences of what they do.</ex>
+<ex>Eastern European states may calculate that in such circumstances their chances of Western economic assistance will be greater the further they distance themselves from Moscow.</ex>
+<ex>Snowden calculated that a fearsome report from this committee would terrify Labour into accepting economy, and the Conservatives into accepting increased taxation.</ex></sen>
+<sen uid=510265  ord=3 tag=intend>
+<gr>v-pass; usu with to-infin</gr>
+<def>(of actions) to be intended or planned to have the effect stated</def>
+<ex>All the newer ventures are calculated to entail low-cost production.</ex>
+<ex>To win a licence for Channel 3 or 5, operators have to provide diverse programmes calculated to appeal to a wide variety of tastes and interests, though the mix is not spelt out or pinned to programme quotas.</ex>
+<ex>The ambiguity of that statement had been carefully calculated to leave the door open for an abstention.</ex>
+<ex>A lot of Emo's gags seem calculated to make you retch.</ex>
+<sen uid=510536  ord=3.1 tag=likely>
+<gr>v-pass; with to-infin and often with neg</gr>
+<def>(of actions) to be very likely to have the effect mentioned; with negative, to be very unlikely to have this effect</def>
+<ex>By all accounts these men died a frightful death. They were hacked to pieces in the dark in a way which was calculated to spread fear and hatred among the settlers.</ex>
+<ex>The posters were hardly calculated to encourage peace in Europe.</ex>
+<ex>It's an intriguing, nicely-made film, but hardly calculated to excite the contemporary audience.</ex>
+<ex>They are soon disabused by their fellow students, and in ways which are not necessarily calculated to soothe the individual's amour propre.</ex>
+<note>pragmaticky use of 3: negatives often broad negatives</note></sen></sen></lex></entry>
+
+<entry done=TRUE uid=510294>calculated
+<lex>
+<sen uid=510285  tag=considered>
+<gr>adj-qual</gr>
+<def>(of an action) done with full awareness of the likely consequences; considered and unemotional</def>
+<ex>&ellip. a calculated, carefully planned and shocking crime.
+<clues hidden=TRUE></clues></ex>
+<ex>It is now being suggested that Mr Kohl took a calculated risk that, largely for domestic reasons, demanded an element of surprise.
+<clues hidden=TRUE>= risk</clues></ex>
+<ex>&ellip. a calculated attempt to embarrass the Chancellor.
+<clues hidden=TRUE></clues></ex>
+<ex>It would be a clinical performance, precise and calculated, like everything he did.</ex>
+<ex>`Thank you so much," Suzie said, with the exquisitely calculated degree of frost only the best-bred English women can command.
+<clues hidden=TRUE></clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=510256>calculating
+<lex>
+<sen uid=510255  tag=scheming>
+<gr>adj-qual</gr>
+<def>(often in pejorative use) (of a person or their actions) shrewd or scheming in an unemotional and determined way</def>
+<ex>He is a calculating politician of a familiar kind in the Conservative Party.</ex>
+<ex>He thumped the rail of the witness box and said that he knew him to be `ruthless, calculating, cunning and evasive".
+<clues hidden=TRUE></clues></ex>
+<ex>&ellip. another aspect, he presumed, of his cold, calculating, psychopathic nature.
+<clues hidden=TRUE></clues></ex>
+<ex>The Conservative Party's policy on the question of granting rights to the British citizens of Hong Kong is nasty, calculating, small-minded and wrong.
+<clues hidden=TRUE></clues></ex>
+<ex>He is discreet, disciplined and, in the best sense, calculating.</ex></sen></lex></entry>

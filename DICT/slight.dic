@@ -1,0 +1,114 @@
+
+<entry done=TRUE uid=537036>slight
+<lex ord=1>
+<sen uid=537043    ord=1 tag=tiny>
+<gr>adj-qual</gr>
+<def>very small in amount, quantity, or degree; hardly perceptible; trifling</def>
+<ex>The RUC says slight alterations have been made to the route and the march will
+go ahead.
+<clues>= n[abstract]</clues></ex>
+<ex>We've had a slight increase in sales over the first six months of the year.</ex>
+<ex>Toby's
+knowledge of homosexuality was slight.</ex>
+<ex>Oxford Economic Forecasting has taken a fearless look
+at the possibility of history repeating itself and concludes that the risk
+is very slight.</ex>
+<ex>The caraway and dill both add a slight
+aniseed taste to this recipe.
+<clues>= n(taste, smell)</clues></ex>
+<ex>The fourth youngster
+escaped with slight injuries.
+<clues>= n(injury)</clues></ex>
+<ex>A tractor accident had left him
+with a slight limp.</ex>
+<ex>&ellip. pointing towards the curtains that
+lifted in the slight breeze.
+<clues>= n[weather]</clues></ex>
+<ex>He went very still, a slight frown on his face.
+<clues>= n[expression]</clues></ex>
+<sen uid=537044   ord=1.1 tag=superl>
+<dfrm>slightest</dfrm>
+<gr>adj-qual; after `the"; often with neg</gr>
+<def>the smallest or least perceptible; any &dash.  whatever; often (with negative), no &dash. whatever</def>
+<ex>She looked down at the floor and
+made the slightest movement with one hand.</ex>
+<ex>Suddenly, there is just the slightest hint that Mr
+Murdoch is losing the magic touch.</ex>
+<ex>&ellip. a heavily modified motorised Revox
+arm, with two sensors which correct the slightest movement of the stylus.</ex>
+<ex>There is not the slightest doubt that Rangers deserved to
+win the game.</ex>
+<ex>Few in the audience could have had the slightest idea
+of what the songs were about.</ex></sen>
+<sen uid=537045   ord=1.2 tag=inthe>
+<idi> in the slightest</idi>
+<gr>phr/n</gr>
+<def>to any extent whatever; usually, (with negative) not at all</def>
+<ex>Had either of us hesitated in the slightest, we might have realised that
+something was wrong.</ex>
+<ex>Her grim ugly face didn't relax in the slightest.</ex>
+<ex>An eminent kidney specialist once asked my wife whether being married to
+a Cooking Man ever made her feel inadequate.
+`Not in the slightest," she replied. `I think it's wonderful."</ex></sen></sen>
+<sen uid=537049   ord=2 tag=insubst>
+<gr>adj-qual</gr>
+<def>(of a piece of writing, drama, music, etc.) insubstantial</def>
+<ex>It is a slight story, padded out to a mind-deadening 640 pages by the
+monotonous recital of the great redundant master plan itself.
+<clues hidden=TRUE>= n[story]</clues></ex>
+<ex>Synge's poetry, slight as it was, was a reaction to the style Yeats
+and AE had employed in the nineties.
+<clues hidden=TRUE>= n[work-art]</clues></ex>
+<ex>The limpid tone and
+superbly polished playing of Wilbert Hazelzet brought out the melodic beauty
+of this slight piece in a rarely discriminating performance.</ex></sen>
+<sen uid=537046   ord=3 tag=wimp>
+<gr>adj-qual</gr>
+<def>(usually of a person) slender and frail-looking in physique</def>
+<ex>A slight young actress in
+limp beige silk slides out from the wings.
+<clues hidden=TRUE>= n[person]</clues></ex>
+<ex>Returning from school [he] would
+often see a slight figure with short legs crossing the common, hands
+clasped behind his back, a distinctive domed felt hat on his head.</ex>
+<ex>&ellip. inheriting from his mother the fair colouring
+and slight physique to be seen to rather better advantage in
+Clare.</ex>
+<ex>The overhead wires are so slight that you have to look
+hard to see them.
+<clues hidden=TRUE>= n[physobj]</clues></ex></sen></lex>
+<lex ord=2>
+<sen ord=1 uid=537048   tag=offend>
+<gr>vt</gr>
+<def>to treat with indifference or disrespect; to offend (someone) by so treating them</def>
+<ex>&ellip. King Sagara's 60,000 sons, who had all been turned to
+cinders by the ferocity of an angry glance from a sage they had previously
+slighted.</ex>
+<sen uid=537053 tag=offended ord=1a>
+<dfrm>slighted</dfrm>
+<gr>adj-classif</gr>
+<def>as an adjective</def>
+<ex>We cannot know &ellip. whether she felt personally slighted by the change.</ex>
+<ex>`Jane's very charming &dash." Lord John commenced a defence of
+his slighted lover.</ex></sen>
+<sen uid=537062 tag=cutting ord=1b>
+<dfrm>slighting</dfrm>
+<gr>adj-qual</gr>
+<def>as an adjective</def>
+<ex>The poem itself is an answer to George Moore's slighting references
+to his family background.</ex>
+<ex>If this sounds slighting, it is really nothing of the
+kind.</ex></sen></sen></lex>
+<lex ord=3>
+<sen uid=537047   tag=snub>
+<gr>nc; often with `on"</gr>
+<def>an action which indicates indifference to or disrespect for someone</def>
+<ex>Angered by this slight, he imprisoned the British consul, an envoy sent to
+obtain the latter's release, and several European missionaries.</ex>
+<ex>Mr Mitterrand was put out by a whole series of German
+slights, culminating in the chancellor's hesitations over Economic and Monetary
+Union before the European Community's summit in December.</ex>
+<ex>Needless to
+say, Makkai bore these insults lightly, regarding them not as a slight on
+his own integrity but instead as a reflection of the immaturity of his
+detractors.</ex></sen></lex></entry>

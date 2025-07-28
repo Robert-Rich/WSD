@@ -1,0 +1,23 @@
+
+<entry done=TRUE>disability
+<lex>
+<sen uid=507707  ord=1 tag=phys>
+<gr>nc, nu</gr>
+<def>a physical or sometimes mental condition (usually permanent) which limits a person's activities or senses; the condition of being disabled</def>
+<ex>&ellip. attention to housing and health needs of people with disabilities.
+<clues>=</clues></ex>
+<ex>The defendant had a speech disability.</ex>
+<ex>&ellip. pain and weakness that can result in severe and permanent disability.</ex>
+<ex>He predicts that he'll soon become the first Parkinson's disease patient to abandon drugs altogether as he slowly leaves a life of disability behind him.</ex>
+<sen uid=520269  ord=1a tag=physmod>
+<gr>n-mod</gr>
+<def>used as a modifier</def>
+<ex>The &quid.100m increase in disability benefits comes as the Government has saved &quid.250m by not uprating child benefit.
+<clues>=_n</clues></ex></sen></sen>
+<sen uid=520270  ord=2 tag=disadv>
+<gr>nc</gr>
+<field>chiefly Law</field>
+<def>a disadvantage or handicap; especially, a disadvantage imposed or recognized by the law</def>
+<ex>&ellip. disabilities imposed by Statute on former enemy aliens.</ex>
+<ex>&ellip. the proprietary and contractual disabilities of married women at Common Law.</ex>
+<ex>The miners, moreover, had the supreme disability of Mr Scargill himself.</ex></sen></lex></entry>

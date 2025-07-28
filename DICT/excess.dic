@@ -1,0 +1,63 @@
+
+<entry done=TRUE>excess
+<lex>
+<sen uid=512403  ord=1 tag=aglut>
+<gr>nc; with `of"</gr>
+<def>a quantity or amount of something which is more than is necessary, normal, or desirable; an inordinately high degree of something</def>
+<ex>The book suffers from an excess of unfocused detail.</ex>
+<ex>The defence of formalism is always that it serves to control an excess of feeling.</ex>
+<ex>What is not clear is why such an excess of water-living invertebrates &ellip. does not support a larger population of fish &ellip. in the first place.</ex>
+<sen uid=512407  ord=1.1 tag=overrun>
+<gr>n-sing; with `of" and `over"</gr>
+<def>an amount by which one quantity exceeds another; the greater quantity of something compared with that of something else</def>
+<ex>Faced with a persistent excess of expenditure over income, they may cut student numbers or they may increase income.</ex>
+<ex>New York offers attorneys a choice between a flat fee of 331/2 per cent or a sliding fee schedule from 50 per cent for the first $1,000 recovered down to 25 per cent for any excess over $25,000.</ex></sen>
+<sen uid=512409  ord=1.2 tag=extrasum>
+<gr>nc</gr>
+<def>a sum of money which an insured party agrees to pay in the event of a claim, the insurer paying the amount by which the claim exceeds this amount</def>
+<ex>There is also an excess of &quid.30; so there is a disincentive to claim for minor consultations.
+<clues>c/claim</clues></ex></sen>
+<sen uid=512402  ord=1.3 tag=morethan>
+<idi>in excess of</idi>
+<gr>phr/n</gr>
+<def>more than; exceeding; greater than</def>
+<ex>Last year its turnover was in excess of &quid.108-million.
+<clues>in_=_of</clues></ex>
+<ex>If you add the time spent &ellip. on quality control, we would be spending in excess of &quid.10m a year.</ex>
+<ex>The engine &ellip. will &ellip. give a top speed in excess of 135mph.</ex>
+<ex>They had set spending at levels far in excess of what the Department of the Environment considered reasonable or necessary.</ex>
+<ex>Many [trucks] travel at speeds well in excess of 40 mph.</ex></sen>
+<sen uid=512408  ord=1.4 tag=toex>
+<idi>to excess</idi>
+<gr>phr/n</gr>
+<def>to an excessively large amount or extent</def>
+<ex>I tell them that if they eat to excess they will suffer, and if they don't they won't.
+<clues>to_=</clues></ex>
+<ex>The word breakthrough gets used to excess in describing technological advances.</ex></sen></sen>
+<sen uid=512472  ord=2 tag=surplus>
+<gr>nu</gr>
+<def>surplus material or things</def>
+<ex>Generally we all have too much salt in the diet and our bodies have to work hard to excrete the excess.</ex>
+<ex>Any excess was usually turned into jams or wine for enjoyment at a later date.</ex>
+<ex>Fluff on loose translucent powder, applying it with cotton wool or a puff, then whisking away excess with a large brush.</ex></sen>
+<sen uid=512404  ord=3 tag=ott>
+<gr>n-pl; often with `of" or after poss</gr>
+<def>actions or behaviour overstepping the bounds of moderation or reasonableness</def>
+<ex>&ellip. a general code of conduct to curb the worst excesses of the Press.</ex>
+<ex>It reminded one of the worst excesses of the French Revolution.</ex>
+<ex>&ellip. the British Empire, for whose excesses I was not personally responsible.</ex>
+<ex>Khrushchev delivered his secret speech attacking Stalin's excesses.</ex>
+<sen uid=512830  ord=3.1 tag=overind>
+<gr>nu</gr>
+<def>overindulgence; lack of moderation</def>
+<ex>She takes Tom to London for an initiation in carnal excess.</ex>
+<ex>LA is the capital of showbiz excess.</ex>
+<ex>They had been eagerly seduced into mocking the frugal and applauding excess.</ex></sen></sen>
+<sen uid=512405  ord=4 tag=toomuch>
+<gr>adj-classif; attrib</gr>
+<def>exceeding the necessary, normal, desirable, or permitted amount; too much; too great; excessive</def>
+<ex>Trim off the excess adhesive with a craft &ellip. knife.</ex>
+<ex>A treatment to filter excess cholesterol out of blood is to begin clinical trials in Cardiff and London.</ex>
+<ex>A salesman who drank two pints of lager on an empty stomach was fined &quid.250 by Didcot magistrates for driving with excess alcohol.</ex>
+<ex>His 6ft 5in, 16st 11lb frame carries no excess weight.</ex>
+<ex>The Chancellor &ellip. has not used the obvious policy of overfunding to mop up the excess money supply.</ex></sen></lex></entry>

@@ -1,0 +1,65 @@
+
+<entry done=TRUE uid=510982>modest
+<lex>
+<sen uid=510840  tag=notc ord=1>
+<gr>adj-qual</gr>
+<def>(of a person or their behaviour or attitude) having or expressing a humble or moderate estimate of their own merits or achievements; not conceited</def>
+<ex>Chris Allen is too modest to take all the credit.</ex>
+<ex>Stella Collins &ellip. is modest about her new, unpaid role.
+<clues hidden=TRUE>comp/= about n</clues></ex>
+<ex>But Birch is a modest man, despite his immodest ideas, and would not see his book as any more than a starter.</ex>
+<ex>`A hundred and twenty-five," said Cullam with modest pride.</ex>
+<note hidden=TRUE>this whole entry is oversplit - WRT</note>
+<sen uid=510838  tag=shy ord=1.1>
+<gr>adj-qual</gr>
+<def>bashful, reserved</def>
+<ex>Catherine was looking down and drooping her eyelids in a customary pose which seemed at times modest and at times secretive.</ex>
+<ex>Bryce now realized that Maggie was covering herself &ellip. Maggie gave a hollow laugh. `Ridiculous to be modest in the midst of all this!"</ex>
+<note hidden=TRUE>esp. of a woman?? cod8 also has `decorous'</note></sen></sen>
+<sen uid=510839  tag=small ord=2>
+<gr>adj-qual</gr>
+<def>(of an amount, usually of money, or other measurable thing) not excessive or exaggerated; of relatively small extent, cost, importance, etc.</def>
+<ex>Students hire the smaller units for a modest cost to store their things over the vacation.
+<clues hidden=TRUE>= cost</clues></ex>
+<ex>&ellip. a more modest rise of 0.5 per cent
+<clues hidden=TRUE>= rise</clues></ex>
+<ex>The school's office occupies a modest 300 sq ft at 27 St James's Place.
+<clues hidden=TRUE>= [quantity]</clues></ex>
+<ex>These actions could initially be kept fairly modest in scope.
+<clues hidden=TRUE></clues></ex>
+<ex>Dupont had a modest but tenacious following.</ex>
+<sen uid=510870  tag=small-comb ord=2a>
+<gr>adj-qual; with past-part</gr>
+<def>in combinations</def>
+<ex>&ellip. three modest sized colour photographs.</ex>
+<note hidden=TRUE>all exx are with `sized'; but `priced' etc?</note></sen>
+<sen uid=510913  tag=adeq ord=2.1>
+<gr>adj-classif</gr>
+<def>of just the right extent, cost, importance, etc.; appropriate</def>
+<ex>Up to four volunteers can be accommodated in modest comfort.</ex>
+<ex>&ellip. to give a modest welcome to the Pope.</ex>
+<note hidden=TRUE>cf Cobuild sense 3: maybe some more exx from 2 belong here</note></sen>
+<sen uid=510922  tag=inept ord=2.2>
+<gr>adj-qual</gr>
+<def>implying inadequacy or poor quality</def>
+<ex>DRG has a very modest self-service canteen at its Bristol head office.</ex></sen></sen>
+<sen uid=510841  tag=unspec ord=3>
+<gr>adj-qual</gr>
+<def>(of a thing, in particular a living place, or a lifestyle) not luxurious or showy; simple, plain, unadorned</def>
+<ex>He recently moved into a modest home in London with his wife and children.
+<clues hidden=TRUE>= home</clues></ex>
+<ex>Linda had bought a modest Renault.</ex>
+<ex>&ellip. can be seen with even the most modest pair of binoculars.</ex>
+<ex>&ellip. his modest lifestyle in a small seaside cottage.</ex>
+<sen uid=510842  tag=humble ord=3.1>
+<gr>adj-qual</gr>
+<def>(of a person or their background) of lowly status; humble</def>
+<ex>He too had risen from a modest background &dash. his father was an East End rabbi.
+<clues hidden=TRUE>= background</clues></ex>
+<ex>&ellip. humble beginnings as a modest fruit merchant in Majunga, Madagascar.
+<clues hidden=TRUE>= beginnings</clues></ex></sen>
+<sen uid=510971  tag=unamb ord=3.2>
+<gr>adj-qual</gr>
+<def>(of a proposal, intention, method, etc.) not ambitious or sophisticated</def>
+<ex>The aim of the Egyptian proposal was modest.</ex>
+<ex>&ellip. unless talks with the developers lead to more modest plans for the 134-acre central London site.</ex></sen></sen></lex></entry>

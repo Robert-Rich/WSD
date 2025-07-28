@@ -1,0 +1,119 @@
+
+<entry done=TRUE>sack
+<lex ord=1>
+<sen uid=504756  ord=1 tag=bag>
+<gr>nc</gr>
+<def>a plain strong bag, usually large and typically made of hessian, plastic, or paper, for carrying or storing goods</def>
+<ex>I store potatoes in sacks under straw in a loft.
+<clues>subj[person] v[keep] obj[food] in =</clues></ex>
+<ex>&ellip. black plastic sacks.
+<clues>mod[material] =</clues></ex>
+<ex>&ellip. valuable storage space for sacks of dog food.
+<clues>= of [substance]</clues></ex>
+<note>not actually commonest sense in corpus</note>
+<sen uid=505121  ord=1.1 tag=potatoes>
+<idi>a sack of potatoes, and variants</idi>
+<gr>phr/n</gr>
+<def>an example of something big and inert, clumsy, or stupid, or that is handled unceremoniously</def>
+<ex>The soldiers threw the Cossacks into the trucks like sacks of potatoes.
+<clues>n/= prep/of prep-obj/potatoes</clues></ex></sen></sen>
+<sen uid=504752  ord=2 tag=boot>
+<gr>n-sing; after `the"</gr>
+<reg>informal</reg>
+<def>dismissal from one's employment</def>
+<ex>The company gets its knuckles rapped and I get the sack.
+<clues>subj[person] v/get the =</clues></ex>
+<ex>Striking dockers would face the sack.
+<clues>subj[worker] v/face the=</clues></ex></sen>
+<sen uid=504768  ord=3 tag=bed>
+<gr>n-sing; after `the"</gr>
+<reg>slang</reg>
+<def>in some set phrases: bed</def>
+<ex>Why don't you hit the sack?
+<clues>v/hit =</clues></ex>
+<ex>&ellip. whatever chick you fell into the sack with the night before.
+<clues>subj[person] v into = with [person]</clues></ex>
+<note>only 2 ex in corpus</note></sen>
+<sen uid=504751  ord=4 tag=dismiss>
+<gr>vt; often pass</gr>
+<reg>informal</reg>
+<def>(of a person or organization) to dismiss (a person or persons) from employment</def>
+<ex>The US president is forced to sack a particularly outspoken general.
+<clues>subj[person] = obj[person]</clues></ex>
+<ex>Wilson was sacked as club coach last week by [Colin] Appleton.
+<clues>=/pass as[job] by [person]</clues></ex>
+<ex>&ellip. sacked from her front bench education job &ellip. for rebelling against the Labour whip.
+<clues>from [job] for [action</clues></ex>
+<note>commonest sense in corpus by far</note></sen>
+<sen uid=504757  ord=5 tag=putsack>
+<gr>vt</gr>
+<def>to put (a foodstuff or other material) in sacks</def>
+<ex>&ellip. sacking grain.
+<clues>= obj[food]</clues></ex>
+<note>5 examples but 4 are title of same painting; all use -ing</note></sen>
+<sen uid=504750  ord=6 tag=football>
+<gr>vt</gr>
+<field>American Football</field>
+<def>to tackle (a quarterback) behind the line of scrimmage</def>
+<ex>Then San Francisco's defense &dash. who had sacked Giants quarterbacks seven times &dash. came up with their big play.</ex>
+<note>Amer football sense ni OED:3 corpus examples altogether</note>
+<sen uid=518774  ord=6a tag=tackle>
+<gr>nc</gr>
+<def>as a noun</def>
+<ex>Pierce Holt made four sacks as the San Francisco 49ers overcame the New York Giants 34-24 on Monday night.</ex></sen></sen></lex>
+<lex ord=2>
+<sen uid=504787  ord=1 tag=pillage>
+<gr>vt; often pass</gr>
+<reg>literary, often historical</reg>
+<def>(of an army, mob, or other hostile group) to plunder and destroy (a place or building)</def>
+<ex>&ellip. a major rebellion in which Russian settlements were sacked with a death toll of over 2,500.
+<clues>= obj[place]</clues></ex>
+<note>often but not always historical</note></sen>
+<sen uid=504767  ord=2 tag=loot>
+<gr>nc; with `of"</gr>
+<reg>literary, usually historical</reg>
+<def>the pillaging of a city</def>
+<ex>&ellip. a tragedy about the sack of Miletus.
+<clues>the = of [place]</clues></ex>
+<note>often historical ; only two ex in corpus</note></sen></lex>
+<lex ord=3>
+<sen uid=504758  tag=wine>
+<gr>nu</gr>
+<reg>historical</reg>
+<field>Food</field>
+<def>a white wine formerly produced in Spain and the Canary Islands</def>
+<ex>Canary sack lost its supremacy because `its thinly populated islands were a poor market for exports".
+<clues>c/Canary</clues></ex>
+<note>1 corpus ex</note></sen></lex></entry>
+
+<entry done=TRUE uid=518766>sack coat
+<lex>
+<sen uid=518763  tag=sackcoat>
+<gr>nc</gr>
+<field>Clothing</field>
+<def>a loose-hanging coat not shaped to the back</def>
+<ex>The enlisted men's basic uniform consisted of a dark blue wool, five-button, rolling-collar `sack coat" and light blue kersey trousers.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE>sacking
+<lex ord=1>
+<sen uid=504753  ord=1 tag=firing>
+<gr>nc; often with `of" or poss</gr>
+<reg>informal</reg>
+<def>dismissal from employment</def>
+<ex>The doctors were protesting against the sacking of 16 colleagues.
+<clues>= of [person]</clues></ex>
+<ex>The government has therefore wanted to stabilise the economy by wage cuts and sackings, to force down the living standards of civil servants and factory workers.</ex></sen>
+<sen uid=504755  ord=2 tag=material>
+<gr>nu</gr>
+<def>coarse material used for making sacks; sackcloth</def>
+<ex>&ellip. the very loosely woven cloth, thinner than sacking, that upholsterers use on chair seats.
+<clues>c/cloth</clues></ex></sen></lex>
+<lex ord=2>
+<sen uid=504754  ord=1 tag=looting>
+<gr>nc; with `of" or poss</gr>
+<reg>literary, often historical</reg>
+<def>the pillaging of a place</def>
+<ex>&ellip. 410 AD, The Sacking of Rome.
+<clues>= of [place]</clues></ex>
+<note>1 corpus example</note></sen></lex></entry>

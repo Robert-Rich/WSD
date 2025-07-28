@@ -1,0 +1,225 @@
+
+<entry done=TRUE uid=523218>float
+<lex>
+<sen uid=523221  tag=swim ord=1>
+<gr>v-erg; often with adjunct-place</gr>
+<def>to rest on the surface of a liquid without sinking, or to cause (someone or something) to do this</def>
+<ex>Dead flies floated in pools of water on the floor.
+<clues hidden=TRUE>= in water</clues></ex>
+<ex>There's a lump of ice floating in the carton.</ex>
+<ex>&ellip. a rock so light and frothy that it will float on water.
+<clues hidden=TRUE>= on water</clues></ex>
+<ex>The challenge originated in a throwaway remark to a friend that he `could cross the Atlantic in anything, provided it floats".</ex>
+<ex>&ellip. the outlines of a fully-clothed man, who was floating face downwards.</ex>
+<ex>Try floating toasted marshmallows in a cup of hot chocolate as a treat for the kids.</ex>
+<sen uid=523379  tag=swimadv ord=1.1>
+<gr>v-erg; with adjunct-dir</gr>
+<def>as a verb of motion</def>
+<ex>Tons of dead fish floated down the darkened waters of the Evros River.</ex>
+<ex>Sometimes a marigold garland from a festival or funeral floated past, or the corpse of a kid, swollen with water.</ex>
+<ex>It is believed that the great bluestones of which Stonehenge is constructed were floated up the Wiltshire Avon.</ex></sen>
+<sen uid=523380  tag=liquid ord=1.2>
+<gr>vi; with adjunct-dir or adjunct-place</gr>
+<def>to move or be suspended freely in a liquid or gas</def>
+<ex>A cartilage was chipped and fragments floated in the joint.</ex>
+<ex>&ellip. intricate gardens, where water wheels turned musically and water lilies bloomed moon-white, and giant goldfish floated under them.</ex>
+<ex>&ellip. the early replicating molecules, floating chaotically free in the primeval soup.</ex></sen></sen>
+<sen uid=523235  tag=hover ord=2>
+<gr>vi; often with adjunct-place</gr>
+<def>to hover in the air or above the surface of the ground</def>
+<ex>Balloons floated in the air &dash. blue, yellow and silver orbs, moving with infinite hesitation.
+<clues hidden=TRUE>= in air</clues></ex>
+<ex>All the astronauts who have seen the world floating in deep black space have come back profoundly changed.</ex>
+<sen uid=523391  tag=hoveradv ord=2a>
+<gr>vi; with adjunct-dir</gr>
+<def>as a verb of motion</def>
+<ex>Plaster dust floated down from the ceiling making some people choke.</ex>
+<ex>The white floss of thistle-down can be seen floating over fields such as these all over England.</ex></sen></sen>
+<sen uid=523223  tag=move ord=3>
+<gr>vi; usu with adjunct-dir</gr>
+<reg>chiefly informal</reg>
+<def>(especially of a person) to go from one place to another in a blithe, aimless, or apparently effortless way; to be in circulation</def>
+<ex>&ellip. as Ozbek floated down the stairs of his studio quoting poetry.</ex>
+<ex>Florals are very much back and I just float about the place in them.</ex>
+<ex>Meanwhile, there's plenty of the malleable, undetectable and horribly powerful Semtex floating around the world.</ex>
+<sen uid=523309  tag=figmove ord=3.1>
+<gr>vi; usu with adjunct-dir</gr>
+<reg>chiefly literary</reg>
+<def>(especially of ideas, thoughts, or images) to occur to one in an unpredictable or casual way; (also of stories) to become known about, although without apparent origin or foundation</def>
+<ex>His mind floated back to China.</ex>
+<ex>The image that floated into her head was a field of grass overwhelmed by wind, each blade veering in the same direction, powerless.</ex>
+<ex>&ellip. stories all over Southeast Asia that floated up the China Sea to Kowloon and Hong Kong.</ex>
+<ex>This billion dollar figure floating around has got to be wrong.</ex>
+<note hidden=TRUE>difficult to distinguish these metaphorical uses from those of senses 1, 1a, 2 and 2a</note></sen></sen>
+<sen uid=523310  tag=app ord=4>
+<gr>vi; usu with adjunct</gr>
+<reg>chiefly literary</reg>
+<def>to give the appearance of hovering in the air or above a surface; to flow or seem to be borne upon a breeze</def>
+<ex>On my previous visit, at dawn, the range had floated eerily above a sea of fog.</ex>
+<ex>She could see the city bright and sunlit, floating on the mists.</ex>
+<ex>In came a middle-aged woman dressed in her short grey habit and floating veil.</ex>
+<ex>Another short trio followed, Schubert's Notturno, a late and haunting piece that floats timelessly through similar dreamscapes to the slow movement of the String Quintet.</ex>
+<sen uid=523247  tag=sound ord=4.1>
+<gr>vi; with adjunct-dir</gr>
+<def>(of a sound or voice) to be heard from a distance</def>
+<ex>The sound of jazz floats in from some adjacent corner.</ex>
+<ex>Wisps of applause floated up on the breeze.</ex>
+<ex>Charsky heard the Italian's voice float down clearly: `How beautiful the sun is!"</ex></sen></sen>
+<sen uid=523236  tag=idea ord=5>
+<gr>vt</gr>
+<def>(of a person) to make (a suggestion or proposal), especially as a basis for discussion or in order to test reactions</def>
+<ex>He caught committee members by surprise when he floated the idea.
+<clues hidden=TRUE>subj[person] = obj/idea</clues></ex>
+<ex>The plan, first floated by the French President in an address to the European Parliament a month ago, has so far been opposed by Britain
+<clues hidden=TRUE>subj[plan] v-pass/=</clues></ex></sen>
+<sen uid=523224  tag=shares ord=6>
+<gr>vt</gr>
+<field>Commerce, Finance</field>
+<def>to offer (stocks or shares) on the stock market; to launch (a company or scheme), especially by selling shares in it; also (of shares or a company) to be offered or launched in this way</def>
+<ex>The shares were floated at 71p two years ago.
+<clues hidden=TRUE>subj/shares v-pass/= at [money]</clues></ex>
+<ex>Caradon was floated in July 1987 with a market value of #134m.</ex>
+<ex>&ellip. Racal Electronics' decision to float off its Racal Telecom subsidiary.</ex>
+<ex>&ellip. Arlington, founded in 1976 and floated on the stock market ten years later.
+<clues hidden=TRUE>= on stock_market</clues></ex></sen>
+<sen uid=523225  tag=currency ord=7>
+<gr>v-erg</gr>
+<field>Commerce, Finance</field>
+<def>(of a currency) to be allowed to have a fluctuating exchange rate; also, to allow (a currency) to fluctuate</def>
+<ex>The mood of the conference is plainly hostile to higher interest rates and in favour of letting the pound float where it will in best Thatcherite, free-market fashion.</ex>
+<ex>&ellip. Butler's 1952 plan to float sterling.</ex>
+<see>
+<xtyp>See also FLOATING</xtyp></see></sen>
+<sen uid=523279  tag=oscillate ord=8>
+<gr>vi</gr>
+<def>(of a person) to have no fixed allegiance to a particular party or group; to vary in one's support</def>
+<ex>These days fans float (if such a word can be used in connection with our congested road network) and inevitably gravitate towards the glamorous.</ex>
+<see>
+<xtyp>See also FLOATING</xtyp></see></sen>
+<sen uid=523280  tag=sport ord=9>
+<gr>v-erg; often with adjunct</gr>
+<reg>informal</reg>
+<field>Sport</field>
+<def>(of a player) to kick or strike (the ball) effortlessly and lightly through the air or to make (such a shot or strike); also (of a ball, shot, or strike) to move effortlessly and lightly through the air</def>
+<ex>Steve Ketteridge floated the ball in, and Donegal dived to plant it in the net.</ex>
+<ex>Another free kick, wide on the right, was floated into the middle by Paul Gascoigne</ex>
+<ex>This time the ball floated high to the far post.</ex></sen>
+<sen uid=523318  tag=tech ord=10>
+<gr>v-erg</gr>
+<field>Building</field>
+<def>(of a person) to construct (a wall or other structure) so that it is suspended rather than resting on the ground or other support; also (of a wall or other structure) to be constructed in this way</def>
+<ex>To confine the din, the studios are floated on springs or synthetic rubber.</ex>
+<ex>&ellip. supporting an entire building on rubber so that the structure `floats" in isolation.</ex>
+<see>
+<xtyp>See also FLOATING</xtyp></see></sen>
+<sen uid=523306  tag=transport ord=11>
+<gr>vt</gr>
+<field>Transport</field>
+<def>(of a person) to transport (a horse) in a vehicle</def>
+<ex>A bad driver who drives too fast around corners, or brakes too suddenly will train horses to avoid being floated again!</ex></sen>
+<sen uid=523424  tag=object ord=12>
+<gr>nc</gr>
+<def>an object or other device that floats</def>
+<ex>The fuel gauge is the most reliable type of all; a float in the tank supports a length of wire sticking out of the centre of the seven gallon tank's filler cap, immediately forward of the windscreen. When the wire has all but disappeared, it is time to land and refuel!</ex>
+<sen uid=523261  tag=device ord=12.1>
+<gr>nc</gr>
+<def>a bouyancy aid, for example one to assist a swimmer or in a boat</def>
+<ex>Solid polystyrene floats give positive buoyancy and allow an absolute beginner to learn to be comfortable in the water.</ex>
+<ex>He &ellip. installed polystyrene floats to give added buoyancy, but this was no protection against the elements.</ex></sen>
+<sen uid=523248  tag=rod ord=12.2>
+<gr>nc</gr>
+<def>a cork, quill, or other bouyant object on a fishing-line, as an indicator of a fish biting</def>
+<ex>I was sitting quietly behind a tree when my float suddenly shot skywards.</ex>
+<ex>He used float tackle to catch the chub.</ex>
+<note hidden=TRUE>no attempt to analyse further the various angling uses</note></sen>
+<sen uid=523262  tag=platform ord=12.3>
+<gr>nc</gr>
+<def>a floating platform on a lake or river, or on the sea</def>
+<ex>There were floats in the river and you stepped on to the float and you got onto a boat.</ex></sen></sen>
+<sen uid=523271  tag=wobble ord=13>
+<gr>nu</gr>
+<def>(especially in the context of vehicles) an undesirable wobbling movement or floating sensation</def>
+<ex>&ellip. judging by the amount of float and unreliable side slip we experienced.</ex>
+<ex>The lack of adequate damping revealed itself in float and wallow, and excessive body roll.</ex>
+<sen uid=523359  tag=sportact ord=13.1>
+<gr>nu</gr>
+<field>Sport</field>
+<def>a style of kicking or striking a ball so that it moves lightly and effortlessly</def>
+<ex>Syed, whose style of backspin chop and float is such a delightful rarity in the modern game, provided a match of charm and contrast.</ex></sen></sen>
+<sen uid=523246  tag=sharesact ord=14>
+<gr>nc; often after n-mod</gr>
+<field>Commerce, Finance</field>
+<def>the act of offering stocks or shares on the stock market, or of launching a company or scheme</def>
+<ex>Only 13 per cent of the shares on offer at the time of its stock market float were taken up.</ex>
+<ex>The City will not back the electricity float if it includes uneconomic nuclear assets.</ex>
+<ex>They lack permission for a proper share float.</ex></sen>
+<sen uid=523222  tag=currencyact ord=15>
+<gr>nc</gr>
+<field>Commerce, Finance</field>
+<def>the act of allowing a currency's exchange rate to fluctuate</def>
+<ex>Argentina is accepting a free float for the currency and hoping that this will restore faith in it.</ex></sen>
+<sen uid=523234  tag=cash ord=16>
+<gr>nc, nu</gr>
+<field>Commerce</field>
+<def>a sum of money for minor expenditures; petty cash; a sum of money readily available for use or for giving change, as at the start of trading</def>
+<ex>He kept the money for use as a float.</ex>
+<ex>The cash management system makes detailed time-phased projections of cash inflows and outflows to minimize unproductive float.</ex></sen>
+<sen uid=523219  tag=fiesta ord=17>
+<gr>nc</gr>
+<def>a platform mounted on a lorry or trailer, and carrying a display in a procession, especially as part of a carnival</def>
+<ex>Crowds lined the streets as the procession of decorated floats &ellip. made its way through the village.</ex></sen>
+<sen uid=523220  tag=lorry ord=18>
+<gr>nc</gr>
+<field>Transport</field>
+<def>a small vehicle or cart, especially one powered by electricity</def>
+<ex>A milkman delivered bottles to doorsteps from an electric float.</ex>
+<ex>Single horse floats are too claustrophobic for a horse.</ex>
+<kind>milk float</kind></sen></lex></entry>
+
+<entry done=TRUE uid=523238>floating
+<lex>
+<sen uid=523373  tag=swimming ord=1>
+<gr>adj-classif; attrib</gr>
+<def>resting on the surface of a liquid, without sinking</def>
+<ex>There were no survivors from the crew of thirty-one, but some floating debris was found later.</ex>
+<ex>&ellip. the Aire at Leeds where anglers had to dodge floating ice.</ex>
+<ex>&ellip. marvelled at the huge Atlantic liners berthed at the world's largest floating landing-stage.</ex>
+<see>
+<xtyp>See FLOAT 1</xtyp></see></sen>
+<sen uid=523419  tag=wavering ord=2>
+<gr>adj-classif; usu attrib</gr>
+<def>not fixed; not settled in a definite place; variable</def>
+<ex>There is a floating population of station denizens who are not there to travel. Dossers, derelicts, drifters, drug addicts, the homeless and the friendless find in the station, open twenty-four hours a day, warmth, shelter, and light.</ex>
+<ex>The position is further clouded by the curious share structure of Racal Telecom where most of the free floating shares are US held.</ex>
+<sen ord=2.1 uid=523237  tag=voter>
+<gr>adj-classif; usu attrib</gr>
+<def>(especially in the expression `floating voter") having no allegiance with a political party; uncommitted as to which party to support</def>
+<ex>To deride the party's `mass conversion" from its former belief &ellip. raises a cheer from committed Conservatives, but floating voters may reckon that it is intelligent to abandon wrong-headed policies.
+<clues hidden=TRUE>= voter</clues></ex></sen></sen>
+<sen uid=523378  tag=fluctuating ord=3>
+<gr>adj-classif; attrib</gr>
+<field>Commerce, Finance</field>
+<def>(of an exchange rate, interest rate, or currency) allowed to fluctuate according to market forces, as opposed to being fixed or controlled</def>
+<ex>&ellip. floating exchange rates
+<clues hidden=TRUE>= rate</clues></ex>
+<ex>&ellip. fixed rate and floating rate loans.</ex>
+<see>
+<xtyp>See FLOAT XX</xtyp></see></sen>
+<sen uid=523377  tag=suspended ord=4>
+<gr>adj-classif; attrib</gr>
+<field>Building</field>
+<def>(of a wall or other structure) (of a person) suspended rather than resting on the ground or other support</def>
+<ex>&ellip. including a simple floating floor in the bathrooms upstairs so that sounds of gurgling pipes will not be transmitted down.
+<clues hidden=TRUE>= floor</clues></ex>
+<ex>&ellip. how to erect a DIY floating wall.
+<clues hidden=TRUE>= wall</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=523227>milk float
+<lex>
+<sen uid=523226  tag=milk>
+<gr>nc</gr>
+<reg>chiefly British</reg>
+<field>Transport</field>
+<def>a small vehicle, usually powered by electricity, used for delivering milk</def>
+<ex>We have seen electrical cars in the form of milk floats for many years.
+<clues>=</clues></ex></sen></lex></entry>

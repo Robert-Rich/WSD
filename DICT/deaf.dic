@@ -1,0 +1,44 @@
+
+<entry done=TRUE>deaf
+<lex>
+<sen uid=515364  ord=1 tag=canthear>
+<gr>adj-qual</gr>
+<def>lacking the power of hearing; having defective hearing</def>
+<ex>The charity helps deaf people by training dogs to alert them to things like the front door bell or the telephone ringing.
+<clues>= [person]</clues></ex>
+<ex>&ellip. a charity which cares for children born deaf and blind to women who contracted the rubella virus.
+<clues>subj[person] v-pass/born =</clues></ex>
+<ex>Mr Robson &ellip. has been partially deaf since he was three.
+<clues></clues></ex>
+<ex>Beethoven went deaf.
+<clues>subj[person] v/go =</clues></ex>
+<sen uid=515368  ord=1a tag=thedeaf>
+<gr>n-pl; after `the"</gr>
+<def>designating people who are deaf</def>
+<ex>Special services, such as subtitles for the deaf, are protected.</ex>
+<ex>&ellip. the Royal National Institute for the Deaf.</ex></sen></sen>
+<sen uid=515365  ord=2 tag=wonthear>
+<gr>adj-qual; usu with `to"; usu comp</gr>
+<def>unwilling or unable to listen or pay attention</def>
+<ex>I was deaf to the pleadings of my relatives and friends.
+<clues>subj[person] v/be = to [speechact]</clues></ex>
+<ex>But the East Germans, deaf to all advice, are lashing out in fury and bitterness, blaming everyone but themselves for their predicament.</ex></sen>
+<sen uid=515366  ord=3 tag=fallon>
+<idi>fall on deaf ears</idi>
+<gr>phr/adj</gr>
+<def>(of a statement) to be ignored</def>
+<ex>Their plea is likely to fall on deaf ears.</ex></sen>
+<sen uid=515367  ord=4 tag=deafear>
+<idi>turn a deaf ear to someone or something</idi>
+<gr>phr/adj</gr>
+<def>to pretend not to hear someone or something</def>
+<ex>Tito, with his troops making steady progress up the Dalmatian coast, turned a deaf ear to all appeals.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=517767>tone-deaf
+<lex>
+<sen uid=517766  tag=tondef>
+<gr>adj-qual</gr>
+<def>unable to perceive differences of musical pitch accurately</def>
+<ex>He had repeatedly told her that she could not sing, that she was tone-deaf.
+<clues>=</clues></ex>
+<note hidden=TRUE>hyphen 4, two words 3</note></sen></lex></entry>

@@ -1,0 +1,66 @@
+
+<entry done=TRUE uid=512654>consume
+<lex>
+<sen uid=512646  tag=eat ord=1>
+<gr>vt: rarely, vi</gr>
+<reg>somewhat formal</reg>
+<def>(of a person or animal) to eat, drink, or ingest (food, drink, or other substances)</def>
+<ex>He consumed a beef and lettuce sandwich.</ex>
+<ex>16 per cent of women in north Glasgow eat no fruit and 12 per cent consume no green vegetables.</ex>
+<ex>&ellip. an overall reduction in the amount of alcohol consumed.</ex>
+<ex>&ellip. imprisoning people who &ellip. express their views in public, grow long hair, or consume harmless drugs.</ex>
+<ex>The vultures eat greedily, fighting over scraps, slipping off the rock in their haste to consume.</ex>
+<sen uid=512683  tag=use ord=1.1>
+<gr>vt, vi</gr>
+<def>(of a person, group, society, etc.) to buy or otherwise obtain and use (the specified product or goods)</def>
+<ex>The goods they consume, from food to furniture, are either currently produced by informal sector artisans, or have the potential to be produced in this way.</ex>
+<ex>She gives three green rules to watch out for when shopping &dash. 1 look at what you consume; 2 how much you consume and 3 what happens to it when you have finished consuming the product and what happens to the packaging.</ex>
+<ex>It was almost a patriotic duty to consume as conspicuously as possible.</ex>
+<see>
+<xtyp>See also CONSUMER</xtyp></see></sen>
+<sen uid=514227  tag=read ord=1.2>
+<gr>vt</gr>
+<def>(of a person) to read (the specified book or journal); to see (the specified film or programme); to listen (to the specified music), etc.</def>
+<ex>It is an abstract art, which we none the less consume as readers rather than as connoisseurs of pure form.</ex>
+<ex>&ellip. his wife, whose capacity to consume weekly journals, TV programmes and even live conferences concerned with political issues was legendary.</ex>
+<ex>&ellip. a fresh example of Western pop to be studied, consumed and assimilated.</ex></sen></sen>
+<sen uid=512647  tag=resource ord=2>
+<gr>vt</gr>
+<def>(of people, societies, projects, machines, etc.) to use up (time, money, energy, fuel, or other resources)</def>
+<ex>In most of the state's 900 or so water districts farmers often have priority in the use of water. They consume 83 per cent of the state's water but contribute only 3 per cent to the state's economy.</ex>
+<ex>The country has managed to consume more energy per capita than anywhere else.</ex>
+<ex>&ellip. a period when his energy was consumed by the opening of his own nightclub.</ex>
+<ex>Bikes were, in fact, environment friendly, consuming less fuel than cars, emitting less carbon dioxide, and causing less congestion and stress.</ex>
+<ex>&ellip. reputedly Hong Kong's highest-paid barrister before politics began to consume virtually all his time.</ex>
+<ex>A product as complex as a large computer program requires very careful testing to see that it performs as designed. Such testing may consume a major share of the resources required to implement a program.</ex></sen>
+<sen uid=512657  tag=destroy ord=3>
+<gr>vt</gr>
+<def>to destroy (something) utterly; (of fire) to burn (a building etc.) and reduce it to nothing</def>
+<ex>Sooner or later it will be consumed like a stack of dry firewood.</ex>
+<ex>Oceanic crust is consumed at destructive plate margins at very nearly the same rate at which it is created at constructive plate margins.</ex>
+<ex>Revolutions consume their heroes and are betrayed, July days give way to Thermidors and Brumaires, and Bastilles have a habit of rising from their rubble.</ex></sen>
+<sen uid=512658  tag=feeling ord=4>
+<gr>vt; often pass</gr>
+<def>(of a feeling, desire, object of interest, etc.) to absorb or obsess (a person) entirely; to occupy all his or her thoughts and energy</def>
+<ex>He was restless, pernickety and consumed by curiosity.</ex>
+<ex>Navratilova was almost consumed by her desire to win.</ex>
+<ex>The work itself tends to become unutterably thankless and tedious. Staff are consumed by hopelessness.</ex>
+<ex>An unhealthy excitement consumed him.</ex>
+<ex>Japan is consumed by golf. There are 15 million men playing the game and two million women. It is the modern surrogate for the samurai.</ex>
+<sen uid=514261  tag=passion ord=4a>
+<dfrm>consuming</dfrm>
+<gr>adj-classif; attrib</gr>
+<def>as an adjective</def>
+<ex>&ellip. the victim of a consuming passion, that was taking over her life, her destiny, her sense of identity.</ex>
+<ex>&ellip. unearthing odd snippets of consuming interest.</ex>
+<ex>&ellip. a woman with a consuming mission to gain recognition for her native country's ceramic art.</ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=512661>time-consuming
+<lex>
+<sen uid=512660  tag=time>
+<gr>adj-qual</gr>
+<def>(of an activity or process) taking up an inordinate amount of time</def>
+<ex>&ellip. a particularly messy and time-consuming construction project.
+<clues>=</clues></ex>
+<ex>Preparing good documentation is expensive, time consuming, and boring to most programmers, but without it program testing and maintenance are exceedingly difficult, expensive, and error prone.</ex>
+<ex>In the autumn, a time-consuming task is the raking up of leaves.</ex></sen></lex></entry>

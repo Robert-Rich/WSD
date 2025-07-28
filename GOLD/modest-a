@@ -1,0 +1,270 @@
+700001:small or unamb
+700002:small or inept
+700003:small
+700004:small or unamb
+700005:small or unspec
+700006:small
+700007:notc
+700008:unspec
+700009:small or unamb
+700010:small or inept
+700011:notc or shy
+700012:notc
+700013:small
+700014:unspec
+700015:small or inept
+700016:small
+700017:shy or notc
+700018:notc
+700019:unspec
+700020:notc
+700021:notc
+700022:small
+700023:unspec
+700024:small
+700025:small
+700026:unspec
+700027:small
+700028:unamb
+700029:small
+700030:humble or inept or unspec
+700031:humble
+700032:small
+700033:humble
+700034:small
+700035:unspec
+700036:small
+700037:small or inept
+700038:small
+700039:unamb
+700040:unspec or unamb or adeq or small
+700041:small
+700042:small or inept
+700043:small or inept
+700045:notc
+700046:notc
+700047:notc
+700048:unspec or unamb
+700049:unspec
+700050:small
+700051:small or inept
+700052:small
+700053:notc or unamb
+700054:notc
+700055:small or inept
+700056:small
+700057:small
+700058:small
+700059:small
+700060:small or inept
+700061:unspec
+700062:small or inept
+700063:unamb
+700064:notc or unamb
+700065:unamb or small
+700066:small
+700067:small
+700068:small or unamb
+700069:small
+700070:small or inept
+700071:notc
+700072:small
+700073:small or inept
+700074:small
+700075:small
+700076:small or inept
+700077:small
+700078:notc
+700079:small
+700080:unamb
+700081:small or inept
+700082:small or unamb
+700083:notc
+700084:small
+700085:small or adeq
+700086:small or inept
+700087:unspec
+700088:small
+700090:small or inept
+700091:unspec or small or unamb
+700092:unspec
+700093:small
+700094:small or inept
+700095:unspec
+700096:small
+700097:small or unspec
+700098:small or inept
+700099:small or inept
+700100:small or adeq
+700101:small or inept
+700102:small or adeq
+700104:small or inept
+700105:small or inept
+700106:small
+700107:small or inept
+700108:small
+700109:notc
+700110:small or inept
+700111:small or inept
+700112:small or inept
+700113:small or inept
+700114:adeq
+700115:small or inept
+700116:small or unamb
+700117:unspec or unamb
+700119:notc or shy
+700120:small
+700121:small or adeq
+700122:small or inept
+700123:notc
+700124:small or inept
+700125:notc
+700126:shy or notc
+700127:small
+700128:unspec
+700129:unspec
+700130:small or inept
+700131:small or inept or adeq
+700132:small or inept
+700133:unspec
+700134:unamb
+700135:inept or unspec
+700136:unamb or unspec
+700137:unspec
+700138:small or inept
+700139:small or adeq
+700140:small or adeq
+700141:small or adeq
+700142:unspec
+700143:shy or notc
+700144:notc
+700145:small
+700146:small or inept
+700147:small or inept
+700148:unspec or U or unamb
+700149:notc
+700150:notc
+700151:unamb
+700152:humble
+700153:small or adeq
+700154:notc
+700155:small
+700156:small
+700157:small or inept
+700158:notc
+700159:small or inept
+700160:small or unspec
+700161:unspec
+700162:small
+700163:unamb
+700165:small or inept
+700166:small or inept
+700168:notc
+700169:unamb
+700170:small or inept
+700171:unamb
+700172:small or inept or unspec
+700173:unspec
+700174:small or inept
+700175:unspec or humble
+700176:small or inept
+700177:notc
+700178:small or adeq or inept
+700179:unspec
+700180:small or inept or adeq
+700181:unspec
+700182:small
+700183:small or unspec
+700185:small or inept
+700186:small or inept or unamb
+700187:small or inept
+700188:small or inept
+700189:unamb
+700190:small or unspec
+700191:small or inept
+700192:small or inept
+700193:small or inept
+700194:unspec
+700195:small or inept
+700196:small or inept
+700197:unspec or unamb
+700198:small or adeq
+700199:unspec
+700200:small or inept
+700201:small or inept
+700202:unspec
+700203:small or adeq
+700204:notc
+700205:small or inept
+700206:small or adeq
+700207:inept
+700208:small
+700209:small or adeq
+700210:unamb or small
+700211:small or adeq
+700212:small or inept or unspec
+700213:small
+700214:notc
+700215:small or inept
+700216:small
+700217:small or adeq
+700218:small
+700219:unamb
+700220:small or inept
+700221:small or inept
+700222:inept or small
+700223:small or adeq
+700224:small
+700225:small or inept or unamb
+700226:small or inept
+700227:small or inept
+700228:small or adeq
+700229:notc
+700230:small or inept or adeq
+700231:small or inept
+700232:unspec
+700233:small
+700234:small
+700235:small
+700236:small or unamb
+700237:unamb
+700238:small
+700239:small
+700240:small or inept
+700241:small or inept
+700242:adeq or small or inept
+700243:small
+700244:unspec
+700245:notc or unamb or unspec
+700246:notc
+700247:small or inept
+700249:notc
+700250:small or adeq
+700251:small or inept
+700252:small or inept
+700253:humble
+700254:small-comb
+700255:notc
+700256:notc
+700257:small or adeq
+700258:small
+700259:small
+700260:small
+700261:small or adeq
+700262:small or inept
+700263:small or inept
+700264:unspec or humble
+700265:unspec
+700266:small or inept
+700267:small
+700268:unamb
+700270:unspec
+700271:small
+700272:small or adeq
+700273:unamb
+700274:unspec
+700275:unspec
+700276:small or inept
+700277:notc
+700279:small or unamb
+700280:notc

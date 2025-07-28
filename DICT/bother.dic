@@ -1,0 +1,117 @@
+
+<entry done=TRUE>bother
+<lex>
+<sen uid=501566  ord=1 tag=mkeffort>
+<gr>vi; after neg; usu with to-infin; also with -ing; rarely cont</gr>
+<def>(of a person) to take the trouble or effort needed (to do something)</def>
+<ex>About 70 percent of the shareholders did not bother to vote at all.
+<clues>subj[person] = neg to-infin</clues></ex>
+<ex>Elinor did not bother to respond.</ex>
+<ex>If you think I have no chance at all, I won't bother risking disappointment.
+<clues>subj[person] = neg -ing</clues></ex>
+<ex>I don't know why I bother.</ex>
+<ex>Please don't bother!</ex>
+<sen uid=501573  ord=1.1 tag=cantbb>
+<idi>can't be bothered</idi>
+<gr>phr/v; usu with to-infin</gr>
+<def>be unwilling to make the effort needed (to do something)</def>
+<ex>Janet's bedroom is painted pink, which she says is `how it's always been, I can't be bothered to repaint it".
+<clues>v/can not be past-part/=</clues></ex>
+<ex>The calculations needed &ellip. are so tedious that theorists cannot be bothered to do them.</ex></sen></sen>
+<sen uid=503751  ord=2 tag=concernself>
+<gr>vi; after neg; with `about" or `with"; rarely cont</gr>
+<def>(of a person) to concern oneself (about something or someone)</def>
+<ex>He did not bother about the noise of the typewriter because Danny could not hear it above the sound of the tractor.</ex>
+<ex>Why bother about the colour of the lifeboat?</ex>
+<ex>Don't bother about us, we'll try to keep out of your way.</ex>
+<ex>The only rocks worth bothering about are `hard" rocks.</ex>
+<ex>Don't bother with the map. I know where I am now.</ex>
+<ex>Who bothers with such folk?</ex>
+<sen uid=503758  ord=2.1 tag=bbabout>
+<dfrm>be bothered</dfrm>
+<gr>v-pass; with `about" or `with"</gr>
+<def>(of a person) to be concerned about or interested in (something)</def>
+<ex>The only thing I'm bothered about is the well-being of the club.
+<clues>v/be past-part/= prep/(about,with)</clues></ex>
+<ex>I'm not particularly bothered about how I look.</ex>
+<ex>Mrs Sprott didn't want to be bothered with such things.</ex></sen></sen>
+<sen uid=501563  ord=3 tag=upset>
+<gr>vt; often pass</gr>
+<def>(of a circumstance or event) to worry, disturb, or upset (a person)</def>
+<ex>Ava was bothered by my infidelity.
+<clues>subj[person] v-pass/= by [topic]</clues></ex>
+<ex>What's bothering you, sweetheart?
+<clues>subj/what = obj[person]</clues></ex>
+<ex>Nobody seemed particularly bothered.
+<clues>subj[person] neg v-pass/=</clues></ex>
+<ex>Poor Philip was particularly bothered by this symptom.</ex>
+<ex>It is an issue which bothers journalists.
+<clues>subj[topic] = obj[person]</clues></ex>
+<ex>Neal Grossman is bothered that the press has dubbed the food `California cuisine".
+<clues>subj[person] v-pass/= report-cl</clues></ex>
+<note>Senses 2 and 3 almost constitute an ergative -- but there is an interesting prepositional difference.</note>
+<sen uid=502548  ord=3.1 tag=hot>
+<idi>(all) hot and bothered</idi>
+<gr>phr/adj</gr>
+<reg>informal</reg>
+<def>physically uncomfortable because of being too hot, pressured, and so on</def>
+<ex>To be fair, travelling to work on a summer's day or sweltering behind a desk in a business suit is enough to leave anyone in a sweat. But instead of getting all hot and bothered, men &dash. and women &dash. would do well to take a leaf out of The Heatwave Handbook.</ex></sen></sen>
+<sen uid=502545  ord=4 tag=pester>
+<gr>vt</gr>
+<def>(of a person or animal) to pester or irritate (someone) with annoying behaviour</def>
+<ex>She decided not to bother him now with the Russian material.
+<clues>subj[person] = obj[person]</clues></ex>
+<ex>She said: `I'm sorry to bother you at work."
+<clues>`sorry to" = obj[person]</clues></ex>
+<ex>I realise this has been a blow to you, Mr Pertwee. We won't bother you much longer.</ex>
+<ex>Tourists are so bothered by mosquitos that pressure may mount for them to be wiped out.
+<clues>subj[insect] = obj[person]</clues></ex>
+<note>Often used as part of an apology or politeness formula</note></sen>
+<sen uid=501567  ord=5 tag=interest>
+<gr>vt; usu neg</gr>
+<reg>infrequent</reg>
+<def>(of a circumstance or fact) to be a matter of interest or concern to (someone)</def>
+<ex>Looks per se don't bother me[; it's personality that counts].</ex></sen>
+<sen uid=501571  ord=6 tag=fuss>
+<gr>nu</gr>
+<def>effort, worry, or fuss</def>
+<ex>Changing it was too much bother.
+<clues>too_much =</clues></ex>
+<ex>Its powers &ellip. are scarcely great enough to make it worth the bother of finding something to replace it.
+<clues>[neg] worth the =</clues></ex>
+<ex>Unless one goes to the bother of fetching a ladder every time, the only way up is to scramble chimpanzee-like via a window-sill.
+<clues>`go to the" = of</clues></ex></sen>
+<sen uid=502546  ord=7 tag=spot>
+<gr>nu</gr>
+<def>trouble or difficulty (often in the expressions `a spot of bother", `a bit of bother", often used ironically)</def>
+<ex>I think you are in a bit of bother.
+<clues>in n-part of =; c/bit</clues></ex>
+<ex>I've had a spot of bother for the past four or five years with my knee.
+<clues>`a spot of' =</clues></ex>
+<ex>&ellip. a spot of bother Lloyd George had in 1911.</ex></sen>
+<sen uid=520409  ord=8 tag=nuisance>
+<gr>n-sing; usu after `a"</gr>
+<def>a cause of difficulty or trouble</def>
+<ex>I did not want to go on buying LPs: they are unwieldy, prone to deteriorate and a bother to play.</ex>
+<ex>I'm so sorry to be a bother to Clare.</ex></sen>
+<sen uid=502547  ord=9 tag=fight>
+<gr>nu</gr>
+<reg>informal and infrequent</reg>
+<def>an outbreak of physical violence; fighting</def>
+<ex>To the prosecution the reason for Abdus Sattar's death was clear. Scouller and Carroll were `drunk with power and violence". The evening of May 24 had been a `demonstration of &ellip. knives and drink and excitement and bother."
+<clues>c/violence; c/knives</clues></ex>
+<ex>I made a decision not to get involved in any bother on the field.
+<clues>`involved in" =</clues></ex></sen>
+<sen uid=501572  ord=10 tag=EXCLAM>
+<gr>interj</gr>
+<reg hidden=TRUE>British, old-fashioned</reg>
+<def>a mild exclamation expressing annoyance or impatience (now mainly in humorous use)</def>
+<ex>`Oh drat and bother", she expectorated.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=513486>bother boots
+<lex>
+<sen uid=513485  tag=boots>
+<gr>n-pl</gr>
+<def>heavy boots worn by skinheads and other aggressive persons, used for kicking opponents in a fight; also in metaphorical use</def>
+<ex>Wherever she goes Mrs Thatcher has her bother boots on.
+<clues>=</clues></ex></sen></lex></entry>

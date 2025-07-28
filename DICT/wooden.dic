@@ -1,0 +1,42 @@
+
+<entry done=TRUE uid=523287>wooden
+<lex>
+<sen ord=1 uid=523270  tag=ofwood>
+<gr>adj-classif; usu attrib</gr>
+<def>made of wood</def>
+<ex>They reached
+a small, scarred wooden door in the corrugated-iron wall.</ex>
+<ex>&ellip. a large room with a tiled wooden floor.</ex>
+<ex> Fish are set
+out to dry on wooden frames.</ex>
+<ex>Rescuers with shovels and wooden poles searched for more
+victims in the rubble.</ex>
+<ex>The tables and chairs were plain and wooden, but comfortable.</ex></sen>
+<sen uid=523269  ord=2 tag=caine>
+<gr>adj-qual</gr>
+<def>(chiefly of movements or actions) lacking liveliness, grace, or spirit; dull; stiff</def>
+<ex>There is a
+stiff-wristed action and movements become wooden and lack flow. </ex>
+<ex>&ellip. the wooden prose
+beloved of banks.</ex>
+<ex> Wooden acting,
+appalling script and routine stunts.</ex>
+<ex>His music is still as attractive as ever, though his
+characters have become wooden and stereotyped.</ex></sen></lex></entry>
+
+<entry done=TRUE>wooden spoon
+<lex>
+<sen uid=523277 ord=1 tag=wsp>
+<gr>nc</gr>
+<def>a spoon made of wood; usually a large one, used as a baking utensil</def>
+<ex> Stir the rice quickly
+and thoroughly with a wooden spoon.</ex></sen>
+<sen uid=523278 ord=2 tag=bottom>
+<gr>n-sing; after `the"</gr>
+<reg>informal</reg>
+<def>an imaginary trophy said to be awarded to the team or competitor finishing last; last place in a contest</def>
+<ex>The Cornishmen have finished up with the wooden spoon in the division six times
+in the last seven seasons.</ex>
+<ex>Wales
+narrowly avoided the wooden spoon with an 85-80 win over Ireland.</ex>
+<note>origin of this needs explaining</note></sen></lex></entry>

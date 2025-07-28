@@ -1,0 +1,104 @@
+
+<entry done=TRUE>bury
+<lex>
+<sen uid=514113  ord=1 tag=inter>
+<gr>vt; often pass</gr>
+<def>(of a person or group) to deposit (a corpse or other remains of the dead) in a permanent resting place such as a grave, a tomb, the sea, etc., usually with funeral rites</def>
+<ex>He died in Venice and is buried in Westminster Abbey.
+<clues>subj[person] v-pass/= adjunct-place</clues></ex>
+<ex>He died at Spelsbury but was buried at Quarrendon.</ex>
+<ex>In accordance with his parents' wishes, he was buried at sea.
+<clues>= at_sea</clues></ex>
+<ex>The families of the victims were not allowed to view the bodies or bury them.</ex>
+<note>question is whether this diff sense from just putting a body in the ground</note>
+<sen uid=514959  ord=1.1 tag=lose>
+<gr>vt; usu with adjunct-time</gr>
+<def>(of a person) to lose (someone, usually a relative) by death</def>
+<ex>He had been married, but had buried his wife some years before.
+<clues></clues></ex></sen>
+<sen uid=514956  ord=1.2 tag=dandb>
+<idi>dead and buried</idi>
+<gr>phr/v</gr>
+<def>dead and in one's grave; long dead; often (in metaphorical use), over and done with</def>
+<ex>The girl's
+body had been identified by her aunt, Mrs. Browne. She was dead and buried.</ex>
+<ex>I thought my international career was
+dead and buried, but I was delighted to receive the call.</ex>
+<ex>A second or so before
+half time Bradford should have been dead and buried as Tommy Jones hit the
+post.</ex></sen></sen>
+<sen uid=514131  ord=2 tag=inground>
+<gr>vt; usu with adjunct-place</gr>
+<def>to conceal (something) in the ground by digging and/or covering with earth</def>
+<ex>Residents bury winter stocks of cabbage in their gardens to keep them fresh.</ex>
+<ex>The boxes were loaded into the trucks and driven off, to be buried at a local authority dump.</ex>
+<ex>They had turned their home into a hide-out, buried guns in the back yard and loaned the pickup for night-time Sandinista missions.</ex>
+<sen uid=514112  ord=2.1 tag=hatchet>
+<idi>bury the hatchet</idi>
+<gr>phr/v; recip with `with"</gr>
+<def>to stop quarrelling and become more friendly</def>
+<ex>Trusthouse Forte and the Savoy Hotel buried the hatchet after a nine-year
+struggle that has cost &quid.2.5m in lawyers fees.</ex>
+<ex>A weekend of fresh starts, new openings and
+unfolding opportunities helps you bury the hatchet with a friend, relative or
+colleague you've not been seeing eye-to-eye with.</ex></sen></sen>
+<sen uid=514756  ord=3 tag=cover>
+<gr>vt; often pass</gr>
+<def>(usually of a natural agency) to cover up or over with debris or other material</def>
+<ex>Many [years] went out with a cracking frost and with the Radnorshire hills buried in snow.</ex>
+<ex>Pompeii, approximately eight kilometres from Vesuvius, was buried over three metres deep in pumice in A.D. 79.</ex>
+<ex>In Xikou &ellip. a cliff collapsed burying more than 200 workers and their dependants.</ex>
+<ex>City authorities had estimated that 253 people were buried under the debris of a collapsed double-decked road.</ex></sen>
+<sen uid=514124  ord=4 tag=putdeep>
+<gr>vt; usu with adjunct-place</gr>
+<def>to thrust or put (something) deeply into something, often so that it cannot be seen</def>
+<ex>Dawn took them and buried them in her coat pocket.
+<clues>subj[person] = obj in [clothing]</clues></ex>
+<ex>He buried his face in her hair, and his eyes filled with tears again.
+<clues>subj[person] = obj [bodypart] in n</clues></ex>
+<ex>As a yacht buries its bows in the wave ahead, tons of water can come roaring over the decks.</ex>
+<ex>When I was at college I used to bury my nose in a book rather than join one of the societies.
+<clues>subj[person] = obj[head-part] in [book]</clues></ex>
+<sen uid=514669  ord=4.1 tag=engross>
+<gr>v-refl; with `in"</gr>
+<def>to immerse oneself in a book, subject, activity, etc.</def>
+<ex>Coming home to bury herself in her books would only frustrate him and the children.</ex>
+<ex>I sensed that he was unhappy, and thought this was why he buried himself in work.</ex></sen>
+<sen uid=514123  ord=4.2 tag=ostrich>
+<idi>bury one's head in the sand</idi>
+<gr>phr/v</gr>
+<def>to refuse to acknowledge reality</def>
+<ex>Don't let the boss bury his head in the sand and hope
+the recession will pass him by.</ex></sen>
+<sen uid=514953  ord=4.3 tag=putaway>
+<gr>vt</gr>
+<reg>informal</reg>
+<def>(of a soccer player) to put (the ball, a pass, etc.) firmly into the goal</def>
+<ex>The former West Ham and Birmingham forward buried Craig Shakespeare's corner with an emphatic downward header.</ex></sen>
+<sen uid=514955  ord=4.4 tag=vi>
+<gr>vi</gr>
+<def>(of an object) to plunge itself deeply into something</def>
+<ex>Coming into the bottom mark at the end of the opening triangle the nose buried, water covered the foredeck to the mast and the foredeck man &ellip. up to his waist.</ex></sen></sen>
+<sen uid=515026  ord=5 tag=hide>
+<gr>vt; often with adjunct-place</gr>
+<def>to conceal (a thing) or make it inconspicuous, usually with some notion of placing it deeply under or within a large mass of material</def>
+<ex>Flaws in the early analysis and design stages may be buried in lengthy design documents.</ex>
+<ex>The announcement &ellip. was buried in the middle of a long speech in the Communist Party paper.</ex>
+<ex>He buried his emotions; all that drove him was a need for challenge.</ex>
+<ex>Sometimes one is brought face to face with facts that cannot be buried.</ex>
+<ex>&ellip. a Russian nationalism buried but not extinguished under communism.</ex>
+<ex>Will the CBSO make known its findings or bury them forever?</ex>
+<ex>&ellip. coaxing him to recall the suffering buried in his own past.</ex>
+<ex>Both appeared ready to bury their differences in the interests of getting Mr Gandhi out.
+<clues>subj-pl[person] = obj/difference</clues></ex>
+<note>could be split into subsections, but how many?</note></sen>
+<sen uid=514668  ord=6 tag=consign>
+<gr>vt</gr>
+<def>to consign to oblivion or obscurity; to put an end to</def>
+<ex>The leadership expects the ballot to bury the issue once and for all.</ex>
+<ex>The historic achievement of the EC is to have buried Franco-German enmity.</ex>
+<sen uid=514951  ord=6.1 tag=defeat>
+<gr>vt</gr>
+<reg>informal</reg>
+<def>to overwhelm (an opponent) totally or beyond hope of recovery</def>
+<ex>Such was the pace and penetration of their play that Leeds might easily have been buried by the interval.</ex></sen></sen></lex></entry>

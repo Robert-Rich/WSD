@@ -1,0 +1,71 @@
+
+<entry done=TRUE uid=512320>generous
+<lex>
+<sen ord=1 uid=512274  tag=unstint>
+<gr>adj-qual</gr>
+<def>(of a person or an institution) giving willingly more of something, especially money, than is strictly necessary or expected; (of help) given abundantly and willingly</def>
+<ex>Kodak, one of British athletics' most faithful and generous sponsors, have officially ended their five-year, &quid.5 million backing.
+<clues hidden=TRUE>= sponsor</clues></ex>
+<ex>The British people historically have been extraordinarily generous at disaster giving.
+<clues hidden=TRUE>subj[person] comp/= at; c/n/giving</clues></ex>
+<ex>Grateful thanks to Mr D.S.V. Fosten for his generous help, advice and knowledge freely given.
+<clues hidden=TRUE>= help</clues></ex>
+<ex>It is fashionable to attack doctors for being too liberal in dispensing medication and less than generous with their explanations.
+<clues hidden=TRUE>= with</clues></ex>
+<ex>The US jazz press has been generous in its praise.
+<clues hidden=TRUE>= in poss nu</clues></ex>
+<ex>He was generous with the time he gave to professional organisations.
+<clues hidden=TRUE>= with time</clues></ex>
+<note hidden=TRUE>entry is oversplit - WRT</note></sen>
+<sen ord=2 uid=512309  tag=bigbucks>
+<gr>adj-qual</gr>
+<def>(of something monetary) consisting of or representing a large amount of money, sometimes with the implication that the amount is greater than is deserved</def>
+<ex>The Government is unlikely to be pushed into generous concessions by the rash of public sector disputes.
+<clues hidden=TRUE>= concession</clues></ex>
+<ex>It pays you generous interest on your money.
+<clues hidden=TRUE>= interest</clues></ex>
+<ex>Butler had assembled a complicated financial package which included generous loans to enable the voluntary bodies to build or convert schools for secondary purposes.
+<clues hidden=TRUE>= [money]</clues></ex>
+<ex>Generous offers from News International have helped drive up pay.
+<clues hidden=TRUE>= offer</clues></ex>
+<ex>I can offer you &ellip. a cheque for the generous sum of &quid.15,000.
+<clues hidden=TRUE>= [money]</clues></ex></sen>
+<sen ord=3 uid=512277  tag=kind>
+<gr>adj-qual; often pred</gr>
+<def>(of a person or an action) manifesting an inclination to recognize the positive aspects of someone or something, often disinterestedly; (of something that is offered by one person to another) favouring the recipient's interests rather than the giver's</def>
+<ex>He was always generous to the opposition.
+<clues hidden=TRUE>= to the opposition</clues></ex>
+<ex>His interpretation of my remarks had been generous, often creatively so, making of them something far more brilliant than I had intended.
+<clues hidden=TRUE>subj/interpretation comp/=</clues></ex>
+<ex>This generous desire to show us the best in an author is manifested in his long chapter about Spenser.
+<clues hidden=TRUE>= desire</clues></ex>
+<ex>Some high-minded men believed that the Germans would turn against Hitler if offered generous enough terms.</ex>
+<ex>The emotions are generous &dash. altruistic almost &dash. &ellip. we feel disturbed personally for other people, for people who have no direct connection with us.
+<clues hidden=TRUE>subj[emotion] comp/=</clues></ex></sen>
+<sen uid=512410  tag=liberal ord=4>
+<gr>adj-qual; often attrib</gr>
+<def>leaning toward the positive; liberal</def>
+<ex>A 25 per cent success rate would be a generous estimate.
+<clues hidden=TRUE>= estimate</clues></ex>
+<ex>Salaries are based on a generous comparison with those paid by the federal civil service of the richest country in the world, the USA.
+<clues hidden=TRUE>= comparison</clues></ex>
+<ex>With the wheels lowered (limiting speed a generous 134 kts) an Apache will settle at 95-100 kts.
+<clues>= [measurement]</clues></ex></sen>
+<sen ord=5 uid=512310  tag=copious>
+<gr>adj-qual; usu attrib</gr>
+<def>(of something that can be quantified) abundant; copious</def>
+<ex>Serve immediately with generous amounts of fresh Parmesan.
+<clues hidden=TRUE>= [quantity]</clues></ex>
+<ex>In winter protect your cheeks with a generous application of moisturiser.
+<clues>= application</clues></ex>
+<ex>Labour spokesmen made generous use of statistics to castigate the government for refusing to spend more money on science.
+<clues hidden=TRUE>= use</clues></ex></sen>
+<sen ord=6 uid=512275  tag=spacious>
+<gr>adj-qual; usu attrib</gr>
+<def>(of a room or building) large in size; spacious; (of clothing) ample</def>
+<ex>As if the house were not large enough, there are generous attics stretching right across it, offering another five rooms for expansion.
+<clues hidden=TRUE>= [room]</clues></ex>
+<ex>A generous grill pan large enough to take a family-sized mixed grill
+<clues hidden=TRUE>= pan</clues></ex>
+<ex>A cream crepe dress &ellip. with generous puffed sleeves and a pleated skirt
+<clues hidden=TRUE>c/[garment]</clues></ex></sen></lex></entry>

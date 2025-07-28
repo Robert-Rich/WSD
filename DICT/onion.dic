@@ -1,0 +1,50 @@
+
+<entry done=TRUE uid=528340>onion
+<lex>
+<sen uid=528347  tag=veg ord=1>
+<gr>nc, nu</gr>
+<field>Food</field>
+<def>the pungent swollen bulb of a plant, having many concentric skins, and widely used in cooking as a vegetable and flavouring</def>
+<ex>&ellip. mutton stew, with potatoes and onions floating in the thickened parsley sauce.</ex>
+<ex>&ellip. a finely chopped onion.</ex>
+<ex>Gently fry the onion and garlic for 5 minutes.</ex>
+<ex>&ellip. served with chips, tomatoes, onion rings and side salad.</ex>
+<ex>&ellip. french onion soup.</ex>
+<kind>cocktail onion, salad onion, Spanish onion, spring onion</kind>
+<note hidden=TRUE>cannot separate successfully nu and nc senses</note></sen>
+<sen uid=528344  tag=plant ord=2>
+<gr>nc</gr>
+<field>Botany</field>
+<def>the liliaceous plant, Allium cepa, that produces onions, having a short stem and bearing greenish-white flowers; any similar or related plant</def>
+<ex>When carrots are grown alongside onions, they protect each other from pests.</ex>
+<ex>Shallots belong to the onion family.</ex>
+<ex>&ellip. onion sets</ex>
+<ex>Allium giganteum is an attractive onion with four feet tall stems topped with dusky purple flowers.</ex></sen></lex></entry>
+
+<entry done=TRUE>onion dome
+<lex>
+<sen uid=528376  tag=basil>
+<gr>nc</gr>
+<field>Architecture</field>
+<def>a bulbous dome on a church, palace, etc</def>
+<ex>&ellip. the multicoloured onion domes of St Basil's Cathedral.
+<clues>=</clues></ex>
+<note hidden=TRUE>typically Russian?</note></sen></lex></entry>
+
+<entry done=TRUE>onion-domed
+<lex>
+<sen uid=528375  tag=roofed>
+<gr>adj-classif</gr>
+<field>Architecture</field>
+<def>(of a church or other building) having one or more onion domes</def>
+<ex>Soll is a charming cluster of broad roofed houses and inns sprawling lazily around an onion domed church.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE>spring onion
+<lex>
+<sen uid=528348  tag=spring>
+<gr>nc</gr>
+<field>Botany, Food</field>
+<def>a variety of onion that is taken from the ground before the bulb has formed fully, and is typically eaten raw in salads</def>
+<ex>Garnish with spring onions and radish waterlilies.
+<clues>=</clues></ex></sen></lex></entry>

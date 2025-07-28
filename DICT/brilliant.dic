@@ -1,0 +1,81 @@
+
+<entry done=TRUE uid=538328>brilliant
+<lex>
+<sen uid=538323  tag=ach ord=1>
+<gr>adj-qual</gr>
+<def>(of an achievement, performance, or conception) showy and impressive</def>
+<ex>The audience erupted into the kind of applause that usually only follows a brilliant performance.
+<clues>= [performance]</clues></ex>
+<ex>Gianni Schicchi &ellip. is a brilliant comic opera set in 13th-century Florence.
+<clues>= [art-work]</clues></ex>
+<ex>She achieved a brilliant academic career in the government think tank at Novosibirsk.
+<clues>= career</clues></ex>
+<ex>&ellip. a brilliant display of goalkeeping.
+<clues hidden=TRUE>= at [activity]</clues></ex>
+<ex>Then someone had a brilliant idea.
+<clues hidden=TRUE>= idea</clues></ex>
+<sen ord=1.1 uid=538326  tag=righton>
+<gr>adj-classif</gr>
+<reg>informal</reg>
+<def>excellent; superb; very good: a general term of approbation used to express approval or pleasure about things other than performances and achievements</def>
+<ex>`It is brilliant news; I'm absolutely delighted," said the former England midfield player.</ex>
+<ex>She's had a brilliant time.</ex>
+<ex>&ellip. Barnes, who was in brilliant form.</ex>
+<ex>&ellip. a delicious meal, outdoor disco and brilliant atmosphere.</ex></sen></sen>
+<sen uid=538325  tag=perf ord=2>
+<gr>adj-qual</gr>
+<def>(of a performer or exponent of some activity) very good at the activity specified; impressive; dazzling</def>
+<ex>&ellip. a brilliant guitarist.
+<clues>= [person-performer]</clues></ex>
+<ex>&ellip. a brilliant cavalry commander.</ex>
+<ex>my Intourist guide &ellip. proved to be not merely a lively guide but a brilliant physicist and a secret poet.</ex>
+<ex>&ellip. one of the most brilliant defensive players of all time.</ex>
+<ex>He was brilliant at invective.</ex>
+<sen uid=538380  tag=horse ord=2a>
+<gr>adj-qual</gr>
+<field>Horse racing</field>
+<def>also used of racehorses and greyhounds</def>
+<ex>Sheikh Hamdan al-Maktoum &ellip. won the Gold Seal Oaks at Epsom on Saturday with his brilliant filly Salsabil.
+<clues hidden=TRUE>= [horse]</clues></ex></sen></sen>
+<sen uid=538322  tag=pers ord=3>
+<gr>adj-qual</gr>
+<def>(of a person) highly intelligent or talented</def>
+<ex>Emlyn Davies was brilliant, gentle, and witty &dash. a delightful companion.</ex>
+<ex>&ellip. one of the most brilliant men I have ever known.
+<clues>= [person]</clues></ex></sen>
+<sen uid=538324  tag=color ord=4>
+<gr>adj-qual or submod with adj</gr>
+<def>(of a colour or a surface) reflecting a high proportion of light; vivid and noticeable</def>
+<ex>I gazed on pink palaces in Jaipur, lost in a world of brilliant colours, palms and peacocks.
+<clues hidden=TRUE>= colour</clues></ex>
+<ex>The Siberian crane stands four and a half feet tall, its brilliant white plumage offset by a blood-red beak, face and legs.
+<clues hidden=TRUE>= [colour]</clues></ex>
+<ex>Its ochre stone is festooned with brilliant virginia creeper.
+<clues hidden=TRUE>= [plant]</clues></ex></sen>
+<sen uid=538379  tag=sun ord=5>
+<gr>adj-qual</gr>
+<def>(of sunshine or the light of a star) shining brightly or (of the weather) characterized by bright sunshine</def>
+<ex>Tens of thousands gathered in south London's brilliant sunshine for the country's biggest anti-poll tax demonstration.
+<clues hidden=TRUE>= sunshine</clues></ex>
+<ex>Meanwhile, the brilliant weather continued unbroken.
+<clues hidden=TRUE>= weather</clues></ex>
+<ex>At magnitude -2.7, Jupiter is three times brighter than the most brilliant star, Sirius.
+<clues hidden=TRUE>= (star, planet)</clues></ex></sen>
+<sen uid=538441  tag=smile ord=6>
+<gr>adj-qual</gr>
+<def>denoting a broad and cheerful smile in which the teeth are showing and seem to shine</def>
+<ex>Fiona gave Harry a brilliant smile.</ex></sen>
+<sen uid=538395  tag=music ord=7>
+<gr>adj-qual</gr>
+<field>Music</field>
+<def>having, a sharp, clear tone with prominent harmonics [CHECK WITH EXPERT]</def>
+<ex>The violins were alternately warm and brilliant.
+<clues hidden=TRUE>violins</clues></ex></sen>
+<sen uid=538392  tag=diamond ord=8>
+<gr>nc</gr>
+<def>a diamond cut into the shape of a many-faceted sphere</def></sen>
+<sen uid=538443  tag=admir ord=9>
+<gr>interj</gr>
+<reg>informal</reg>
+<def>an exclamation expressing admiration or approval, sometimes used ironically</def>
+<ex>`Brilliant," said David Gerrard.</ex></sen></lex></entry>

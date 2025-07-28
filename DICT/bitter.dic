@@ -1,0 +1,126 @@
+
+<entry done=TRUE>bitter
+<lex>
+<sen uid=500637  ord=1 tag=taste>
+<gr>adj-qual</gr>
+<def>having a sharp pungent taste; not sweet</def>
+<ex>&ellip. a very bitter flavour.
+<clues>c/flavour</clues></ex>
+<ex>&ellip. vegetables containing bitter juices, such as aubergines and courgettes.
+<clues>c/[food]</clues></ex>
+<ex>&ellip. a bitter cup of coffee.
+<clues>c/[drink]</clues></ex>
+<ex>The clean, bitter scent was delicious.</ex>
+<note>last ex included to show use with smells</note>
+<sen uid=506680  ord=1.1 tag=chocolate>
+<gr>adj-classif; usu attrib</gr>
+<def>(of chocolate) dark and unsweetened</def>
+<ex>Bitter chocolate may be added to meat sauces for extra flavour &dash. it sounds odd but it is very good.
+<clues>c/chocolate</clues></ex></sen>
+<sen uid=506104  ord=1.2 tag=pill>
+<idi>a bitter pill to swallow, and variants</idi>
+<gr>phr/adj</gr>
+<def>an unpleasant fact or situation that one is forced to accept</def>
+<ex>The traditionalist camp has had to swallow some bitter pills.
+<clues>c/v/swallow adj/=_n/pill</clues></ex>
+<ex>Defeat in last Sunday's Skol Cup final was a bitter pill for all at Ibrox to force down.</ex></sen></sen>
+<sen uid=500636  ord=2 tag=feelings>
+<gr>adj-qual</gr>
+<def>(of people, their remarks, or feelings) hurt, resentful, and hostile, because of events in their past or a sense of unjust treatment</def>
+<ex>He seemed to blame me more and more and became bitter against the outside world.
+<clues>subj/[person] be =</clues></ex>
+<ex>&ellip. a comment which produced a bitter response.
+<clues>c/[speechact]</clues></ex>
+<ex>&ellip. Morrison's lyrics, with their bitter vision of disillusion and alienation.
+<clues>c/[mentalact]</clues></ex></sen>
+<sen uid=500635  ord=3 tag=argument>
+<gr>adj-qual; usu attrib</gr>
+<def>(of an argument, conflict, struggle, etc., or its protagonists) acrimonious, harsh, and unrelenting</def>
+<ex>All these measures incurred the bitter opposition of ATLA.
+<clues>= opposition</clues></ex>
+<ex>&ellip. the desperate late stages of a long, cold and bitter conflict.
+<clues>= conflict</clues></ex>
+<ex>&ellip. a bitter critic of government policy.
+<clues>= critic</clues></ex>
+<ex>&ellip. the subject of a bitter dispute between the neighbouring republics.
+<clues>= dispute</clues></ex>
+<ex>&ellip. the two men who have been bitter enemies.
+<clues>= enemies</clues></ex>
+<note>of actions, events: used as an intensifier</note></sen>
+<sen uid=506637  ord=4 tag=unpleasant>
+<gr>adj-qual; attrib</gr>
+<def>(of an experience, situation, event, emotion etc.) painful and harsh, or difficult to accept or deal with</def>
+<ex>He knew from bitter experience what `considering very seriously" meant: it meant there were about ten others equally in the running.
+<clues>c/experience</clues></ex>
+<ex>The decision to delay plans for the rail link, the first new main railway line this century, may come as a bitter blow to Eurotunnel.
+<clues>c/blow</clues></ex>
+<ex>&ellip. his bitter frustration at being unable to denounce the corruption of his homeland.
+<clues>c/frustration</clues></ex>
+<ex>&ellip. the bitter effects of the post-war years on Madrid.</ex>
+<ex>&ellip. in a mood of bitter disappointment.
+<clues>c/disappointment</clues></ex>
+<note>often seems to be just an intensifier</note>
+<sen uid=506103  ord=4.1 tag=end>
+<idi>to the bitter end, until the bitter end</idi>
+<gr>phr/adj</gr>
+<def>to the very end, in spite of difficulties, distractions, or hopelessness</def>
+<ex>The Labour leader and Finance Minister, Mr Shimon Peres, and other senior party colleagues, sounded determined yesterday to follow the move through to the bitter end, even though Labour's chances of winning new general elections are far from clear.
+<clues>c/follow prep/to the adj/= prep-obj/end</clues></ex>
+<ex>[He] declared his intention to fight to the bitter end.
+<clues>c/fight prep/to the adj/= prep-obj/end</clues></ex>
+<note>future in environment</note></sen></sen>
+<sen uid=500634  ord=5 tag=weather>
+<gr>adj-qual</gr>
+<def>(of weather, winds, etc.) piercingly cold; very harsh</def>
+<ex>More than 400 people braved the bitter cold to attend the service.
+<clues>c/cold</clues></ex>
+<ex>The weather could be bitter in Spain during late autumn and winter.
+<clues>c/weather</clues></ex>
+<ex>Snow settled across the countryside and bitter winds forced those in exposed areas to take shelter and dream of summer.
+<clues>c/wind</clues></ex>
+<note>`bitter cold' is a strong collocation - almost compoundy</note></sen>
+<sen uid=500633  ord=6 tag=beer>
+<gr>nu</gr>
+<def>beer that is strongly flavoured with hops and has a bitter flavour</def>
+<ex>He had drunk three pints of bitter.
+<clues>pint of =</clues></ex>
+<ex>&ellip. handpumped Morlands bitter and the stronger Premium bitter.
+<clues>n-prop-mod =</clues></ex>
+<sen uid=506126  ord=6a tag=beer-c>
+<gr>nc</gr>
+<def>a variety of bitter; also, a serving of bitter</def>
+<ex>The drinks choice includes Morrell's Friar's and Whitbread keg bitters.
+<clues>n-pl/=</clues></ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=521926>bitter lemon
+<lex>
+<sen uid=521925  tag=bitter>
+<gr>nu</gr>
+<def>an effervescent lemon-flavoured drink, often used as a mixer</def>
+<ex>`You can take the car," said Wexford. `Stick to bitter lemon in the Olive, eh?"
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE>bitter-sweet
+<lex ord=1>
+<sen uid=506672  ord=1 tag=flavour>
+<gr>adj-classif</gr>
+<def>(of food or drink) sweet with a bitter aftertaste</def>
+<ex>The estate-bottled [oil] &ellip. was bittersweet, luscious, strong and pronounced.
+<clues>c/[food]</clues></ex></sen>
+<sen uid=506671  ord=2 tag=sweet>
+<gr>adj-classif</gr>
+<def>arousing pleasure or amusement that is tinged with sadness or irony</def>
+<ex>&ellip. Fran&ccedilla.oise Sagan whose bitter-sweet novelettes, like Bonjour Tristesse.
+<clues>c/[story]</clues></ex>
+<ex>&ellip. to compound hope of change with a bitter-sweet resignation at life's dreary sameness.
+<clues>c/[emotion]</clues></ex></sen></lex>
+<lex ord=2>
+<sen uid=506673  ord=1 tag=plant>
+<dfrm>bittersweet</dfrm>
+<gr>nu</gr>
+<field>Botany</field>
+<ex>On the peatlands at Shapwick, the dewed luxuriance of royal fern competes with an abundance of bittersweet and bog myrtle.
+<clues>c/[plant]</clues></ex>
+<see>
+<xtyp>= WOODY NIGHTSHADE</xtyp></see>
+<note>CED3 says there's also an American plant which is different from this: Bill says this is a very odd quote and the writer's confused with meadowsweet.</note></sen></lex></entry>

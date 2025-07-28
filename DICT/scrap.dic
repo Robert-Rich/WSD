@@ -1,0 +1,160 @@
+
+<entry done=TRUE>scrap
+<lex ord=1>
+<sen uid=534532  ord=1 tag=bit>
+<gr>nc; often with `of"</gr>
+<def>a small detached or torn piece of something; a fragment or remnant; a tiny portion or amount</def>
+<ex>&ellip. the cigarette ends and other scraps on the floor.</ex>
+<ex>Michael &ellip. sought rather guiltily in his pocket for the scrap of paper on which he had written the items.</ex>
+<ex>Sharpe took a scrap of charcoal and scrawled a thick ring round the crossroads.</ex>
+<ex>Human bones and scraps of clothing are still strewn through the undergrowth.</ex>
+<ex>This is the process whereby every scrap of green land in a town is up for grabs by development.</ex>
+<ex>Scraps of the local railway system, which died in the 1930s, can be seen imbedded in Los Angeles boulevards like fragments of a lost civilisation.</ex>
+<ex>For the first few days she automatically took part in the polite and futile ritual of picking up threads of the others' lives and offering scraps of information about her own.</ex>
+<sen uid=534632  ord=1a tag=notabit>
+<gr>n-sing; with neg</gr>
+<def>(with negative) the smallest piece or amount of something</def>
+<ex>It wouldn't have made a scrap of difference if you'd been there.</ex>
+<ex>It is interesting to speculate about how it comes about that firm dietary advice is given with virtually not a scrap of good scientific evidence to support it.</ex></sen>
+<sen uid=534577  ord=1.1 tag=morsel>
+<gr>nc; usu pl; often with `of"</gr>
+<def>in particular, a piece of food left uneaten or discarded; also in extended and metaphorical use referring to a very meagre supply of something needed</def>
+<ex>The dog sat under the table begging for scraps for a while, and then went to sleep.</ex>
+<ex>Use any pastry scraps to decorate the pies and glaze with beaten egg if required.</ex>
+<ex>Before he washed each plate and roasting-pan he would scrape it clean with his fingers and eat every last scrap of chicken, sage and onion stuffing, corned beef, sliced Spam and cheese.</ex>
+<ex>We are offered scraps from the masters' table, and hungry as we are for black representation, our response must be to spit them out.</ex>
+<ex>The decider for the county championship northern title might be won by Yorkshire's ability to survive on scraps.</ex></sen></sen>
+<sen uid=534529  ord=2 tag=metal>
+<gr>nu, n-mod</gr>
+<def>discarded material for reprocessing; in particular, scrap metal</def>
+<ex>Prices ought to be going up, not down, what with the cost of pig-iron and scrap these days.</ex>
+<ex>Number 5305 &ellip. was one of 733 redundant steam locomotives delivered to the company's yard. The other 732 were cut up for scrap.</ex>
+<ex>We know that most of them they're not actually gipsies, they're scrap dealers, and they've all got lorries etc.</ex>
+<ex>A bar of low-radioactivity uranium was discovered in a scrap warehouse at Richmond Metals, in Feltham, Middlesex.</ex>
+<sen uid=534528  ord=2.1 tag=waste>
+<gr>n-mod</gr>
+<def>denoting material that has been discarded for reprocessing or re-use</def>
+<ex>Does he really think such a Gordian knot of old pipes and scrap iron would look more seemly in the centre of Bath rather than the Podium?</ex>
+<ex>&ellip. the theft of &quid.350 worth of scrap copper cable from British Telecom.</ex>
+<ex>My materials were wood, wire, wool and odd pieces of scrap material.</ex>
+<see>
+<xtyp>See also SCRAP METAL</xtyp></see></sen></sen>
+<sen uid=534579  ord=3 tag=cutting>
+<gr>nu; after `for"</gr>
+<def>the action of taking a vehicle, vessel, or machine out of service and reducing it to scrap metal</def>
+<ex>The ships were old and due for scrap.</ex>
+<note>only one line but familiar</note></sen>
+<sen uid=534534  ord=4 tag=cancel>
+<gr>vt; often pass</gr>
+<def>to abolish or cancel (a plan, scheme, or arrangement) which is now regarded as useless; do away with (something no longer required)</def>
+<ex>At a five-hour emergency council meeting on Monday, Fimbra scrapped its plans to proceed with the scheme and released members from a requirement to join it.
+<clues>subj[inst] = obj(plan, scheme, system, policy)</clues></ex>
+<ex>The Government announced earlier this month that it was scrapping proposals to privatise all the country's nuclear reactors.</ex>
+<ex>With Labour having scrapped its unilateralist defence policy, the ability of its economics team to manage the economy responsibly could become the major issue in the next election campaign.</ex>
+<ex>Scrapping all ticket controls would merely leave the market vulnerable to invasion by overseas competition.
+<clues>= obj[law]</clues></ex>
+<ex>The newspaper said a decision to postpone or scrap the tour would disappoint sports fans and players.
+<clues>= obj[event]</clues></ex>
+<ex>He supports the long-floated idea that road tax should be scrapped, with the equivalent revenue drawn from petrol duty.</ex>
+<ex>The Paris Six-day race is to scrapped in favour of an indoor stage race with time rather than points classification, the organisers said yesterday.</ex>
+<ex>One person in three would like blasphemy scrapped as an offence.</ex>
+<note>the commonest sense - much commoner than sense 1.1</note>
+<sen uid=534533  ord=4.1 tag=cutup>
+<gr>vt; often pass</gr>
+<def>in particular, to take out of service or discard (a redundant or obsolete vehicle, vessel, or machine), and usually to reduce it to scrap metal</def>
+<ex>Nato envisages that it will have to scrap about 1,000 aircraft, while the Warsaw Pact would be required to scrap 9,000.
+<clues>subj[inst] = obj(vehicle, ship, aircraft, machine)</clues></ex>
+<ex>Britain had just wasted &quid.100 million in futile repairs to a submarine which is now to be scrapped.</ex>
+<ex>Engineers or technicians who had spent years or decades in the close company of their machines could not bear to see them scrapped.</ex>
+<note>the actual notion of cutting up as scrap varies in importance - usually just an implicit fate rather than an actual action</note></sen></sen></lex>
+<lex ord=2>
+<sen uid=534531  ord=1 tag=punchup>
+<gr>nc</gr>
+<reg>informal</reg>
+<def>a fight, usually a spontaneous one ; a rough quarrel or tussle</def>
+<ex>The policeman laughed, presumably because he thought playground scraps were all part of the rough and tumble.</ex>
+<ex>Manchester and Liverpool are working up to a nice scrap over the right to host Channel Five.</ex>
+<ex>A public scrap between regulator and industry is counter-productive.</ex>
+<note>only one or two lines refer to actual fisticuffs</note></sen>
+<sen uid=534530  ord=2 tag=fight>
+<gr>vi; usu with adjunct</gr>
+<reg>informal</reg>
+<def>to take part in a fight; struggle, contend, or quarrel roughly</def>
+<ex>You should be setting an example to the little ones not scrapping and squabbling like a pack of street kids!</ex>
+<ex>Two actresses scrap over men and movies.</ex>
+<ex>Now they must concentrate on scrapping for second place with Yugoslavia, Hungary and the United States.
+<clues>machine]</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=534603>scrapbook
+<lex>
+<vf>scrap book</vf>
+<sen ord=1 uid=534560   tag=scbook>
+<gr>nc</gr>
+<def>a blank book for sticking pictures, cuttings, etc. in, usually to serve as a memento or record of a particular period</def>
+<ex>It was characteristic that he stuck into his scrapbook not only
+the programme of that performance and the rave review from Dance
+News, but also such memorabilia as publicity photographs and
+sketches about the clothes and accessories.</ex>
+<ex>Several photographs from that holiday went into the huge
+scrapbook which John compiled at that period.</ex>
+<sen uid=534623 tag=title ord=1.1>
+<gr>nc</gr>
+<def>a publication, film, or broadcast which is an informal collection of material on a particular theme</def>
+<ex>He
+described his 1924 film Reveille, an episodic account of how a group of
+humble people had been affected by the war, as `a scrapbook of pictures of life
+caught in the living, no hero, no villain, no plot, no tying up of loose
+threads." </ex>
+<ex>From My Archives John Ebdon (Marshall Pickering, &quid.5.99) A scrapbook of humour
+and wisdom from great writers and Ebdon himself, following the different stages
+of life from birth to the grave.</ex></sen></sen></lex></entry>
+
+<entry done=TRUE>scrap heap
+<lex>
+<vf>scrapheap, scrap-heap</vf>
+<sen uid=534541  ord=1 tag=litpile>
+<gr>nc</gr>
+<def>a heap of scrap metal or other waste material</def>
+<ex>Piper searched a
+scrapheap behind the theatre to find objects which he used for some
+of the decors.</ex>
+<sen uid=534542  ord=1.1 tag=junkpile>
+<gr>nc; usu n-sing after `the" </gr>
+<def>in extended and metaphorical use, especially in `on the scrap heap' or `to the scrap heap'</def>
+<ex>It's not to say the end of their working life, and therefore they're on the scrap
+heap, but that it's a new stage in life and we ought to honour them and respect them.</ex>
+<ex>A Victorian concept of liberal education is consigning young brains to the
+scrapheap. </ex>
+<ex>The whole Faringdon project was rescued from the scrap heap.</ex></sen></sen></lex></entry>
+
+<entry done=TRUE>scrap metal
+<lex>
+<sen uid=534545  ord=1 tag=scmetal>
+<gr>nu</gr>
+<def>metal or metal objects discarded for reprocessing</def>
+<ex>Neizvestny's sculptures were cast from melted-down scrap metal.</ex>
+<ex>As scrap metal it was worth perhaps &quid.60,000. As production tooling it would
+cost the best part of &quid.2 million to re-create. As history it was
+irreplaceable.</ex>
+<sen uid=534616 ord=1a tag=scmmod>
+<vf>scrap-metal</vf>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>The Humberside Locomotive Preservation
+Group &ellip. looks after the locomotive, which is owned by a scrap metal
+company in Hull.</ex>
+<ex>It is not a `tip" but a bona fide scrap metal storage and processing facility.</ex></sen></sen></lex></entry>
+
+<entry done=TRUE>scrapyard
+<lex>
+<vf>scrap yard, scrap-yard</vf>
+<sen uid=534544 tag=woodhams>
+<gr>nc</gr>
+<def>a place where scrap metal is collected and stored, and usually where redundant machines or vehicles are cut up</def>
+<ex>I am going to the scrapyard to see if I can get some second
+hand parts.</ex>
+<ex>People living near an Oxford scrapyard have resolved to campaign for part of it
+to be closed.</ex>
+<ex>In the engine shed, other enthusiasts are at work restoring the Nunney Castle,
+a 1929 Great Western Railway steam locomotive that they rescued from the Barry
+scrapyard.</ex></sen></lex></entry>

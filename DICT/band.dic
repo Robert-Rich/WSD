@@ -1,0 +1,242 @@
+
+<entry done=TRUE uid=532755>band
+<lex ord=1>
+<sen uid=532736 tag=mus ord=1>
+<gr>nc</gr>
+<field>Music</field>
+<def>a group of musicians who play together (usually pop, jazz, or martial music, as opposed to classical music)</def>
+<ex>I dyed my hair every colour under the sun, and I was in this all-women band.</ex>
+<ex>Two separate bands at both ends of the huge auditorium were playing different songs and everyone was cheering and screaming their heads off.</ex>
+<kind> indie band, jazz band, military band, punk band, rock band</kind></sen>
+<sen uid=532735 tag=group ord=2>
+<gr>nc; usu with `of"</gr>
+<def>a group of people who have a common interest or object, often of a criminal nature </def>
+<ex>Thrown into jail, she is faced with surviving the appalling conditions and the
+violent clashes with the happy band of thieves and murderers who live alongside
+her.</ex>
+<ex>Dunwoody became one of a select band of jockeys to have ridden the winners of
+the Grand National, Gold Cup and Champion Hurdle.</ex></sen>
+<sen uid=532746 tag=vb ord=3>
+<gr>vi;  with `together"</gr>
+<def>(of people or organizations) to form a group for a mutual purpose, especially to fight for a common cause</def>
+<ex>People savaged by the tabloids are banding together to fight back. 
+<clues hidden=TRUE>subject[person, inst] =_together</clues></ex>
+<ex>A group of aid agencies and churches have banded together and succeeded in getting the cooperation of the rebels and the government.</ex></sen></lex>
+<lex ord=2>
+<sen uid=532732 tag=strip  ord=1>
+<gr>nc</gr>
+<def>a flat strip of thin flexible material used especially to hold something in place or to decorate it</def>
+<ex>There were marks which were consistent with a tight band of plastic being pulled round his neck.</ex>
+<ex>Victoria settled a broad black velvet band on her hair with a single efficient movement. </ex>
+<ex>On his head sits a velvet crown with fools' gold and an ermine band.</ex>
+<sen uid=532733 tag=stripe ord=1.2>
+<gr>nc</gr>
+<def>a stripe on an object which is different from the main colour, pattern, or material</def>
+<ex>A thick woollen blanket, charcoal grey with a band of dull red stitching across its upper and lower edges, formed a closely fitting blackout at his bedroom window. </ex>
+<ex>The under wings are beautifully patterned with bands of silver and pearly white
+spots.</ex>
+<ex>He was wearing &ellip. knee-length grey socks with a dark red band around their tops.</ex></sen>
+<sen uid=533495 tag=portion ord=1.3>
+<gr>nc</gr>
+<def>a portion of a substance or an area in the form of a long flat strip</def>
+<ex>A long, narrow band of cloud has been moving down over the country.</ex>
+<ex> That would stretch the search area to three-hour's driving time, taking in a band as far afield as Derbyshire, Devon and Shropshire.</ex>
+<ex>Give each tree a generous dressing of a balanced fertiliser like Growmore, sprinkling it in yard-wide bands under the outer limits of the branches of bush trees.</ex>
+<ex>In most glassy lavas, bands of devitrified glass and layers of frothy, 
+bubbly glass are interleaved with layers of unaltered material.</ex></sen>
+<sen uid=533520 tag=ring ord=1.4>
+<gr>nc</gr>
+<def>a plain ring, especially a gold wedding ring </def>
+<ex>`What about your husband, where is he now?" he asked the blonde woman, having noticed a narrow band of gold that was her only jewellery.</ex>
+<ex>It was a plain band set with small diamond baguettes, and in the center a beautifully cut square emerald.</ex></sen></sen>
+<sen uid=532734 tag=range ord=2>
+<gr>nc</gr>
+<field>chiefly Finance</field>
+<def>a range of values within a series; a scale extending between certain limits</def>
+<ex>Bills would be graduated according to the proposed income tax bands of between 20 per cent and 50 per cent to be introduced by Labour.</ex>
+<ex>The RAF says the operators should not complain because they were raised temporarily to a higher pay band 17 years ago.</ex>
+<ex>There was a band of decisions and you had to say that the parent's decision was outside the band of reasonableness.</ex>
+<sen uid=532745 tag=radio ord=2.1>
+<gr>nc</gr>
+<field>chiefly Radio</field>
+<def>a range of frequencies or wavelengths in a spectrum</def>
+<ex>You've found us on 1584 kilohertz that's 189 metres in the medium wave band.
+</ex>
+<ex>The problem is that sufficient numbers of channels in the UHF band are not available in those areas.</ex></sen></sen>
+<sen uid=532903 tag=ed ord=3>
+<gr>nc</gr>
+<field>Education</field>
+<def>any of several teaching groups into which schoolchildren of the same age are divided on the basis of broadly similar ability</def>
+<ex>Each pupil has a verbal reasoning assessment just before entry to secondary school, with roughly 25 per cent being placed in the top band, 50 per cent in the middle band and 25 per cent in the bottom band.</ex>
+<ex>A refusal to acknowledge the wide difference of ability that existed between pupils &ellip. led to a style and content of teaching roughly directed to the middle band of children.</ex></sen>
+<sen uid=532979 tag=pl ord=4>
+<dfrm>bands</dfrm>
+<gr>n-pl</gr>
+<field>Law, Religion, Education</field>
+<def>a collar which has two hanging strips, worn by some lawyers, ministers, and academics as part of their formal dress</def>
+<ex>I'm also wearing clerical bands, which are a sign of my office. </ex></sen>
+<sen uid=533487 tag=vb2 ord=5>
+<dfrm>banded</dfrm>
+<gr>adj-classif</gr>
+<field>chiefly Botany, Zoology</field>
+<def>marked with a stripe of a different colour</def>
+<ex>The `Banded Damsel" (Agrion splendens) &ellip. is abundant on muddy-bottomed, less acid waters.</ex>
+<ex>Banded in sunlight, her cat slid and slunk, stomach-wise, towards a bird.</ex>
+<ex>She had firm, high, muscular buttocks like a polo-pony, the golden skin banded white with a bikini-mark.</ex></sen>
+<sen uid=533705 tag=vb3 ord=6>
+<gr>vt; usu as -ing</gr>
+<field>chiefly Finance, Education</field>
+<def>to place in a range or category</def>
+<ex>There was no change in the banding for mortgage tax relief. </ex>
+<ex>`Setting" now became more popular &dash. the allocation of pupils to subject sets,
+having regard to their ability in each subject. So did `broad banding".</ex></sen>
+<sen uid=533706 tag=vb4 ord=7>
+<gr>vt; usu as past part</gr>
+<def>to surround (an object) with something in the form of a strip or ring</def>
+<ex>Half way across the gallery, high up, was a colourful banner banded by evergreens saying Happy Fiftieth Birthday. </ex>
+<ex>Alida listened to her own voice, soft in the chilly room, watching her own hands, plump, well-creased and polished, banded with rings, twisting together.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=532964>band course
+<lex>
+<sen uid=532963 tag=course>
+<gr>nc</gr>
+<field>Architecture</field>
+<def>a continuous horizontal band of brick or stone incorporated into a wall as decoration</def>
+<ex>Its outside walls are largely of pressed red brick, although there is a plinth and decorative band courses at various levels, carried out in Portland stone.</ex>
+<ex>Rubbers were frequently used to construct arches and decorative band courses.</ex>
+<note hidden=TRUE>Not sure about definition: couldn't find this word in any dictionary</note></sen></lex></entry>
+
+<entry done=TRUE uid=532951>band saw
+<lex>
+<sen uid=532949 tag=saw>
+<gr>nc</gr>
+<field>Tools</field>
+<def>a mechanical saw with a blade that consists of an endless toothed band</def>
+<ex>Wherever possible he uses machinery to speed up the process but this is limited to a band saw, a lathe and a thick strip of metal known as a bending iron.</ex></sen></lex></entry>
+
+<entry done=TRUE>big band
+<lex>
+<sen uid=532765 tag=big>
+<gr>nc</gr>
+<field>Music</field>
+<def>a large band of around twenty musicians that plays especially swing music</def>
+<ex>Scott's partner, Pete King, had previously been business manager of both a nine-piece band and of a big band.
+<clues>=</clues></ex>
+<ex>Henry was invited to conduct an orchestra playing all the signature tunes of the big bands.</ex></sen></lex></entry>
+
+<entry done=TRUE>brass band
+<lex>
+<sen uid=532744 tag=brass>
+<gr>nc</gr>
+<field>Music</field>
+<def>a band consisting of brass intruments such as trumpet, trombone, and tuba, and sometimes also percussion</def>
+<ex>Throughout the country brass bands were practising for QueenVictoria's Jubilee celebrations.
+<clues>=</clues></ex>
+<ex>What better than to sit at an open air cafe, sipping an ice cold beer, listening to the local brass band in the village square.</ex></sen></lex></entry>
+
+<entry done=TRUE>dance band
+<lex>
+<vf>dance-band</vf>
+<sen uid=532782 tag=dance>
+<gr>nc</gr>
+<field>Music</field>
+<def>a band that plays music (especially swing music) suitable for dancing to.</def>
+<ex>I had to finish playing the trumpet in a dance band, which I'd done since the age of 12.
+<clues>=</clues></ex>
+<ex>Kevin was eventually expelled into the sinful world of dance bands and crooners.</ex></sen></lex></entry>
+
+<entry done=TRUE>elastic band
+<lex>
+<sen uid=532790 tag=elastic>
+<gr>nc</gr>
+<ex>He &ellip. paid for his round from a wad of notes held together with an elastic band.
+<clues>=</clues></ex>
+<ex>Staff collecting MPs" mail from the members' post office are being asked, in polite notes and the interests of economy, to `return any spare loose elastic bands in order for them to be re-used."</ex>
+<see>
+<xtyp>= RUBBER BAND</xtyp></see></sen></lex></entry>
+
+<entry done=TRUE uid=532807>marching band
+<lex>
+<sen uid=532806 tag=march>
+<gr>nc</gr>
+<field>Music</field>
+<def>a band that plays while marching,  consisting usually of wind instruments and percussion and playing martial or popular music</def>
+<ex>A day spent bobbing and weaving between the marching bands and
+floats &dash. and pubs &dash. should acquaint you with the Dublin spirit.</ex>
+<ex>In the arena there were displays by gymnasts, a marching band and the Army Cadet Force</ex></sen></lex></entry>
+
+<entry done=TRUE>one-man band
+<lex>
+<vf>one-man-band, one-woman band</vf>
+<sen uid=532814  tag=man>
+<gr>nc</gr>
+<def>an organization, especially a business, which is run by one person alone without any assistance; such a person</def>
+<ex>An impressive variety of practices is featured in the exhibition, from the
+one-man band to the big, quoted companies. </ex>
+<ex>But as a one-man band, his overheads were similarly negligible.</ex>
+<note>No examples of literal sense on corpus</note></sen></lex></entry>
+
+<entry done=TRUE>rubber band
+<lex>
+<sen uid=532838 tag=rubber>
+<gr>nc</gr>
+<def>a loop of rubber for holding things together</def>
+<ex>Then make a little airtight hood with a clear plastic bag and a rubber band and put the pots somewhere warm and light.
+<clues>=</clues></ex>
+<ex>There was some loose change and a few rubber bands, including the thick red ones that had held together fat stalks of broccoli.</ex></sen></lex></entry>
+
+<entry done=TRUE>silver band
+<lex>
+<sen uid=532747 tag=silver>
+<gr>nc</gr>
+<field>Music</field>
+<def>a brass band that plays silver-plated instruments</def>
+<ex>Chinnor's award-winning silver band needs a sponsor to help with its costs.
+<clues>=</clues></ex>
+<ex>Because of a missing document the couple were unable to get married, although they still left the register office at Waverley House to the strains of `Congratulations" played by the silver band.</ex></sen></lex></entry>
+
+<entry done=TRUE>steel band
+<lex>
+<sen uid=532756  tag=steel>
+<gr>nc</gr>
+<field>Music</field>
+<def>a band consisting of percussion instruments made from oil cans, playing mainly calypso-style music</def>
+<ex>The music swirls continuously from simple drum to complicated foot rythms and from steel band and reggae to spirituals and blues.
+<clues>=</clues></ex>
+<ex>Security forces are preparing for a night of frenzy if the steel bands come out to celebrate.</ex></sen></lex></entry>
+
+<entry done=TRUE>sweat band
+<lex>
+<vf>sweat-band</vf>
+<sen uid=533522  tag=sweat>
+<gr>nc</gr>
+<field>chiefly Sport</field>
+<def>a band of absorbent material worn round the wrist or head, usually during strenuous exercise, to soak up the sweat </def>
+<ex>Parfitt struts at his side in denim shirt and sweat band on the wrist.</ex>
+<ex>Some adult clothes (like sweat-bands and bandages) are also mainly used as sponges.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=533509>waistband
+<lex>
+<vf>waist-band, waist band</vf>
+<sen uid=533508  tag=waist>
+<gr>nc</gr>
+<field>Clothing</field>
+<def>a strip of cloth forming the waist of a garment</def>
+<ex>Mr Hudson Samarasinghe, a revolver in his waistband, threatened to assault the news editor.</ex>
+<ex>Knickerbox, another shop you will find on station/airport concourses, has
+seasonal slinkies ( #2.50) with `Edelweiss" and `Misletoe" emblazoned
+on the waist-band and the front.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=533581>wristband
+<lex>
+<vf>wrist band</vf>
+<sen uid=533580   ord=1 tag=wrist>
+<gr>nc</gr>
+<field>chiefly Sport</field>
+<def>a band of absorbent material worn round the wrist, especially during strenuous exercise, to soak up the sweat</def>
+<ex>Graeme Labrooy looks the part, having cultivated the entire range of Hadleeisms
+right down to the wristbands, the one flaw in the plan being what happens when the ball has left his hand.</ex></sen>
+<sen uid=533768  ord=2 tag=wristlet>
+<gr>nc</gr>
+<def>a small strap or bracelet worn round the wrist</def>
+<ex> Guest passes come in the form of rather fetching hospital wrist bands.</ex></sen></lex></entry>

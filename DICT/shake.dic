@@ -1,0 +1,302 @@
+
+<entry done=TRUE uid=516774>golden handshake
+<lex>
+<sen uid=516773  tag=gold>
+<gr>nc</gr>
+<reg>informal</reg>
+<def>a payment made to someone who is made redundant or retires early</def>
+<ex>Lord Marshall, the chairman of the Central Electricity Generating Board, resigned yesterday with a golden handshake of &quid.250,000.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=516765>handshake
+<lex>
+<sen uid=516772  tag=greeting>
+<gr>nc</gr>
+<def>the shaking of a person's right hand with one's own as a greeting or congratulation</def>
+<ex>There were no smiles, no ritual handshakes.
+<clues>=</clues></ex>
+<ex>The man wiped his hands ineffectually on his hips and gave her a limp handshake.</ex>
+<see>
+<xtyp>See also GOLDEN HANDSHAKE</xtyp></see></sen></lex></entry>
+
+<entry done=TRUE uid=516521>milk shake
+<lex>
+<sen uid=516520  tag=drink>
+<gr>nc</gr>
+<field>Food</field>
+<def>a drink of milk and flavouring, etc., mixed by shaking or whisking</def>
+<ex>&ellip. a strawberry milk shake.
+<clues>=</clues></ex></sen></lex></entry>
+
+<entry done=TRUE>shake
+<lex ord=1>
+<sen uid=504338  ord=1 tag=move>
+<gr>v-erg</gr>
+<def>to move (someone or something) forcefully or quickly up and down or to and fro, or (of a person or thing) to move forcefully or quickly in this way</def>
+<ex>He shook the bag violently.
+<clues>= obj/[physobj]</clues></ex>
+<ex>High-rise buildings swayed when an earth tremor shook Santiago and central Chile.
+<clues>= obj/[place]</clues></ex>
+<ex>He stood up and shook himself.
+<clues>= obj-pron-refl</clues></ex>
+<ex>The attache&acute. gently shook the driver awake and they set off.
+<clues>c/awake</clues></ex>
+<ex>Three major after-shocks occurred within 90 minutes of the main shock, registering up to 5.2. Buildings shook in Sacramento, 95 miles to the north-east, and tremors were felt 225 miles away in Reno, Nevada.
+<clues hidden=TRUE>subj/[building] =</clues></ex>
+<ex>The whole aircraft seemed to shake constantly.
+<clues hidden=TRUE>subj/[vehicle]</clues></ex>
+<ex>The gun shook in his hands when he saw the brass of the shell.
+<clues hidden=TRUE>subj/[physobj]</clues></ex>
+<sen uid=516519  ord=1a tag=move-absol>
+<gr>v-absol; usu with adv</gr>
+<def>in absolute use</def>
+<ex>Put the hot cookies in and shake gently until well-coated with sugar.
+<clues>c/n/cookie;c/ sugar; c/gently</clues></ex>
+<ex>Screw the cap on firmly and shake well until the dressing is slightly thickened.
+<clues>c/dressing; c/cap; c/well;</clues></ex></sen>
+<sen uid=516517  ord=1.1 tag=clean>
+<gr>vt; with adjunct</gr>
+<def>(especially of a person) to remove (a substance, dirt, object, etc.) from something by agitating it</def>
+<ex>`Ah, there you are," he said, shaking rain from his umbrella and putting it in the corner.
+<clues>c/rain; = from</clues></ex>
+<ex>Richard removed her shoes and socks and shook all the gravel out of them.
+<clues>= out;</clues></ex>
+<ex>He took an envelope and shook its contents into the vase.
+<clues>= into; c/contents</clues></ex>
+<ex>The sand gets shaken off them at the knockout.
+<clues>= off; c/sand</clues></ex></sen>
+<sen uid=516518  ord=1.2 tag=dust>
+<idi>shake the dust of somewhere or something from one's feet, and variants</idi>
+<gr>phr/v</gr>
+<def>(of a person) to leave that place or abandon that thing for ever</def>
+<ex>With a light heart, Victoria began to plan the packing of her household and looked forward to shaking the dust of Kingston off her feet forever.
+<clues>v/= obj/dust prep/(off,from) pron-poss prep-obj/feet</clues></ex>
+<ex>He shook the theological dust of Dunsden off his feet.</ex></sen></sen>
+<sen uid=504355  ord=2 tag=tremble>
+<gr>vi</gr>
+<def>(especially of people or their limbs) to tremble or quiver, especially through fear, illness, shock, or strong emotion</def>
+<ex>The man was so angry that he was shaking.
+<clues>subj/[person]</clues></ex>
+<ex>Rain began to shake, at the horror of what she was doing.</ex>
+<ex>I was dizzy and my limbs were shaking.
+<clues>c/n/limb</clues></ex>
+<ex>His hand shook as he tried David Gerrard's number.
+<clues>subj/hand</clues></ex>
+<ex>I could feel my neighbour shaking with laughter.
+<clues>= with [emotion]</clues></ex>
+<sen uid=516494  ord=2.1 tag=shoes>
+<idi>shake in one's shoes, shake in one's boots</idi>
+<gr>phr/v</gr>
+<def>(of a person) to tremble with apprehension</def>
+<ex>Again the Dean shook in his shoes and summoned me.
+<clues>v/= prep/in pron-poss prep-obj/(shoes,boots,seat)</clues></ex>
+<note>cf quake in one's shoes/boots/seat/etc</note></sen>
+<sen uid=516495  ord=2.2 tag=voice>
+<gr>vi</gr>
+<def>(of someone's voice) to quaver or tremble because of emotion or other stress</def>
+<ex>&ellip. her voice shaking as she recalled her suffering.
+<clues>subj/voice</clues></ex></sen></sen>
+<sen uid=504336  ord=3 tag=head>
+<idi>shake one's head</idi>
+<gr>phr/v</gr>
+<def>(of a person) to wag one's head from side to side, especially so as to indicate refusal, disapproval, reproach, reluctance, or incredulity</def>
+<ex>`Something wrong, Mom?" `No, no," she shook her head fervently.
+<clues>v/= pron-poss obj/head</clues></ex>
+<ex>`Poor woman," Maggie commiserated, shaking her head.</ex>
+<ex>Nevil shook his head in disbelief.</ex>
+<note>quarter of all lines for shake are for verb shake + head, mainly from fiction</note></sen>
+<sen uid=504337  ord=4 tag=hand>
+<idi>shake hands with someone, shake someone by the hand</idi>
+<gr>phr/v</gr>
+<def>(of a person) to clasp someone's (right) hand at meeting or parting, in reconciliation or congratulation, to conclude a bargain, etc.</def>
+<ex>She shook hands formally with the two men.
+<clues>v/= obj/hands</clues></ex>
+<ex>They all shook hands again when they parted in the foyer.</ex>
+<ex>There was nothing that this magnificent sportsman could do but smile, shake Calcavecchia warmly by the hand, pat his back and offer sincere congratulations.
+<clues>v/shake prep/by prep-obj/hand</clues></ex>
+<ex>The player shook hands on the deal.</ex></sen>
+<sen uid=504353  ord=5 tag=fist>
+<gr>vt; often with `at"</gr>
+<def>(of a person) to brandish (a fist, stick, etc.) at someone as a threatening gesture or to show one's anger</def>
+<ex>Its occupants shouted abuse and shook their fists.
+<clues>fist; shout; abuse</clues></ex>
+<ex>He would reply by shaking his stick at them.
+<clues>stick</clues></ex></sen>
+<sen uid=504410  ord=6 tag=disturb>
+<gr>vt</gr>
+<def>(of a person, event, phenomenon, etc.) to disturb, disconcert, or upset the equilibrium (of a society, group, or person)</def>
+<ex>The last 10 days or so have not so much shaken the world as utterly changed it.
+<clues>c/world; c/v/change</clues></ex>
+<ex>Ethnic conflicts are shaking the country.
+<clues>c/country</clues></ex>
+<ex>Ireland shook the Malaysians by scoring twice in the first 10 minutes.
+<clues>obj/[group]</clues></ex>
+<ex>He said the killings had shaken some members of Panama's Defence Force.
+<clues>c/n/killing</clues></ex>
+<ex>The shock of Mr Herrhausen's violent death shook his colleagues.
+<clues>c/shock</clues></ex>
+<ex>He had to shake himself out of his lethargy.
+<clues>= pron out</clues></ex>
+<see>
+<xtyp>See also SHAKEN</xtyp></see></sen>
+<sen uid=504412  ord=7 tag=ideas>
+<gr>vt</gr>
+<def>(of a person, event, phenomenon, etc.) to weaken or impair (beliefs, reputations, confidence, or ideas)</def>
+<ex>The rebels have shaken the faith of those who wanted to believe the army was in control.
+<clues>c/faith</clues></ex>
+<ex>The escalation in costs is certain to shake the confidence of private investors.
+<clues>c/confidence</clues></ex>
+<ex>It proved a triumph in shaking critical prejudices, opening minds, stretching characterisation as well as the theatre's resources.
+<clues>c/prejudices</clues></ex>
+<ex>&ellip. just as my own views were so radically shaken in south Arabia.
+<clues>c/n/view</clues></ex>
+<ex>The morale of dedicated railwaymen was shaken by nationalization.
+<clues>c/morale</clues></ex></sen>
+<sen uid=506815  ord=8 tag=leg>
+<idi>shake a leg</idi>
+<gr>phr/v</gr>
+<def>(of a person) to begin to be active; to rouse oneself; specifically, to begin dancing</def>
+<ex>&ellip. in less time than it takes to shake a leg.
+<clues>v/=_a_leg</clues></ex></sen>
+<sen uid=516365  ord=9 tag=movement>
+<gr>nc</gr>
+<def>the act or an instance of shaking; the process of being shaken</def>
+<ex>Rain dismissed this with a shake of the head.
+<clues>a = of det head</clues></ex>
+<ex>She gave her head a shake that set her ear-rings dancing.
+<clues>c/v/give</clues></ex>
+<ex>[The earthquake] will always be known around here as The Loma Prieta shake.</ex>
+<sen uid=516567  ord=9a tag=move-nu>
+<gr>nu</gr>
+<def>as an uncountable noun</def>
+<ex>[The car is] far from fast and there is some body shake over very rough roads.</ex></sen></sen>
+<sen uid=516366  ord=10 tag=wobbles>
+<dfrm>shakes</dfrm>
+<gr>n-pl; after `the"</gr>
+<def>a fit of trembling or shaking; tremors</def>
+<ex>He had to have it [sc. whisky], simply had to have it &dash. for the shakes.</ex></sen>
+<sen uid=506816  ord=11 tag=no-great>
+<idi>no great shakes</idi>
+<gr>phr/n; as comp</gr>
+<reg>dated, informal</reg>
+<def>not very good or significant</def>
+<ex>I wanted to be a ballet dancer (but I was no good) and a folk singer (no great shakes at that, either).
+<clues>no_great_n-pl/=</clues></ex></sen></lex>
+<phr ord=2>shake down
+<sen uid=504600  ord=1 tag=down>
+<gr>vt+adv</gr>
+<def>to cause (something) to fall to the ground by shaking it</def>
+<ex>A brisk wind this morning has shaken down masses of leaves that lay like snowflakes on the bright smooth grass.
+<clues>= obj/[objects]</clues></ex></sen>
+<sen uid=516605  ord=2 tag=settle>
+<gr>vi+adv</gr>
+<def>(especially of a person or group) to settle or become established in a new place or situation</def>
+<ex>&ellip. the structure of the industry as it was shaking down after deregulation.
+<clues>[group] = down</clues></ex></sen>
+<sen uid=516606  ord=3 tag=extort>
+<gr>vt+adv</gr>
+<reg>North Amer. informal</reg>
+<def>(of a person) to ask (someone) for money; to extort money from them</def>
+<ex>She offered to help, threw her bicycle in the trunk, climbed in next to me and then tried to shake us down for funds for `medication".
+<clues>= obj/[human] for [money]</clues></ex></sen></phr>
+<phr ord=3>shake off
+<sen uid=504585  ord=1 tag=off>
+<gr>vt+adv</gr>
+<def>(especially of a person) to get rid of something unwanted; to successfully deal with or recover from something</def>
+<ex>Sheedy has shaken off a calf injury but Nevin is likely to be ruled out with knee-ligament damage.
+<clues>obj/[injury]</clues></ex>
+<ex>At five in the morning Rangoon shakes off sleep.
+<clues>obj/[state]</clues></ex>
+<ex>&ellip. unable to shake off the memories of the trenches.</ex>
+<ex>&ellip. spent all day shaking off what he called tittle-tattle and rubbish about his career.</ex></sen>
+<sen uid=516626  ord=2 tag=lose>
+<gr>vt+adv</gr>
+<def>(of a person) to manage to evade or outmanoeuvre (another person who is following or pestering one)</def>
+<ex>powerful surge across the last 300m to shake off Natalya Artyemova of the Soviet Union.
+<clues>obj/[personon]</clues></ex>
+<ex>He has used a fast government car to shake off at least one photographer.</ex></sen></phr>
+<phr ord=4>shake out
+<sen uid=504584  ord=1 tag=out>
+<gr>vt+adv</gr>
+<def>(of a person) to spread or open (a cloth, garment, long hair, etc.) so that it loses its creases or hangs smoothly</def>
+<ex>Catherine got up slowly, shook out her skirts and climbed into the lorry.
+<clues>obj/[garment]</clues></ex>
+<ex>&ellip. taking off her cap and shaking out her brown curls.
+<clues>obj/[hair]</clues></ex></sen>
+<sen uid=516669  ord=2 tag=sort>
+<gr>vt+adv</gr>
+<def>(especially of an event or situation) to get rid of (certain members of a group, especially ones considered undesirable)</def>
+<ex>A jittery stock market has shaken out more shareholders in United Scientific Holdings.
+<clues>obj/[person]</clues></ex>
+<ex>&ellip. a former Chancellor who had perhaps done more than most in the early 1980s to `shake out" British manufacturing industry without compensatory reconstruction.</ex></sen></phr>
+<phr ord=5>shake up
+<sen uid=516716  ord=1 tag=agitate>
+<gr>vt+adv</gr>
+<def>to agitate (something or someone) by shaking them vigorously</def>
+<ex>The situation as a whole is rather like shaking up an open bottle of beer with your thumb over the top.
+<clues>obj/[object]</clues></ex>
+<ex>The frozen farmer was so shaken up en route to the hospital that his limbs thawed out and his life was saved.</ex></sen>
+<sen uid=504537  ord=2 tag=up>
+<gr>vt+adv</gr>
+<def>(of a person, situation, plan, idea, etc.) to rouse (a person or group) from lethargy, apathy, conventionality, etc.; to disturb or reorganize them thoroughly</def>
+<ex>Lord Mackay presented plans to shake up the legal profession.
+<clues>obj/[organization]</clues></ex>
+<ex>&ellip. the Government's plans to shake up the National Health Service.</ex>
+<ex>&ellip. about the biggest shaking up I've got from a book.</ex></sen>
+<sen uid=516708  ord=3 tag=emotion>
+<gr>vt+adv</gr>
+<def>(especially of a person or event) to disconcert, distress, or shock (someone)</def>
+<ex>Even at seventeen he was badly shaken up by what Sarah had done.
+<clues>subjunct =; badly</clues></ex>
+<ex>You look a bit shook up, Vic, if you don't mind my saying so.</ex>
+<note>shook often as past participle in this usage</note></sen></phr></entry>
+
+<entry done=TRUE uid=516383>shakedown
+<lex>
+<sen uid=516390  tag=down-noun ord=1>
+<gr>nc</gr>
+<def>an upheaval or rearrangement, especially in the hierarchical structure of a group of people</def>
+<ex>Even a seemingly meaningless thing could cause a shakedown in the leadership.</ex></sen>
+<sen uid=516389  tag=rough ord=2>
+<gr>nc, n-mod</gr>
+<def>a makeshift bed or overnight accommodation</def>
+<ex>One anonymous pilot's report grumbled about shake-down accommodation in a tourist hotel.
+<clues hidden=TRUE>c/hotel; c/accommodation</clues></ex></sen>
+<sen uid=516388  tag=launch ord=3>
+<gr>nc</gr>
+<reg>US informal</reg>
+<def>a voyage, flight, exposure to use, etc., intended to test a new ship, aircraft, or other product</def>
+<ex>Instead she concentrated on the completion, launch and shakedown of her new Mike Pockock-designed short-handed racing boat Q2.</ex>
+<note hidden=TRUE>I query US - sounds familiar - WRT</note></sen></lex></entry>
+
+<entry done=TRUE uid=516544>shaken
+<lex>
+<sen uid=516551  tag=troubled>
+<gr>adj-qual</gr>
+<def>(of a person) severely upset or shocked, as after an accident, bad news, an unpleasant situation, etc.</def>
+<ex>A head count showed everyone more or less intact, though shaken and bruised.
+<clues hidden=TRUE>c/bruised; =</clues></ex>
+<ex>At the May, 1988, party conference, a visibly shaken Kadar was replaced as general secretary by Mr Karoly Grosz.
+<clues hidden=TRUE>visibly =</clues></ex>
+<ex>Jean had clearly been very much shaken by the whole thing.
+<clues hidden=TRUE>= by [situation]</clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=516400>shake-out
+<lex>
+<sen uid=516399  tag=out-noun>
+<gr>nc</gr>
+<def>a drastic change, reorganization or upheaval within a group, situation, industry, etc., especially one resulting in the loss of members of the group</def>
+<ex>&ellip. a continuation of the general shake-out currently going on in the industry.
+<clues>=</clues></ex>
+<ex>We expect a shake-out of personnel at all levels.</ex>
+<ex>The shakeout will hit hardest at smaller companies.</ex></sen></lex></entry>
+
+<entry done=TRUE uid=516392>shake-up
+<lex>
+<sen uid=516391  tag=up-noun>
+<gr>nc</gr>
+<def>a drastic change, reorganization or upheaval within a group, situation, industry, etc.</def>
+<ex>&ellip. the biggest shake-up of the system for 40 years.
+<clues>=</clues></ex>
+<ex>In short, the brewing industry deserved a shake-up.</ex>
+<ex>Some of the 24,000 who lost their jobs in the shake-up are critical of the Gomez management method.</ex></sen></lex></entry>

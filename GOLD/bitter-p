@@ -1,0 +1,373 @@
+700001:feelings
+700002:taste
+700003:argument
+700004:end
+700005:argument or unpleasant
+700006:unpleasant
+700007:feelings or unpleasant
+700008:feelings
+700009:weather
+700010:unpleasant or end
+700011:beer or P
+700012:unpleasant or P
+700013:unpleasant
+700014:feelings or U
+700015:beer or P
+700016:argument
+700017:unpleasant or P
+700018:feelings
+700019:argument
+700020:argument
+700021:argument
+700022:argument
+700023:P or taste
+700024:taste
+700025:feelings or unpleasant
+700026:argument
+700028:argument
+700029:beer or P
+700030:feelings
+700031:argument
+700032:argument
+700033:argument
+700034:weather
+700035:weather
+700036:sweet or P
+700037:beer-c
+700038:unpleasant
+700039:feelings or argument
+700040:unpleasant
+700041:argument
+700042:unpleasant or feelings
+700043:feelings
+700044:unpleasant
+700045:beer or P
+700046:feelings
+700047:argument
+700048:taste
+700049:pill
+700051:sweet or P
+700052:feelings
+700053:unpleasant or P
+700054:beer or P
+700055:beer or P
+700056:feelings
+700057:argument
+700058:beer
+700059:beer or P
+700060:unpleasant or argument
+700061:feelings
+700062:feelings
+700063:taste
+700064:beer
+700065:unpleasant
+700066:unpleasant
+700067:unpleasant
+700068:feelings
+700069:argument
+700070:feelings
+700071:unpleasant
+700072:argument
+700073:weather
+700074:feelings
+700075:feelings
+700076:beer or P
+700077:feelings
+700079:feelings
+700080:argument or feelings
+700081:unpleasant or feelings
+700082:unpleasant or feelings
+700083:feelings or unpleasant
+700084:beer or P
+700085:argument
+700086:beer
+700087:unpleasant or argument
+700088:unpleasant
+700089:sweet
+700090:P or taste
+700091:taste
+700092:beer
+700094:argument or unpleasant
+700095:argument
+700096:beer or P
+700097:unpleasant or feelings
+700098:argument
+700099:argument
+700100:feelings
+700101:unpleasant
+700103:feelings
+700104:end
+700105:pill
+700106:end
+700107:taste or unpleasant
+700108:unpleasant or P or U
+700109:argument or feelings
+700110:argument or feelings
+700111:beer
+700112:feelings
+700113:unpleasant or argument
+700114:unpleasant or argument
+700115:unpleasant
+700116:argument
+700117:feelings or unpleasant
+700119:feelings
+700120:sweet
+700121:argument
+700122:unpleasant
+700123:beer or P
+700124:argument
+700125:argument
+700126:unpleasant
+700127:argument
+700128:feelings
+700129:beer or P
+700130:beer
+700131:argument
+700132:end
+700134:argument or unpleasant
+700135:beer
+700136:argument or unpleasant
+700137:feelings
+700138:chocolate
+700139:feelings
+700140:beer
+700141:argument
+700142:unpleasant
+700143:unpleasant
+700144:unpleasant
+700145:beer or P
+700147:taste
+700148:weather
+700149:argument
+700150:beer
+700151:feelings or argument
+700152:feelings
+700153:beer or P
+700154:unpleasant or P
+700155:feelings
+700156:argument
+700157:feelings
+700158:taste or unpleasant
+700159:feelings
+700160:unpleasant
+700161:P
+700162:argument or unpleasant
+700163:argument
+700164:feelings
+700166:unpleasant
+700167:feelings
+700168:weather
+700169:unpleasant or argument
+700170:unpleasant or P or U
+700171:sweet
+700172:end
+700173:argument
+700174:argument
+700175:sweet
+700177:feelings or unpleasant
+700178:argument
+700179:feelings or unpleasant
+700180:sweet
+700181:argument
+700182:feelings
+700183:argument
+700184:argument or unpleasant
+700185:argument
+700186:argument
+700187:sweet
+700188:weather
+700189:feelings
+700190:argument or feelings
+700191:argument
+700192:argument
+700193:weather
+700195:unpleasant
+700196:argument
+700197:end
+700198:argument
+700200:argument
+700201:sweet
+700202:unpleasant
+700203:unpleasant
+700205:end
+700206:argument
+700207:unpleasant
+700208:feelings
+700209:argument
+700210:taste or unpleasant
+700211:argument
+700212:unpleasant
+700213:feelings
+700214:taste or sweet or P
+700215:sweet
+700216:unpleasant
+700218:taste
+700219:feelings
+700220:beer
+700221:feelings
+700222:taste
+700223:argument or feelings
+700224:feelings
+700225:argument
+700226:weather
+700227:beer or P
+700228:argument
+700229:feelings or argument
+700230:unpleasant
+700231:unpleasant
+700232:feelings
+700233:unpleasant
+700234:taste
+700235:beer or P
+700236:end
+700237:argument
+700238:feelings
+700239:unpleasant
+700240:feelings
+700241:feelings
+700242:argument
+700243:beer or P
+700244:feelings
+700245:unpleasant
+700246:taste
+700247:argument
+700248:unpleasant
+700249:feelings
+700250:feelings
+700251:unpleasant
+700252:weather
+700253:feelings
+700254:feelings
+700257:unpleasant or argument
+700258:beer or P
+700260:feelings
+700261:argument
+700262:feelings or unpleasant
+700263:flavour
+700264:feelings
+700265:argument
+700266:beer or P
+700267:argument
+700268:beer
+700269:sweet
+700270:unpleasant
+700271:feelings
+700272:feelings or unpleasant
+700273:argument
+700275:argument
+700276:argument
+700277:unpleasant
+700278:beer or P
+700279:beer
+700280:argument
+700281:feelings or unpleasant
+700282:feelings
+700283:feelings
+700284:weather
+700285:beer
+700286:beer
+700287:taste
+700288:argument
+700289:argument
+700290:feelings or unpleasant
+700291:taste
+700292:P
+700293:argument
+700294:feelings
+700295:argument
+700296:sweet
+700297:beer
+700298:feelings
+700299:argument
+700300:argument
+700301:feelings
+700302:feelings
+700304:argument
+700305:weather
+700306:feelings
+700307:argument
+700308:argument or unpleasant
+700309:weather
+700310:argument or unpleasant
+700311:unpleasant or P
+700312:weather
+700313:feelings
+700314:feelings
+700315:P
+700316:unpleasant
+700317:argument
+700318:argument
+700319:argument
+700320:feelings
+700321:unpleasant or feelings
+700322:argument
+700323:argument
+700324:feelings or argument
+700325:taste or chocolate
+700327:pill
+700328:argument or unpleasant or feelings
+700329:unpleasant
+700330:beer
+700332:unpleasant or feelings
+700333:beer or P
+700334:unpleasant or P
+700335:unpleasant
+700336:feelings
+700337:argument
+700338:feelings or unpleasant
+700339:beer
+700340:beer or P
+700341:feelings
+700342:beer or P
+700343:beer or P
+700344:feelings or unpleasant
+700346:argument
+700347:argument
+700348:argument
+700350:feelings
+700351:sweet
+700352:argument
+700353:argument
+700354:feelings
+700355:feelings or unpleasant
+700356:argument
+700357:argument
+700358:argument
+700359:unpleasant
+700361:unpleasant
+700362:argument
+700363:unpleasant
+700364:feelings
+700365:unpleasant or P
+700366:feelings
+700367:sweet
+700369:beer or P
+700371:beer or P
+700372:argument
+700373:feelings or unpleasant
+700374:sweet
+700375:feelings or argument
+700376:beer
+700377:unpleasant
+700378:taste or unpleasant
+700379:argument
+700380:feelings or unpleasant
+700381:feelings
+700382:feelings
+700383:argument
+700385:unpleasant
+700386:argument
+700387:beer or P
+700388:feelings or unpleasant
+700389:argument
+700390:unpleasant or P
+700391:chocolate
+700392:feelings
+700393:weather
+700394:feelings or argument
+700395:sweet
+700396:unpleasant
+700397:unpleasant
+700398:feelings
+700399:argument
+700400:end

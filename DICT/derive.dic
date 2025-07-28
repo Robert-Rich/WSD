@@ -1,0 +1,55 @@
+
+<entry done=TRUE>derive
+<lex>
+<sen uid=515647  ord=1 tag=obtain>
+<gr>vt; usu with `from"</gr>
+<def>to obtain (pleasure, profit, information, an idea, nourishment, etc.) from a source</def>
+<ex>Then she decided to wash her hair, thinking she might derive some comfort from this familiar rite.
+<clues>= obj[good] from</clues></ex>
+<ex>The universities derived their income solely from fees and endowments.
+<clues>= obj[good] from</clues></ex>
+<ex>People and organizations change &ellip. because they derive some benefit or because they incur sanctions for not doing so.
+<clues></clues></ex>
+<ex>His medical knowledge seemed to be largely derived from reading the colour supplements of newspapers.
+<clues>= obj/knowledge from</clues></ex>
+<ex>&ellip. the Sun, the star from which we ultimately derive nearly all our energy.
+<clues>= obj/energy from</clues></ex>
+<ex>During the 1970s Tubke was already painting, with meticulous craftsmanship, in a style that mixed elements derived from Durer and Bruegel.</ex>
+<ex>An epiphyte is a plant which grows on another plant without deriving nourishment from it.</ex>
+<ex>Educated Englishmen derived their ideas more from weekly journals than from daily newspapers.
+<clues>= obj[idea] from</clues></ex>
+<note>axis - good, in the sense that the object is beneficial or wanted</note></sen>
+<sen uid=515672  ord=2 tag=alterfrom>
+<gr>vt; usu with `from"</gr>
+<def>to develop or arrive at (something) starting from something similar</def>
+<ex>One can derive a concept from a theory but not the other way round.
+<clues>= obj[idea] from [idea]</clues></ex>
+<ex>Broadly speaking these are estate cars, but they tend to be more versatile, and pleasing to own, than a wagon derived from a saloon.
+<clues></clues></ex>
+<ex>The decisions of courts of other countries which administer a law derived from or related to our own, such as the Scottish, Irish, Commonwealth, and American courts, though not binding upon our courts, are entitled to great respect.
+<clues>= obj[law] from [law]</clues></ex>
+<sen uid=515671  ord=2.1 tag=getmath>
+<gr>vt</gr>
+<reg>Mathematics</reg>
+<def>to obtain (a result) by carrying out one or more mathematical operations</def>
+<ex>The &pi. ratio can be derived from a series of integers named after Fibonacci (Leonardo of Pisa), an Italian mathematician of the thirteenth century.</ex></sen>
+<sen uid=515673  ord=2.2 tag=getword>
+<gr>v-erg; with `from"; usu pass</gr>
+<def>(of a word or expression) to originate from or be traced back to a specified word or root</def>
+<ex>&ellip. surely the last Englishman alive to pronounce `fascist" as if he were painfully aware that it is derived from fasces.</ex>
+<ex>The word `punch" derives from the Hindustani `pancha", meaning five.</ex></sen></sen>
+<sen uid=515674  ord=3 tag=getchem>
+<gr>v-pass; with `from"</gr>
+<def>(of a substance) to be formed or prepared from a specified precursor or source</def>
+<ex>By no means all bauxites are derived from lavas.</ex>
+<ex>Glucose and glucose syrup and glucose and fructose together, used in food products, are also damaging and unlikely to prove a good alternative to sucrose derived from sugar beet and cane.</ex>
+<note>natural or artificial process; no active ex in corpus</note></sen>
+<sen uid=515648  ord=4 tag=come>
+<gr>vi; with `from"</gr>
+<def>(of a quality, idea, attitude, method, word, or other abstract thing) to originate or be obtained from a specified source or precursor</def>
+<ex>British national food and health policy, such as it is, derives from COMA recommendations.</ex>
+<ex>It is therefore difficult to understand how any critic could suggest that Klein's work derives from Eliot.</ex>
+<ex>The idea of recitative may originally have derived from Italy.</ex>
+<ex>The other approach, deriving from Rousseau, regards consent non-instrumentally.</ex>
+<ex>His understanding of the business derives from a lifetime's involvement.</ex>
+<ex>A large part of his pleasure derived from walking holidays.</ex></sen></lex></entry>

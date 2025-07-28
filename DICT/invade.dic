@@ -1,0 +1,64 @@
+
+<entry done=TRUE>invade
+<lex>
+<sen uid=511216  ord=1 tag=attila>
+<gr>vt</gr>
+<def>(of a nation or an army) to launch a large-scale attack against (a country or region) in order to subjugate or occupy it</def>
+<ex>The Turkish army invaded Cyprus on July 20, 1974.
+<clues>subj[military] = obj[country]</clues></ex>
+<ex>Peking has threatened to invade Taiwan if it ever declares itself a separate nation.</ex>
+<ex>During the Second World War, the country was twice invaded by the Red Army.</ex>
+<sen uid=511308  ord=1a tag=absol>
+<gr>vi</gr>
+<def>as an intransitive verb</def>
+<ex>Many people wanted us to invade last year.</ex>
+<ex>It is essential that the Germans think we're invading where we're not.</ex></sen>
+<sen uid=518924  ord=1b tag=invading>
+<dfrm>invading</dfrm>
+<gr>adj-classif</gr>
+<def>as an adjective</def>
+<ex>Elaborate precautions were taken to ensure that the invading Germans should not know where they were.
+<clues>= [military, people]</clues></ex></sen></sen>
+<sen uid=511340  ord=2 tag=takeover>
+<gr>vt</gr>
+<def>(of persons, less commonly animals or things) to make an incursion into (an area, building, sphere of activity, etc.) in large numbers, often so as to effect a takeover</def>
+<ex>Several hundred Leeds fans invaded the pitch after the final whistle.
+<clues>subj/pl[person] = obj[area]</clues></ex>
+<ex>Demonstrators invaded Thamesdown council chamber in Swindon in an attempt to prevent a Poll Tax being set.</ex>
+<ex>My cattle had dared to invade his corner of the common.
+<clues>subj/pl[creature] = obj[area]</clues></ex>
+<ex>&ellip. the investors who are cautiously invading the Old Master market.
+<clues>subj/pl[person] = obj[subject]</clues></ex>
+<note>rarely with individual as subject</note>
+<sen uid=511339  ord=2.1 tag=infest>
+<gr>vt</gr>
+<field>Medicine, Biology</field>
+<def>(of a parasite or disease) to infest (an organism or bodily part)</def>
+<ex>The killer cells protect the liver by producing gamma interferon, which somehow stops parasites invading liver cells.
+<clues>subj[organism] = obj/cell</clues></ex>
+<ex>In some people whose immunological defences are weakened &ellip. the fungus can invade the external skin surface.
+<clues>subj[organism] = obj[bodypart]</clues></ex>
+<sen uid=518926  ord=2.1a tag=infesting>
+<dfrm>invading</dfrm>
+<gr>adj-classif</gr>
+<def>as an adjective</def>
+<ex>&ellip. tiny hairs that clear invading bacteria from the lung.
+<clues>= n[organism]</clues></ex></sen></sen>
+<sen uid=511343  ord=2.2 tag=habitat>
+<gr>vt</gr>
+<field>Ecology</field>
+<def>(of an animal or plant) to spread into (an area or habitat) from which it was previously absent</def>
+<ex>They studied grey squirrels in broadleaved woods in Dorest, Hampshire, and Cambridgeshire, and red squirrels in similar woodland on the Isle of Wight which the greys have not yet invaded.
+<clues>subj[creature, plant] = obj[habitat]</clues></ex>
+<note>clue perhaps not sufficient; the real clue is ecological discourse; corpus has a number of examples of animals invading places (buildings, lawns) which are really extensions of takeover rather than this formal sense</note></sen></sen>
+<sen uid=511342  ord=3 tag=encroach>
+<gr>vt</gr>
+<def>to encroach or intrude on (something); to infringe (a right, especially a person's privacy)</def>
+<ex>Memories of l5 years' domestic bliss with animal-loving, wood-working Jim constantly invade George's thoughts.
+<clues>subj[abstract] = obj/thought</clues></ex>
+<ex>&ellip. the turmoil which at times invaded the life of a seemingly carefree driver.
+<clues>= obj/life</clues></ex>
+<ex>Householders are still legally obliged to fill in the form even if they think the questions invade their privacy.
+<clues>= obj/privacy</clues></ex>
+<ex>Other forms of coercion may be less severe, but they all invade autonomy.
+<clues>= obj[right]</clues></ex></sen></lex></entry>

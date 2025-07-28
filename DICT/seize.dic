@@ -1,0 +1,106 @@
+
+<entry done=TRUE>seize
+<lex ord=1>
+<sen uid=507300  ord=1 tag=grab>
+<gr>vt</gr>
+<def>to take hold of (an object or person) forcibly; to grab</def>
+<ex>He seized the microphone from my hand.
+<clues>subj[person] = obj from [bodypart]</clues></ex>
+<ex>His wife seized me by the arm.
+<clues>subj[person] = obj[person] by [bodypart]</clues></ex>
+<ex>Dora seized hold of Paul's hand.
+<clues>subj[person] =_`hold" of n</clues></ex></sen>
+<sen uid=507302  ord=2 tag=possess>
+<gr>vt; usu after pl subj</gr>
+<def>to take over (land or power) by force; to take control of (a place)</def>
+<ex>Troops seized the towns of Rabel and Mehal Meda.
+<clues>subj[person] = obj[place]</clues></ex>
+<ex>The military seized power and ruled the country for two decades.
+<clues>subj[person] = obj/power</clues></ex>
+<ex>On 18 September 1931 Japanese forces seized control of Manchuria.
+<clues>subj[person] = obj/control</clues></ex></sen>
+<sen ord=3>
+<sen uid=507303  ord=3.1 tag=confisc>
+<gr>vt</gr>
+<def>to take possession of (property) by force, often by warrant or legal right; to confiscate or impound (something)</def>
+<ex>&ellip. court orders allowing creditors to seize assets of companies.
+<clues>subj(police, customs, officials) = obj/n</clues></ex>
+<ex>Police raided television stations to seize films.</ex>
+<ex>British customs seized 247 kilograms of heroin.</ex></sen>
+<sen uid=507467  ord=3.2 tag=hostage>
+<gr>vt; often pass</gr>
+<def>to take (a person) hostage or prisoner</def>
+<ex>Colombian troops, in a pre-dawn raid yesterday, seized a suspected leader of a drug-smuggling group.
+<clues>subj[person] = obj[person]</clues></ex>
+<ex>Keenan was seized on April 11, 1986, while walking to work.</ex></sen></sen>
+<sen uid=507297  ord=4 tag=opport>
+<gr>vt</gr>
+<def>to take eager advantage of (an opportunity, chance, or favourable position); to achieve (victory or a winning position)</def>
+<ex>He will have to seize every available chance for exposure.
+<clues>subj[person] = obj/[chance]</clues></ex>
+<ex>Navratilova seized the initiative in the final two games.
+<clues>= obj/initiative</clues></ex>
+<ex>We should seize the business opportunities offered.</ex>
+<ex>Over half a million East Berliners seized their new freedom.</ex>
+<ex>Pakistan seized victory by seven runs in their curtailed one-day international against India at Gujranwala yesterday.
+<clues>= obj/victory</clues></ex></sen>
+<sen ord=5>
+<sen uid=507307  ord=5.1 tag=affect>
+<gr>vt; often pass with `with" or `by"</gr>
+<def>(of an emotion) to affect (a person) suddenly and deeply</def>
+<ex>Panic seized traders, consumers and producers.
+<clues>subj[emotion] = obj[person]</clues></ex>
+<ex>In solitude he was seized with irrational fears.</ex>
+<ex>&ellip. suddenly seized by shame and revulsion.</ex>
+<ex>A woman was seized by hysterics.</ex></sen>
+<sen uid=507478  ord=5.2 tag=arouse>
+<gr>vt</gr>
+<def>to strongly arouse (a person's attention) suddenly</def>
+<ex>It was not just the text that seized his interest.
+<clues>= obj/interest</clues></ex>
+<ex>The inner-city initiative seized his imagination.
+<clues>= obj/imagination</clues></ex>
+<ex>Poseidon seizes the attention at the beginning.
+<clues>= obj/attention</clues></ex></sen></sen>
+<sen ord=6>
+<sen uid=507392  ord=6.1 tag=of.law>
+<vf>seised</vf>
+<gr>adj-classif; pred; with `of"</gr>
+<field>Law</field>
+<def>possessing legally</def>
+<ex>&ellip. federal courts seized of constitutional issues.</ex></sen>
+<sen uid=507435  ord=6.2 tag=of>
+<vf>seised</vf>
+<gr>adj-classif; pred; with `of"</gr>
+<reg>formal</reg>
+<def>aware of or informed of</def>
+<ex>Mr Justice Scott was fully seised of the point.</ex>
+<ex>&ellip. seized of the need for speedy progress.</ex></sen></sen>
+<sen uid=507389  ord=7 tag=engine>
+<gr>vi; also with `up"</gr>
+<def>(of a moving part in a machine) to become stuck or jammed, for example from overheating</def>
+<ex>&ellip. if somebody is negligent and doesn't, for example, keep the engine oil topped up and they drive their vehicle until the engine seizes.</ex>
+<ex>They lost four laps while a seized brake caliper was changed.</ex>
+<note>no concs of this sense with `up"</note></sen></lex>
+<phr ord=2>seize on or upon
+<sen uid=507295  ord=1 tag=on>
+<gr>vi + prep</gr>
+<def>to take hold of (a person or thing) suddenly or forcibly</def>
+<ex>Andy Buck seized on a loose ball and ran 60 yards to score.</ex>
+<note>not common in literal, physical sense</note></sen>
+<sen uid=507398  ord=2 tag=on.situ>
+<gr>vi + prep</gr>
+<def>to take eager advantage of or make eager use of (a situation, comment, fact, etc.)</def>
+<ex>Never have so many politicians seized so quickly on one idea.</ex>
+<ex>His suggestion was seized upon by Percival.</ex>
+<ex>The opposition seized on the event as evidence that the government had lost control.</ex>
+<note>1 or 2 concs without the `on' - mention?</note></sen></phr>
+<phr ord=3>seize up
+<sen uid=507296  ord=1 tag=up>
+<gr>vi + adv</gr>
+<def>(usually with reference to traffic or parts of the body) to become jammed, blocked, or unable to move</def>
+<ex>&ellip. California, where the freeways have begun to seize up.</ex>
+<ex>Someone said London would seize up before Christmas.</ex>
+<ex>Her back seized up and she was given traction.</ex>
+<see>
+<xtyp>See also sense 7 above.</xtyp></see></sen></phr></entry>

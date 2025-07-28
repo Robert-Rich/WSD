@@ -1,0 +1,55 @@
+
+<entry done=TRUE>sanction
+<lex>
+<sen uid=506385  ord=1 tag=econaction>
+<gr>n-pl</gr>
+<def>economic and/or other measures (not usually military) taken by a country or group of countries in order to coerce another to conform to an international agreement or norms of conduct</def>
+<ex>The MP .. has given his support to Government moves to relax sanctions against South Africa.
+<clues></clues></ex>
+<ex>Denmark joined Ireland in opposing any immediate lifting of the sanctions on new investment and on trade in gold bullion, iron and steel.
+<clues>= on [action]</clues></ex>
+<ex>The US continued to recognise Mr Delvalle and imposed economic sanctions on Panama.
+<clues>= on [country]</clues></ex>
+<sen uid=518740  ord=1a tag=econsing>
+<gr>n-sing; usu after mod</gr>
+<reg>infrequent</reg>
+<def>as a singular noun</def>
+<ex>Mussolini, it was alleged, would answer the oil sanction by war.
+<clues>mod =</clues></ex></sen></sen>
+<sen uid=506384  ord=2 tag=penalty>
+<gr>nc</gr>
+<def>a penalty for not complying with a rule or norm of behaviour; a coercive or punitive measure</def>
+<ex>The sanction against poor performance will be a lack of progress.
+<clues>= prep(against,for) [bad]</clues></ex>
+<ex>&ellip. sanctions against employers who refuse to re-employ or reinstate.
+<clues>= prep(against,on) [person]</clues></ex></sen>
+<sen uid=506383  ord=3 tag=approval>
+<gr>nu</gr>
+<reg>formal</reg>
+<def>approval of or encouragement for a course of action; express permission; official blessing</def>
+<ex>&ellip. the crucial breakthrough in obtaining official sanction for the project.
+<clues>adj[official] = for[action]</clues></ex>
+<ex>The Immigration Acts.. gave it [racial discrimination] the sanction of the state.
+<clues>v[give] = of [group]</clues></ex></sen>
+<sen uid=506644  ord=4 tag=power>
+<gr>nc; usu with adjunct</gr>
+<def>an effective power to approve or disapprove of an action; an ethical consideration which constrains behaviour</def>
+<ex>The German authorities want, in certain sensitive sectors such as defence and electronics, to retain a final sanction over mergers.
+<clues>subj[person] v[have, be] = (over, on) [action]</clues></ex>
+<ex>His knowledge is a sanction on the sexual behavior of all those who are in some sense attached to him.</ex>
+<note hidden=TRUE>quots are all a bit iffy</note></sen>
+<sen uid=506429  ord=5 tag=approve>
+<gr>vt; often pass</gr>
+<def>to give explicit approval to (an action or state of affairs)</def>
+<ex>What is the position where .. the parent or guardian refused to sanction further treatment?
+<clues>subj[person] = obj[action]</clues></ex>
+<ex>Any variation of the cash offer would have to be sanctioned by the Takeover Panel.</ex>
+<ex>Its shareholders cannot sanction pouring money into the black hole of estate agency for ever.
+<clues>obj/pres-part</clues></ex></sen>
+<sen uid=506460  ord=6 tag=penalize>
+<gr>vt</gr>
+<reg>infrequent</reg>
+<def>to apply a sanction to (an offending person or group)</def>
+<ex>Foreigners in France illegally should be sent home, their employers sanctioned and border controls tightened up.
+<clues>obj[person]</clues></ex>
+<note>one corpus line</note></sen></lex></entry>

@@ -1,0 +1,165 @@
+
+<entry done=TRUE>bet
+<lex>
+<sen uid=519914  ord=1 tag=wager>
+<gr>nc; often after `on"</gr>
+<def>an arrangement between two or more people whereby each risks a sum of money or property on the outcome of a race, competition, game, or other unpredictable event; also, the money or property so risked</def>
+<ex>One woman in Exeter placed a bet which stood to win just over &quid.10,000 for a &quid.1 stake.</ex>
+<ex>Hills stopped taking bets on Labour winning tomorrow's Mid-Staffordshire by-election.</ex>
+<ex>Only last night a bookmaker offered me a bet of &quid.25,000 to &quid.100 each way.</ex>
+<ex>&ellip. the punter, who staked &quid.30,000 bets in both cases.</ex>
+<sen uid=519917  ord=1.1 tag=bettee>
+<gr>nc; often after adj</gr>
+<def>the competitor, racehorse, outcome, etc. on which money is risked, considered in terms of the likelihood of success</def>
+<ex>At 7-4, the challenger looks a good bet.</ex>
+<ex>The best bets would appear to be SWING NORTH (2.15), MERTOLA'S PRIDE (2.45) and MADAME BOVARY (3.45) [sc. the names of horses].</ex></sen></sen>
+<sen uid=520057  ord=2 tag=speculation>
+<gr>nc; often with `on"</gr>
+<def>(in extended or hyperbolic use) an act of speculation or an opinion about an outcome or future situation</def>
+<ex>Though the next general election may be more than two years away, the markets have already started taking bets on the outcome.</ex>
+<ex>If I had to make a bet, it would be that next autumn's pre-conference Cabinet will see the die cast.</ex>
+<ex>The shares were described as an `interesting two-way bet". BAT will either unbundle itself or be unbundled.</ex>
+<ex>The clever money may be stacking against Alex Ferguson, but history suggests the Manchester United manager may today at least staunch the flow of bets that he will be sacked before the beginning of next season.</ex></sen>
+<sen uid=519913  ord=3 tag=advice>
+<gr>n-sing; usu after mod</gr>
+<def>(in expressions such as `be a good bet", `be one's best bet", `one's best bet is --", and so on)  (in giving advice or indicating  or advisability; referring to a choice that is likely to prove fruitful or the best of the options available)</def>
+<ex>Retailers know that in the current economic climate, the Northern Ireland economy is a good bet, with its low house prices, low mortgages, relatively high disposable incomes and a public sector cushion pumping in nearly half of the GNP.</ex>
+<ex>Maybe a cynical opportunist is a better bet than an idealist.</ex>
+<ex>The business community is probably our best bet because they do understand.</ex>
+<ex>So, is your best bet to buy junk and paint it white?</ex>
+<ex>The fallout in the after-market may determine whether the Government presses ahead with the more complex electricity privatisation or reverts to a safer bet and sells the rest of British Telecom.</ex></sen>
+<sen uid=519912  ord=4 tag=probability>
+<gr>phr/n</gr>
+<def>(in expressions such as `it is a fair bet that --", `-- is a safe bet", and variants) (in indicating  likelihood; referring to the probable course of events or real state of affairs)</def>
+<ex>It is a fair bet that you will not even have heard of the Concerto, much less know what it looks like.</ex>
+<ex>Whoever the caddie, the money will have been well earned; it is a safe bet that he or she will have had to struggle as hard as his or her player to get to the top of the tree.</ex>
+<ex>Warburg and BZW Securities look the only sure bets to be occupying the big-four seats.</ex></sen>
+<sen uid=519911  ord=5 tag=off>
+<idi>all bets are off</idi>
+<gr>phr/n</gr>
+<def>(indicating the certainty of an outcome and the removal of doubt or alternatives)</def>
+<ex>This was to have been a carve-up reflective of Ferrasse's absolute power. But suddenly all bets are off.
+<clues>all subj/= v/be off</clues></ex>
+<ex>In that case, they say, all bets are off for co-operation on the budget next year.</ex></sen>
+<sen uid=519910  ord=6 tag=hedge>
+<idi>hedge one's bets, cover one's bets</idi>
+<gr>phr/n</gr>
+<def>(of a person) to avoid committing oneself irrevocably, by making sure that alternatives are available</def>
+<ex>Some of the old party's members refused to recognise the new party, though they hedged their bets by saying they might consider applying for membership.
+<clues>v/(hedge,cover) obj/=</clues></ex>
+<ex>&ellip. to encourage co-operation among the various subject specialists &dash. most of whom eyed one another warily, hedging their bets until decisions were taken.</ex>
+<ex>Covering her bets, Penny gave the resort a tick for `plenty to do" but a cross for `parts unattractive".</ex></sen>
+<sen uid=519907  ord=7 tag=gamble>
+<gr>vi; often with `on" or `against"</gr>
+<def>(of a person) to risk a sum of money or property against another person's on the outcome of a race, competition, game, or other unpredictable event; to make a bet</def>
+<ex>You're never going to get extremely rich by betting on horses at very low odds.
+<clues hidden=TRUE>subj[person] = on prepobj/horse</clues></ex>
+<ex>They used to play two-up or bet on two flies crawling up a wall.</ex>
+<ex>The intention, the court was told, was to nobble horses that were either favourite or second favourite to win races and make money by betting against them winning.
+<clues hidden=TRUE>subj[person] = against</clues></ex>
+<ex>For those with an insatiable yen to bet, Top Sunrise, trained by Andre Fabre, who has few peers at preparing horse for overseas travel, could be the value at 12-1.</ex>
+<sen uid=519916  ord=7.1 tag=money>
+<gr>vt; often with `on"</gr>
+<def>(of a person) to risk (a sum of money or property) in this way</def>
+<ex>If you'd been betting a pound on each of those horses you'd have finished up substantially down.
+<clues hidden=TRUE>subj[person] = obj[person] on [competitor]</clues></ex>
+<ex>He bet his Rolls that we'd lose the title.
+<clues hidden=TRUE>subj[person] = obj[physobj]</clues></ex></sen>
+<sen uid=521071  tag=ditrans ord=7.2>
+<gr>vt, v-ditrans; usu with report-cl</gr>
+<def>(of a person) to make a bet with (another person) that a particular outcome will arise; also, to make a bet with (another person) of (the specified money or property)</def>
+<ex>My neighbour bet me that I would never be able to speak to you direct.
+<clues hidden=TRUE>subj[person] = obj[person]</clues></ex>
+<ex>I bet you &quid.500 he won't go beyond issuing the writ.
+<clues hidden=TRUE>subj[person] = obj[person] obj[money]</clues></ex>
+<note hidden=TRUE>performative</note></sen></sen>
+<sen uid=520051  ord=8 tag=speculate>
+<gr>vi; often with `on" or `against": also v; with report-cl</gr>
+<def>(in extended or hyperbolic use) (of a person) to be sufficiently sure of an outcome or future situation as to commit oneself verbally to it or to behave in accordance with it</def>
+<ex>Midland Montagu &ellip. has mismatched its books, betting on a fall in British interest rates when in fact they rose.</ex>
+<ex>He hopes to make it ten [wins] before he retires and few would bet against him achieving that.</ex>
+<ex>Cynics are betting that the romance is a huge publicity stunt to help sell the firm.</ex></sen>
+<sen uid=521282  ord=9>
+<gr>v</gr>
+<reg>informal</reg>
+<def>(in semi-fixed expressions, indicating degrees of certainty about a situation or hypothesis)</def>
+<sen uid=519908  ord=9.1 tag=think>
+<gr>v+report-cl; only in 1 sing</gr>
+<def>(as `I bet", `I'll bet", `I don't mind betting"; also with ellipsis of `I")</def>
+<ex>I bet you wish you were coming with us.</ex>
+<ex>I'll bet Kenny Daglish has never seen anything like this!</ex>
+<ex>Bet he didn't tell you anything, though.</ex>
+<ex>She'd be real surprised to see me, I bet.</ex>
+<ex>I don't mind betting that some day, sooner or later, it will be absolutely ghastly.</ex></sen>
+<sen uid=520048  ord=9.2 tag=assume>
+<gr>v+report-cl: also vi; with `on"</gr>
+<def>(as `you can bet", `you can bet your life", `be willing to bet", and so on)</def>
+<ex>You can bet it will be more expensive in London than Devon.</ex>
+<ex>The ticket collector was willing to bet it hadn't cost a penny less than forty guineas.</ex>
+<ex>You can bet your life he's a one-time friend of McCloy's.</ex>
+<ex>They weren't kids, Alex. Manic, you can bet your ass on it, but not kids.</ex></sen>
+<sen uid=520050  ord=9.3 tag=unlikely>
+<idi>I wouldn't bet on it, don't bet on it</idi>
+<gr>phr/v; interj</gr>
+<def>(indicating that the previous statement is or may be wrong)</def>
+<ex>Apoplectic Gubby &ellip. said Hardstaff would never play for England again. `I wouldn't bet on it," said Joe.
+<clues></clues></ex>
+<ex>Is Bampton set to become the gambling mecca of West Oxfordshire? Don't bet on it.</ex></sen></sen>
+<sen uid=519926  ord=10 tag=you>
+<idi>you bet</idi>
+<gr>phr/v; interj</gr>
+<reg>informal</reg>
+<def>(expressing agreement or acknowledgement)</def>
+<ex>`What we need is a Government that enables people to get rich." You bet.
+<clues></clues></ex></sen></lex></entry>
+
+<entry done=TRUE uid=519919>betting
+<lex>
+<sen ord=1 uid=519918  tag=activity>
+<gr>nu</gr>
+<def>the activity or business of risking money on the outcome of a race, competition, game, or other unpredictable event</def>
+<ex>No one appears to be in charge of betting in this country, and bookmakers appear to be able to do whatever they like.</ex>
+<ex>The subject of betting raises an entirely separate moral question of whether we are on the road to spawning a nation of compulsive gamblers.</ex>
+<ex>Betting on the National is very light as punters are waiting in case there is a change in the weather.</ex>
+<sen ord=1a uid=519925  tag=actmod>
+<gr>n-mod</gr>
+<def>modifying another noun</def>
+<ex>&ellip. a threat to the whole fabric of the racing and betting industries.</ex>
+<ex>&ellip. the pathetically weak on-course betting market at the Surrey track.</ex>
+<ex>The report also calls for a reduction in the 42.5 per cent betting tax that nets the Government #280 million a year.</ex></sen>
+<sen ord=1.1 uid=520056  tag=odds>
+<gr>nu</gr>
+<def>the odds offered by bookmakers on the result of a race, competition, or game</def>
+<ex>Latest betting: 7-1 Terminator, 10-1 Becquerel, 12-1 Ottergayle, 14-1 Kiya &and. Polyroll, 16-1 Sleepline Fantasy &and. Sylvan Tempest.</ex>
+<ex>&ellip. Golden Pheasant and French Glory [sc. horses], who now occupy prominent positions in the Arc betting.</ex></sen>
+<sen ord=1.2 uid=520894  tag=chances>
+<idi>in the betting</idi>
+<gr>phr/n</gr>
+<def>(especially in bookmaking contexts) (of a racehorse or contestant) likely to be amongst the winners</def>
+<ex>One time favourite, A Prayer For Wings, is back in the betting and is quoted at 6-1 `with a run."</ex>
+<note hidden=TRUE>most exx for this and following phrase relate to bookmaking, but phr has general reference too</note></sen>
+<sen uid=521347  tag=chancesout ord=1.3>
+<idi>out of the betting</idi>
+<gr>phr/n</gr>
+<def>(especially in bookmaking contexts) (of a racehorse or contestant) unlikely to be amongst the winners</def>
+<ex>With Envopak Token out of the betting, the major bookmaking firms further reduced the odds of the favourite, Brown Windsor.</ex></sen></sen>
+<sen ord=2 uid=520895  tag=likelihood>
+<gr>n-sing; after `the"</gr>
+<def>(in extended or hyperbolic use, especially in the expression `the betting is") likelihood; the probable outcome or situation</def>
+<ex>The betting is that she won't want to allow Mr Heseltine to go on quartering the country in his chauffeur-driven Jaguar, winning the hearts and minds of the Conservative Party as their alternative leader.</ex>
+<ex>The betting once more is on General Aoun's diplomatic departure.</ex>
+<sen ord=2.1 uid=520892  tag=whats>
+<idi>what's the betting?</idi>
+<gr>phr/n; with report-cl</gr>
+<reg>informal</reg>
+<def>(in expressing suppositions, indicating the hypotheticality of an opinion)</def>
+<ex>What's the betting this McCoy's running a big racket?</ex></sen></sen></lex></entry>
+
+<entry done=TRUE uid=521323>betting shop
+<lex>
+<sen uid=521322  tag=shop>
+<gr>nc</gr>
+<reg>British</reg>
+<def>a bookmaker's shop or office</def>
+<ex>The defendant and another man robbed a betting shop in East London.
+<clues>=</clues></ex></sen></lex></entry>
